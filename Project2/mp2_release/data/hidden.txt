@@ -1,0 +1,500 @@
+if the person you want to talk to does n't want to talk to you , s/he always has the option of simply not responding to your message , as , from your point of view , this is indistinguishable from him or her simply being away from the computer . ||| SCONJ DET NOUN PRON VERB PART VERB ADP AUX PART VERB PART VERB ADP PRON PUNCT PRON ADV VERB DET NOUN SCONJ ADV PART VERB ADP PRON NOUN PUNCT SCONJ PUNCT ADP PRON NOUN ADP NOUN PUNCT PRON AUX ADJ SCONJ PRON CCONJ PRON ADV VERB ADV ADP DET NOUN PUNCT
+This being said , if you barely know someone , it can be a good idea to have an excuse for starting a conversation to avoid awkwardness . ||| PRON AUX VERB PUNCT SCONJ PRON ADV VERB PRON PUNCT PRON AUX AUX DET ADJ NOUN PART VERB DET NOUN SCONJ VERB DET NOUN PART VERB NOUN PUNCT
+Asking for help with a work or school - related problem is almost always a good bet , as is asking a question about something striking about the person . ||| VERB ADP NOUN ADP DET NOUN CCONJ NOUN PUNCT ADJ NOUN AUX ADV ADV DET ADJ NOUN PUNCT SCONJ VERB VERB DET NOUN ADP PRON VERB ADP DET NOUN PUNCT
+For instance , if the person has a band - related username , you might say : " Hey , cool name . Did you see those guys when they last came to town ? " ||| ADP NOUN PUNCT SCONJ DET NOUN VERB DET NOUN PUNCT ADJ NOUN PUNCT PRON AUX VERB PUNCT PUNCT INTJ PUNCT ADJ NOUN PUNCT AUX PRON VERB DET NOUN ADV PRON ADV VERB ADP NOUN PUNCT PUNCT
+Start small talk . ||| VERB ADJ NOUN PUNCT
+After your initial greeting and exchange of pleasantries , you 'll probably want to ask how the person 's doing ( just like you might in the real world ) . ||| ADP PRON ADJ NOUN CCONJ NOUN ADP NOUN PUNCT PRON AUX ADV VERB PART VERB ADV DET NOUN AUX VERB PUNCT ADV SCONJ PRON AUX ADP DET ADJ NOUN PUNCT PUNCT
+Ask him or her about work or school , his / her interests , or any recent trips , for instance . ||| VERB PRON CCONJ PRON ADP NOUN CCONJ NOUN PUNCT PRON SYM PRON NOUN PUNCT CCONJ DET ADJ NOUN PUNCT ADP NOUN PUNCT
+Rather than asking a question , you can also simply offer your comments on these things . ||| ADV ADP VERB DET NOUN PUNCT PRON AUX ADV ADV VERB PRON NOUN ADP DET NOUN PUNCT
+When s/he responds , add your own comments or ask follow - up questions and proceed from there ! ||| ADV PRON VERB PUNCT VERB PRON ADJ NOUN CCONJ VERB NOUN PUNCT ADP NOUN CCONJ VERB ADP ADV PUNCT
+Do n't pry into his or her personal life — keep things light , fun , and focused on worry - free subjects . ||| AUX PART VERB ADP PRON CCONJ PRON ADJ NOUN PUNCT VERB NOUN ADJ PUNCT ADJ PUNCT CCONJ VERB ADP NOUN PUNCT ADJ NOUN PUNCT
+Do n't dwell too long on small talk . ||| AUX PART VERB ADV ADV ADP ADJ NOUN PUNCT
+A minute or two is great for breaking the ice , but much more can get boring fast . ||| DET NOUN CCONJ NUM AUX ADJ SCONJ VERB DET NOUN PUNCT CCONJ ADV ADJ AUX VERB ADJ ADV PUNCT
+For example , after we 've opened up by asking about this person 's interest in the band in his / her username , it 's logical and reasonable to ask about this person 's musical likes and dislikes . ||| ADP NOUN PUNCT SCONJ PRON AUX VERB ADP SCONJ VERB ADP DET NOUN PART NOUN ADP DET NOUN ADP PRON SYM PRON NOUN PUNCT PRON AUX ADJ CCONJ ADJ PART VERB ADP DET NOUN PART ADJ NOUN CCONJ NOUN PUNCT
+You can even offer your own opinions and suggestions . ||| PRON AUX ADV VERB PRON ADJ NOUN CCONJ NOUN PUNCT
+Joke . ||| VERB PUNCT
+Everyone likes a good sense of humor . ||| PRON VERB DET ADJ NOUN ADP NOUN PUNCT
+In the immortal words of Marilyn Monroe , " If you can make a woman laugh , you can make her do anything " ( do n't worry , ladies — the same is true for men ! ) ||| ADP DET ADJ NOUN ADP PROPN PROPN PUNCT PUNCT SCONJ PRON AUX VERB DET NOUN VERB PUNCT PRON AUX VERB PRON VERB PRON PUNCT PUNCT AUX PART VERB PUNCT NOUN PUNCT DET ADJ AUX ADJ ADP NOUN PUNCT PUNCT
+Try to be playful and even slightly sarcastic as you respond to the statements of the person you 're talking to . ||| VERB PART AUX ADJ CCONJ ADV ADV ADJ SCONJ PRON VERB ADP DET NOUN ADP DET NOUN PRON AUX VERB ADP PUNCT
+These responses have the added benefit of being natural launching points for conversations about your hobbies , like the writing you 're doing on the side and the great bourbon you tasted the other day . ||| DET NOUN VERB DET ADJ NOUN SCONJ AUX ADJ NOUN NOUN ADP NOUN ADP PRON NOUN PUNCT ADP DET NOUN PRON AUX VERB ADP DET NOUN CCONJ DET ADJ NOUN PRON VERB DET ADJ NOUN PUNCT
+In our example conversation , you might work a joke or two into your music - related small talk . ||| ADP PRON NOUN NOUN PUNCT PRON AUX VERB DET NOUN CCONJ NUM ADP PRON NOUN PUNCT ADJ ADJ NOUN PUNCT
+For instance , you might say something like , " I do n't know why every song on the radio nowadays has a Texas Flynn feature . Does he even have time to record between rehab stints ? " ||| ADP NOUN PUNCT PRON AUX VERB PRON ADP PUNCT PUNCT PRON AUX PART VERB ADV DET NOUN ADP DET NOUN ADV VERB DET PROPN PROPN NOUN PUNCT VERB PRON ADV VERB NOUN PART VERB ADP NOUN NOUN PUNCT PUNCT
+Part 2 of 2 : Flirting Don'ts ||| NOUN NUM ADP NUM PUNCT NOUN NOUN
+Do n't be too self - deprecating . ||| AUX PART AUX ADV PRON PUNCT ADJ PUNCT
+Simply put , confidence is sexy . ||| ADV VERB PUNCT NOUN AUX ADJ PUNCT
+For instance , you 'll want to avoid making lots of jokes at your own expense . ||| ADP NOUN PUNCT PRON AUX VERB PART VERB VERB NOUN ADP NOUN ADP PRON ADJ NOUN PUNCT
+Just one is plenty — it should n't be a recurring theme throughout your conversation . ||| ADV NUM AUX ADJ PUNCT PRON AUX PART AUX DET VERB NOUN ADP PRON NOUN PUNCT
+Doing this too often can quickly turn an otherwise flirtatious conversation into one in which you appear needy and self - loathing . ||| VERB PRON ADV ADV AUX ADV VERB DET ADV ADJ NOUN ADP NUM ADP PRON PRON VERB ADJ CCONJ NOUN PUNCT NOUN PUNCT
+On the other hand , this is n't to say that you should necessarily make jokes at other people 's expense , as this can make you seem mean and petty . ||| ADP DET ADJ NOUN PUNCT PRON AUX PART PART VERB SCONJ PRON AUX ADV VERB NOUN ADP ADJ NOUN PART NOUN PUNCT SCONJ PRON AUX VERB PRON VERB ADJ CCONJ ADJ PUNCT
+Any sort of pointed or caustic remarks about yourself or someone else do n't have a place in flirtatious conversations . ||| DET NOUN ADP ADJ CCONJ ADJ NOUN ADP PRON CCONJ PRON ADV AUX PART VERB DET NOUN ADP ADJ NOUN PUNCT
+Do n't be too sappy . ||| AUX PART AUX ADV ADJ PUNCT
+People like flirting to be fun . ||| NOUN VERB NOUN PART AUX ADJ PUNCT
+For most people , receiving compliments is only fun up to a point — getting more than one or two can make someone feel embarrassed and self - conscious . ||| ADP ADJ NOUN PUNCT VERB NOUN AUX ADV ADJ ADP ADP DET NOUN PUNCT VERB ADV ADP NUM CCONJ NUM AUX VERB PRON VERB ADJ CCONJ NOUN PUNCT ADJ PUNCT
+It can also make him or her question your motives , leading the person to believe that you may be trying to get something out of him or her . ||| PRON AUX ADV VERB PRON CCONJ PRON VERB PRON NOUN PUNCT VERB DET NOUN PART VERB SCONJ PRON AUX AUX VERB PART VERB PRON ADP ADP PRON CCONJ PRON PUNCT
+Besides , the wooing power of flowery , gushing compliments is diminished ( to say the least ) when the compliments are displayed in a tiny box at the bottom of the screen alongside cartoon smiley faces . ||| ADV PUNCT DET VERB NOUN ADP ADJ PUNCT VERB NOUN AUX VERB PUNCT PART VERB DET ADJ PUNCT ADV DET NOUN AUX VERB ADP DET ADJ NOUN ADP DET NOUN ADP DET NOUN ADP NOUN ADJ NOUN PUNCT
+Instead of relying too heavily on compliments , instead , focus on having an engaging , genuine conversation . ||| ADV ADP VERB ADV ADV ADP NOUN PUNCT ADV PUNCT VERB SCONJ VERB DET ADJ PUNCT ADJ NOUN PUNCT
+Follow the mantra " show , do n't tell . " ||| VERB DET NOUN PUNCT VERB PUNCT AUX PART VERB PUNCT PUNCT
+In other words , show that you 're attracted to this person by giving him or her a great conversation , not by stating it outright . ||| ADP ADJ NOUN PUNCT VERB SCONJ PRON AUX VERB ADP DET NOUN SCONJ VERB PRON CCONJ PRON DET ADJ NOUN PUNCT PART SCONJ VERB PRON ADV PUNCT
+How to Make a Glowstick ||| ADV PART VERB DET NOUN
+Those glowing Mountain Dew videos with peroxide and baking soda are all hoaxes . ||| DET ADJ PROPN PROPN NOUN ADP NOUN CCONJ NOUN NOUN AUX ADV NOUN PUNCT
+If you 're still curious , read on . ||| SCONJ PRON AUX ADV ADJ PUNCT VERB ADV PUNCT
+This is fun for anyone and everyone . ||| PRON AUX ADJ ADP PRON CCONJ PRON PUNCT
+Method One of Two : Using Luminol ||| NOUN NUM ADP NUM PUNCT VERB PROPN
+Put on protective glasses . ||| VERB ADP ADJ NOUN PUNCT
+In addition , wear gloves to protect your skin . ||| ADP NOUN PUNCT VERB NOUN PART VERB PRON NOUN PUNCT
+It 's also a good idea to not wear your Sunday best . ||| PRON AUX ADV DET ADJ NOUN PART PART VERB PRON PROPN NOUN PUNCT
+Throw on some old clothes or put a smock over clothes you want protected . ||| VERB ADP DET ADJ NOUN CCONJ VERB DET NOUN ADP NOUN PRON VERB VERB PUNCT
+Some of this stuff is dangerous -- this experiment is not meant for children ! ||| DET ADP DET NOUN AUX ADJ PUNCT DET NOUN AUX PART VERB ADP NOUN PUNCT
+Listen up , kids : You 'll be working with a solution that 's near a 12 on the pH scale . ||| VERB ADP PUNCT NOUN PUNCT PRON AUX AUX VERB ADP DET NOUN PRON VERB ADP DET NUM ADP DET NOUN NOUN PUNCT
+That basically means do n't swallow it , do n't put it in your eyes , do n't bathe in it , and do n't really expose yourself to it directly at all . ||| PRON ADV VERB AUX PART VERB PRON PUNCT AUX PART VERB PRON ADP PRON NOUN PUNCT AUX PART VERB ADP PRON PUNCT CCONJ AUX PART ADV VERB PRON ADP PRON ADV ADP DET PUNCT
+Got it ? ||| VERB PRON PUNCT
+Moving on . ||| VERB ADP PUNCT
+Combine 50 milliliters of hydrogen peroxide and a liter of distilled water in a mixing bowl . ||| VERB NUM NOUN ADP NOUN NOUN CCONJ DET NOUN ADP VERB NOUN ADP DET NOUN NOUN PUNCT
+A ceramic bowl will work best , but plastic works too . ||| DET ADJ NOUN AUX VERB ADV PUNCT CCONJ ADJ VERB ADV PUNCT
+Use funnels , measuring tubes , and basters to keep everything well - measured and well away from you . ||| VERB NOUN PUNCT NOUN NOUN PUNCT CCONJ NOUN PART VERB PRON ADV PUNCT VERB CCONJ ADV ADV ADP PRON PUNCT
+Hydrogen peroxide is used to replace the luminol 's nitrogen atoms with oxygen . ||| NOUN NOUN AUX VERB PART VERB DET NOUN PART NOUN NOUN ADP NOUN PUNCT
+When that happens , all the substances create a rave and start partying and electrons fly everywhere and what results ? ||| ADV PRON VERB PUNCT DET DET NOUN VERB DET NOUN CCONJ VERB VERB CCONJ NOUN VERB ADV CCONJ PRON VERB PUNCT
+The glow . ||| DET NOUN PUNCT
+Mix .2 grams of luminol , 4 grams of sodium carbonate , .4 grams of copper sulfate , .5 grams of ammonium carbonate and 1 liter ( 0.3 US gal ) of distilled water in a second bowl . ||| VERB NUM NOUN ADP NOUN PUNCT NUM NOUN ADP NOUN NOUN PUNCT NUM NOUN ADP NOUN NOUN PUNCT NUM NOUN ADP NOUN NOUN CCONJ NUM NOUN PUNCT NUM PROPN NOUN PUNCT ADP VERB NOUN ADP DET ADJ NOUN PUNCT
+It is important not to touch the luminol . ||| PRON AUX ADJ PART PART VERB DET NOUN PUNCT
+Use a funnel to make everything safe and easy . ||| VERB DET NOUN PART VERB PRON ADJ CCONJ ADJ PUNCT
+Unfortunately , these hazardous chemicals will not float freely in mid-air like this graphic suggests . ||| ADV PUNCT DET ADJ NOUN AUX PART VERB ADV ADP NOUN SCONJ DET NOUN VERB PUNCT
+Yep , unless you 're a coroner or some sort of crazy spy / criminologist you probably do n't have this stuff lying around the house ( hopefully not ... ) . ||| INTJ PUNCT SCONJ PRON AUX DET NOUN CCONJ DET NOUN ADP ADJ NOUN SYM NOUN PRON ADV AUX PART VERB DET NOUN VERB ADP DET NOUN PUNCT ADV PART PUNCT PUNCT PUNCT
+If you 're dead set on starting your own glowstick business ( worse ideas exist ) , try websites like Alfa Aesar [ 1 ] or Sigma Aldrich [ 2 ] for supplies . ||| SCONJ PRON AUX ADV VERB SCONJ VERB PRON ADJ NOUN NOUN PUNCT ADJ NOUN VERB PUNCT PUNCT VERB NOUN ADP PROPN PROPN PUNCT NUM PUNCT CCONJ NOUN PROPN PUNCT NUM PUNCT ADP NOUN PUNCT
+Mix everything well . ||| VERB PRON ADV PUNCT
+Do n't use your hands -- use a metal or plastic utensil of some sort . ||| AUX PART VERB PRON NOUN PUNCT VERB DET NOUN CCONJ ADJ NOUN ADP DET NOUN PUNCT
+Clean the containers and dry them thoroughly . ||| VERB DET NOUN CCONJ VERB PRON ADV PUNCT
+It 's important to use sanitary , clean tubes for your glowsticks . ||| PRON AUX ADJ PART VERB ADJ PUNCT ADJ NOUN ADP PRON NOUN PUNCT
+The last thing you want is other substances interacting with the reactions you 're depending on to make the substances glow . ||| DET ADJ NOUN PRON VERB AUX ADJ NOUN VERB ADP DET NOUN PRON AUX VERB ADP PART VERB DET NOUN VERB PUNCT
+Set the correct lid next to each container . ||| VERB DET ADJ NOUN ADV ADP DET NOUN PUNCT
+This enables you to seal the containers quickly after filling . ||| PRON VERB PRON PART VERB DET NOUN ADV SCONJ VERB PUNCT
+It 's not like the glow will get up and run away from you , but still . ||| PRON AUX PART ADP DET NOUN AUX VERB ADP CCONJ VERB ADV ADP PRON PUNCT CCONJ ADV PUNCT
+Combine equal amounts of the first and second solution in the container and close the bottles . ||| VERB ADJ NOUN ADP DET ADJ CCONJ ADJ NOUN ADP DET NOUN CCONJ VERB DET NOUN PUNCT
+Shake them up once the lids are on tightly . ||| VERB PRON ADP SCONJ DET NOUN AUX ADJ ADV PUNCT
+Then turn off the lights ! ||| ADV VERB ADP DET NOUN PUNCT
+If it 's not already glowing , something went wrong . ||| SCONJ PRON AUX PART ADV VERB PUNCT PRON VERB ADJ PUNCT
+Do over ! ||| VERB ADP PUNCT
+Watch as the chemical compound creates a colorful glow . ||| VERB SCONJ DET NOUN NOUN VERB DET ADJ NOUN PUNCT
+Take your glowsticks to the party and charge your friends loads of money for them ! ||| VERB PRON NOUN ADP DET NOUN CCONJ VERB PRON NOUN NOUN ADP NOUN ADP PRON PUNCT
+But act quickly ... ||| CCONJ VERB ADV PUNCT
+the glow wo n't last very long . ||| DET NOUN AUX PART VERB ADV ADV PUNCT
+Expectations crushed ? ||| NOUN VERB PUNCT
+Method two to the rescue ! ||| NOUN NUM ADP DET NOUN PUNCT
+The reaction that the luminol and hydrogen peroxide creates does n't last long at all -- maybe a couple of minutes . ||| DET NOUN PRON DET NOUN CCONJ NOUN NOUN VERB AUX PART VERB ADV ADP DET PUNCT ADV DET NOUN ADP NOUN PUNCT
+For something that lasts hours , go to the next method ( which is a lot easier to facilitate if you have access to a laboratory , but it 's still worth mentioning ) . ||| ADP PRON PRON VERB NOUN PUNCT VERB ADP DET ADJ NOUN PUNCT PRON AUX DET ADV ADJ PART VERB SCONJ PRON VERB NOUN ADP DET NOUN PUNCT CCONJ PRON AUX ADV ADJ VERB PUNCT PUNCT
+Method 2 of 2 : Using Grammar ||| NOUN NUM ADP NUM PUNCT VERB NOUN
+Name your language . ||| VERB PRON NOUN PUNCT
+This is the most fundamental property in all languages . ||| PRON AUX DET ADV ADJ NOUN ADP DET NOUN PUNCT
+You have many names to choose from . ||| PRON VERB ADJ NOUN PART VERB ADP PUNCT
+You can even use a made up word from your made up language like ' Victory ' or ' Great Language ' . ||| PRON AUX ADV VERB DET VERB ADP NOUN ADP PRON VERB ADP NOUN ADP PUNCT PROPN PUNCT CCONJ PUNCT PROPN PROPN PUNCT PUNCT
+The choice is all yours . ||| DET NOUN AUX ADV PRON PUNCT
+Start off with the highly frequently used words such as ' and ' or ' I ' or ' one ' or ' the ' . ||| VERB ADP ADP DET ADV ADV VERB NOUN ADJ ADP PUNCT CCONJ PUNCT CCONJ PUNCT PRON PUNCT CCONJ PUNCT NUM PUNCT CCONJ PUNCT DET PUNCT PUNCT
+It is recommend that you use short words since they are commonly used . ||| PRON AUX VERB SCONJ PRON VERB ADJ NOUN SCONJ PRON AUX ADV VERB PUNCT
+Start thinking about the grammar rules . ||| VERB VERB ADP DET NOUN NOUN PUNCT
+For example if the word Bird is ' Vogelaviatiolap ' then why not make the word Birds ' Vogelaviatiolaps ' since the suffix ' s ' is added at the end for most languages at plurals . ||| ADP NOUN SCONJ DET NOUN NOUN AUX PUNCT X PUNCT ADV ADV PART VERB DET NOUN NOUN PUNCT X PUNCT SCONJ DET NOUN PUNCT X PUNCT AUX VERB ADP DET NOUN ADP ADJ NOUN ADP NOUN PUNCT
+If you want to add complication , you can add genders like most European languages like French and German . ||| SCONJ PRON VERB PART VERB NOUN PUNCT PRON AUX VERB NOUN ADP ADJ ADJ NOUN ADP PROPN CCONJ PROPN PUNCT
+For example , if you want the word ' horse ' to be a boy , you may want ' the horse ' to be ' Mat Fereder ' , but a ' cat ' to be a girl , you may want , ' the cat ' to be ' Fet Kamaow ' . ||| ADP NOUN PUNCT SCONJ PRON VERB DET NOUN PUNCT NOUN PUNCT PART AUX DET NOUN PUNCT PRON AUX VERB PUNCT DET NOUN PUNCT PART AUX PUNCT DET X PUNCT PUNCT CCONJ DET PUNCT NOUN PUNCT PART AUX DET NOUN PUNCT PRON AUX VERB PUNCT PUNCT DET NOUN PUNCT PART AUX PUNCT X X PUNCT PUNCT
+Consider basing your language on an existing language . ||| VERB VERB PRON NOUN ADP DET VERB NOUN PUNCT
+For example , in my made up language , ' Vogelaviatiolap ' means Bird . ||| ADP NOUN PUNCT ADP PRON VERB ADP NOUN PUNCT PUNCT X PUNCT VERB NOUN PUNCT
+If you have n't guessed , it comes from the following : ||| SCONJ PRON AUX PART VERB PUNCT PRON VERB ADP DET VERB PUNCT
+' aviatio ' comes from English . ||| PUNCT X PUNCT VERB ADP PROPN PUNCT
+It 's uncompleted though , because the word is part of the term ' aviation ' ||| PRON AUX ADJ ADV PUNCT SCONJ DET NOUN AUX NOUN ADP DET NOUN PUNCT NOUN PUNCT
+' lap ' comes from Onomatopoeia . ||| PUNCT X PUNCT VERB ADP NOUN PUNCT
+It 's a completed term , but it is supposed to come from ' Flap ! ' ||| PRON AUX DET ADJ NOUN PUNCT CCONJ PRON AUX VERB PART VERB ADP PUNCT NOUN PUNCT PUNCT
+Consider basing some of your words from other words you have invented . ||| VERB VERB DET ADP PRON NOUN ADP ADJ NOUN PRON AUX VERB PUNCT
+Get inspiration from existing alphabets and words . ||| VERB NOUN ADP VERB NOUN CCONJ NOUN PUNCT
+Why not add some non Latin Characters such as ß ? ||| ADV PART VERB DET ADV ADJ NOUN ADJ ADP SYM PUNCT
+You can even take some words of languages , altering them or not . ||| PRON AUX ADV VERB DET NOUN ADP NOUN PUNCT VERB PRON CCONJ PART PUNCT
+Using the dictionary can ensure you not missing a single word . ||| VERB DET NOUN AUX VERB PRON PART VERB DET ADJ NOUN PUNCT
+Keep track of all your ||| VERB NOUN ADP DET PRON
+Remember to write down your creations ! ||| VERB PART VERB ADP PRON NOUN PUNCT
+Use your language . ||| VERB PRON NOUN PUNCT
+Get used to using it yourself , and spread it to others . ||| AUX VERB SCONJ VERB PRON PRON PUNCT CCONJ VERB PRON ADP NOUN PUNCT
+Once you feel confident about your language , experiment and expand : ||| SCONJ PRON VERB ADJ ADP PRON NOUN PUNCT VERB CCONJ VERB PUNCT
+Grab a book / novel and translate it to your own language . ||| VERB DET NOUN SYM NOUN CCONJ VERB PRON ADP PRON ADJ NOUN PUNCT
+Teach your friends this new language . ||| VERB PRON NOUN DET ADJ NOUN PUNCT
+As soon as your friends understand your language , communicate to them with it . ||| ADV ADV SCONJ PRON NOUN VERB PRON NOUN PUNCT VERB ADP PRON ADP PRON PUNCT
+Be fluent in your own made up language and start spreading this to your friends , family and strangers ! ||| AUX ADJ ADP PRON ADJ VERB ADP NOUN CCONJ VERB VERB PRON ADP PRON NOUN PUNCT NOUN CCONJ NOUN PUNCT
+Write your own poem / novel / story with your own made up language . ||| VERB PRON ADJ NOUN SYM NOUN SYM NOUN ADP PRON ADJ VERB ADP NOUN PUNCT
+If you 're really ambitious , set a goal of helping others become fluent in the language . ||| SCONJ PRON AUX ADV ADJ PUNCT VERB DET NOUN SCONJ VERB NOUN VERB ADJ ADP DET NOUN PUNCT
+One day , maybe you can make it the official language of a country ! ||| NUM NOUN PUNCT ADV PRON AUX VERB PRON DET ADJ NOUN ADP DET NOUN PUNCT
+Tips ||| NOUN
+Make sure that it is a language that while speaking , you do n't get a literal knot in your tongue ! ||| VERB ADJ SCONJ PRON AUX DET NOUN PRON SCONJ VERB PUNCT PRON AUX PART VERB DET ADJ NOUN ADP PRON NOUN PUNCT
+Remember you should know how to write it . ||| VERB PRON AUX VERB ADV PART VERB PRON PUNCT
+For example we write it from left to right , in Arabic it 's right to left , Chinese is in columns , and so on . ||| ADP NOUN PRON VERB PRON ADP NOUN ADP NOUN PUNCT ADP PROPN PRON AUX NOUN ADP NOUN PUNCT PROPN VERB ADP NOUN PUNCT CCONJ ADV ADV PUNCT
+Make sure that you and your friend(s) all follow a systematic language system . ||| VERB ADJ SCONJ PRON CCONJ PRON NOUN ADV VERB DET ADJ NOUN NOUN PUNCT
+In other words , make sure that you follow the same guidelines . ||| ADP ADJ NOUN PUNCT VERB ADJ SCONJ PRON VERB DET ADJ NOUN PUNCT
+Do n't use random letters . ||| AUX PART VERB ADJ NOUN PUNCT
+It should make some sense , so that it will be easier to learn and speak with [ Example : Do n't use oh as e , hello as llo , and See ya as c yah ) . ||| PRON AUX VERB DET NOUN PUNCT SCONJ ADP PRON AUX AUX ADJ PART VERB CCONJ VERB ADP PUNCT NOUN PUNCT AUX PART VERB INTJ ADP X PUNCT INTJ ADP X PUNCT CCONJ VERB PRON ADV X X PUNCT PUNCT
+Make sure you practice saying and spelling out many basic words in your language , English examples : is , who , when , of , why , if , what , where , can , may , etc. ||| VERB ADJ PRON VERB VERB CCONJ VERB ADP ADJ ADJ NOUN ADP PRON NOUN PUNCT ADJ NOUN PUNCT VERB PUNCT PRON PUNCT ADV PUNCT ADP PUNCT ADV PUNCT ADP PUNCT PRON PUNCT ADV PUNCT AUX PUNCT AUX PUNCT NOUN
+When starting off , follow closely to a language you like . ||| ADV VERB ADP PUNCT VERB ADV ADP DET NOUN PRON VERB PUNCT
+This will make grammar much easier to make . ||| PRON AUX VERB NOUN ADV ADJ PART VERB PUNCT
+You must avoid simply copying the grammar rules , however , as this would technically turn your language into a code . ||| PRON AUX VERB ADV VERB DET NOUN NOUN PUNCT ADV PUNCT SCONJ PRON AUX ADV VERB PRON NOUN ADP DET NOUN PUNCT
+Practice your language frequently so that you do n't forget it ! ||| VERB PRON NOUN ADV SCONJ ADP PRON AUX PART VERB PRON PUNCT
+Do n't forget punctuation ! ||| AUX PART VERB NOUN PUNCT
+As a shortcut , and for a bit of interesting background , add connotation to various letters , preferably vowels . ||| ADP DET NOUN PUNCT CCONJ ADP DET NOUN ADP ADJ NOUN PUNCT VERB NOUN ADP ADJ NOUN PUNCT ADV NOUN PUNCT
+To do this , think of various words that begin with / have a lot of a certain vowel . ||| PART VERB PRON PUNCT VERB ADP ADJ NOUN PRON VERB ADP SYM VERB DET NOUN ADP DET ADJ NOUN PUNCT
+For example : austere , acrimony , ebullient , embolden ; in this case , the vowel A might carry with it a negative meaning , whereas E would be positive . ||| ADP NOUN PUNCT ADJ PUNCT NOUN PUNCT ADJ PUNCT VERB PUNCT ADP DET NOUN PUNCT DET NOUN SYM AUX VERB ADP PRON DET ADJ NOUN PUNCT SCONJ NOUN AUX AUX ADJ PUNCT
+Then , even if you forget your own words without the help of your dictionary , you could still make a good guess based on the composition of the letters . ||| ADV PUNCT ADV SCONJ PRON VERB PRON ADJ NOUN ADP DET NOUN ADP PRON NOUN PUNCT PRON AUX ADV VERB DET ADJ NOUN VERB ADP DET NOUN ADP DET NOUN PUNCT
+We do n't want a knot in your tongue after speaking to your friends . ||| PRON AUX PART VERB DET NOUN ADP PRON NOUN SCONJ VERB ADP PRON NOUN PUNCT
+Just put marks over the letters or make up something right on the spot , you might have to take some time on this ! ||| ADV VERB NOUN ADP DET NOUN CCONJ VERB ADP PRON ADV ADP DET NOUN PUNCT PRON AUX VERB PART VERB DET NOUN ADP PRON PUNCT
+Basing letters on objects ( pictographs ) is an easy way to start a writing system . ||| VERB NOUN ADP NOUN PUNCT NOUN PUNCT AUX DET ADJ NOUN PART VERB DET NOUN NOUN PUNCT
+Try this with a group of friends . ||| VERB PRON ADP DET NOUN ADP NOUN PUNCT
+It 's much more fun when there are other people that can understand your language . ||| PRON AUX ADV ADV ADJ ADV PRON VERB ADJ NOUN PRON AUX VERB PRON NOUN PUNCT
+Email or text your friends the language so that they wo n't be so confused . ||| VERB CCONJ VERB PRON NOUN DET NOUN SCONJ ADP PRON AUX PART AUX ADV VERB PUNCT
+When making a writing system , take a break about every five minutes and come back to it or all your letters will begin to look identical . ||| ADV VERB DET NOUN NOUN PUNCT VERB DET NOUN ADV DET NUM NOUN CCONJ VERB ADV ADP PRON CCONJ DET PRON NOUN AUX VERB PART VERB ADJ PUNCT
+If you want to make other languages , you can use this language as a model and change some letters or sounds to create a different language . ||| SCONJ PRON VERB PART VERB ADJ NOUN PUNCT PRON AUX VERB DET NOUN ADP DET NOUN CCONJ VERB DET NOUN CCONJ NOUN PART VERB DET ADJ NOUN PUNCT
+This makes your first language a proto-language — a language that branches off into a family of languages . ||| PRON VERB PRON ADJ NOUN DET NOUN PUNCT DET NOUN PRON VERB ADP ADP DET NOUN ADP NOUN PUNCT
+How to Pack Your Possessions When Moving ||| ADV PART VERB PRON NOUN ADV VERB
+Even if you ca n't wait to live in your new house , curb your enthusiasm and resist the urge to cram all your possessions any which way into boxes . ||| ADV SCONJ PRON AUX PART VERB PART VERB ADP PRON ADJ NOUN PUNCT VERB PRON NOUN CCONJ VERB DET NOUN PART VERB DET PRON NOUN DET DET NOUN ADP NOUN PUNCT
+Steps ||| NOUN
+Pack one room at a time if possible , and start with items that are least often used . ||| VERB NUM NOUN ADP DET NOUN SCONJ ADJ PUNCT CCONJ VERB ADP NOUN PRON AUX ADV ADV VERB PUNCT
+Write down a list of everything you are packing , in particular if it 's valuable . ||| VERB ADP DET NOUN ADP PRON PRON AUX VERB PUNCT ADP ADJ SCONJ PRON AUX ADJ PUNCT
+Books , CDs , expensive clothes . ||| NOUN PUNCT NOUN PUNCT ADJ NOUN PUNCT
+Also , take note of which item is in which box . ||| ADV PUNCT VERB NOUN SCONJ DET NOUN AUX ADP DET NOUN PUNCT
+Use sturdy boxes . ||| VERB ADJ NOUN PUNCT
+Fill the box to the brim and seal the lid . ||| VERB DET NOUN ADP DET NOUN CCONJ VERB DET NOUN PUNCT
+That way , you can easily stack boxes on top of one another . ||| DET NOUN PUNCT PRON AUX ADV VERB NOUN ADP NOUN ADP PRON DET PUNCT
+Tape the bottom of the box securely so that it does n't give way . ||| VERB DET NOUN ADP DET NOUN ADV SCONJ ADP PRON AUX PART VERB NOUN PUNCT
+Never fill a box until it is so heavy that you ca n't lift it safely . ||| ADV VERB DET NOUN SCONJ PRON AUX ADV ADJ SCONJ PRON AUX PART VERB PRON ADV PUNCT
+Spread the heavy items over a few boxes . ||| VERB DET ADJ NOUN ADP DET ADJ NOUN PUNCT
+Balance boxes with lighter items like towels or soft toys . ||| VERB NOUN ADP ADJ NOUN ADP NOUN CCONJ ADJ NOUN PUNCT
+Pack the lighter items on top . ||| VERB DET ADJ NOUN ADP NOUN PUNCT
+Use bubble wrap or newspapers when packing fragile items . ||| VERB NOUN NOUN CCONJ NOUN ADV VERB ADJ NOUN PUNCT
+However , newsprint may smudge so use newspaper selectively . ||| ADV PUNCT NOUN AUX VERB ADV VERB NOUN ADV PUNCT
+Clean paper can be purchased cheaply from moving supply stores . ||| ADJ NOUN AUX AUX VERB ADV ADP VERB NOUN NOUN PUNCT
+Mark boxes . ||| VERB NOUN PUNCT
+Boxes should be marked " Fragile " and " This side up " to prevent mishandling . ||| NOUN AUX AUX VERB PUNCT ADJ PUNCT CCONJ PUNCT DET NOUN ADV PUNCT PART VERB NOUN PUNCT
+Write on the sides of the box as well . ||| VERB ADP DET NOUN ADP DET NOUN ADV ADV PUNCT
+Pack a separate box of essentials you may need for the first night at your new house . ||| VERB DET ADJ NOUN ADP NOUN PRON AUX VERB ADP DET ADJ NOUN ADP PRON ADJ NOUN PUNCT
+Include items like toiletries , toilet paper , bottled water , snacks and a change of clothes in case you can not unpack everything in time . ||| VERB NOUN ADP NOUN PUNCT NOUN NOUN PUNCT ADJ NOUN PUNCT NOUN CCONJ DET NOUN ADP NOUN SCONJ NOUN PRON AUX PART VERB PRON ADP NOUN PUNCT
+Tips ||| NOUN
+Do n't label boxes with contents if the contents are valuable . ||| AUX PART VERB NOUN ADP NOUN SCONJ DET NOUN AUX ADJ PUNCT
+Instead of writing " Silver Service - Fragile " you should write something that makes it sound less theft inviting while showing the fragile nature of the contents . ||| ADV SCONJ VERB PUNCT ADJ NOUN PUNCT ADJ PUNCT PRON AUX VERB PRON PRON VERB PRON VERB ADJ NOUN VERB SCONJ VERB DET ADJ NOUN ADP DET NOUN PUNCT
+Example : " Mom 's old dishes " instead of " Fine China " ||| NOUN PUNCT PUNCT NOUN PART ADJ NOUN PUNCT ADV ADP PUNCT ADJ NOUN PUNCT
+Tape is cheap . ||| NOUN AUX ADJ PUNCT
+Use lots of it . ||| VERB NOUN ADP PRON PUNCT
+Close box bottoms well . ||| VERB NOUN NOUN ADV PUNCT
+Get masking tape or packing tape and tape screws and other little things that came out of something back against it . ||| VERB NOUN NOUN CCONJ NOUN NOUN CCONJ VERB NOUN CCONJ ADJ ADJ NOUN PRON VERB ADP ADP PRON ADV ADP PRON PUNCT
+You 'll want to find the right screw reassemble something without having to pick it out of 100 others when you get there . ||| PRON AUX VERB PART VERB DET ADJ NOUN VERB PRON SCONJ VERB PART VERB PRON ADP ADP NUM NOUN ADV PRON VERB ADV PUNCT
+Do n't pack one box full of books or paperwork - you might not be able to carry it at all . ||| AUX PART VERB NUM NOUN ADJ ADP NOUN CCONJ NOUN PUNCT PRON AUX PART AUX ADJ PART VERB PRON ADP DET PUNCT
+Fill it halfway with books , and fill it up with lighter stuff . ||| VERB PRON ADV ADP NOUN PUNCT CCONJ VERB PRON ADP ADP ADJ NOUN PUNCT
+National superstores ( Walmart ) will let you walk the store for boxes when they are stocking the stores between 11 pm and 1 am . ||| ADJ NOUN PUNCT PROPN PUNCT AUX VERB PRON VERB DET NOUN ADP NOUN ADV PRON AUX VERB DET NOUN ADP NUM NOUN CCONJ NUM NOUN PUNCT
+You can find boxes of all sizes . ||| PRON AUX VERB NOUN ADP DET NOUN PUNCT
+Cereal , diaper and houseware boxes are a good size and durable . ||| NOUN PUNCT NOUN CCONJ NOUN NOUN AUX DET ADJ NOUN CCONJ ADJ PUNCT
+Just take a cart and roam the store . ||| ADV VERB DET NOUN CCONJ VERB DET NOUN PUNCT
+They do check the cart as you leave so do n't try to sneak anything past them . ||| PRON AUX VERB DET NOUN SCONJ PRON VERB ADV AUX PART VERB PART VERB PRON ADP PRON PUNCT
+U-haul and other nation companies offer box buy back services . ||| PROPN CCONJ ADJ NOUN NOUN VERB NOUN VERB ADP NOUN PUNCT
+If you buy too many boxes you can return the unused for a full refund . ||| SCONJ PRON VERB ADV ADJ NOUN PRON AUX VERB DET ADJ ADP DET ADJ NOUN PUNCT
+These boxes are also quite sturdy so you can re-use them or stash in your attic until you move again . ||| DET NOUN AUX ADV ADV ADJ ADV PRON AUX VERB PRON CCONJ VERB ADP PRON NOUN SCONJ PRON VERB ADV PUNCT
+Some national companies even offer free shipping and handling so you can have some delivered or go to the local location . ||| DET ADJ NOUN ADV VERB ADJ NOUN CCONJ NOUN SCONJ PRON AUX VERB DET VERB CCONJ VERB ADP DET ADJ NOUN PUNCT
+Fill empty spaces with additional paper . ||| VERB ADJ NOUN ADP ADJ NOUN PUNCT
+Throw away or donate junk you do n't want to take to your new place . ||| VERB ADV CCONJ VERB NOUN PRON AUX PART VERB PART VERB ADP PRON ADJ NOUN PUNCT
+Do n't pack it again ! ! ! ||| AUX PART VERB PRON ADV PUNCT PUNCT PUNCT
+Set aside an area of the house where you can put all the packed boxes . ||| VERB ADP DET NOUN ADP DET NOUN ADV PRON AUX VERB DET DET ADJ NOUN PUNCT
+Use a room that is n't used every day such as the formal dining or living room . ||| VERB DET NOUN PRON AUX PART VERB DET NOUN ADJ ADP DET ADJ NOUN CCONJ NOUN NOUN PUNCT
+You wo n't be tripping over boxes and you can have a better idea of what you have and where things are . ||| PRON AUX PART AUX VERB ADP NOUN CCONJ PRON AUX VERB DET ADJ NOUN ADP PRON PRON VERB CCONJ ADV NOUN VERB PUNCT
+Pack books and heavy items into smaller boxes . ||| VERB NOUN CCONJ ADJ NOUN ADP ADJ NOUN PUNCT
+Digital Photos - use your camera to document the contents of boxes . ||| ADJ NOUN PUNCT VERB PRON NOUN PART VERB DET NOUN ADP NOUN PUNCT
+How to Cope With a Double Parachute Failure ||| ADV PART VERB ADP DET ADJ NOUN NOUN
+While skydiving , it is possible ( yet extremely unlikely ) that both your primary and reserve parachutes will malfunction , leaving you with no method of reducing your velocity . ||| SCONJ NOUN PUNCT PRON AUX ADJ PUNCT CCONJ ADV ADJ PUNCT SCONJ CCONJ PRON ADJ CCONJ NOUN NOUN AUX VERB PUNCT VERB PRON ADP DET NOUN SCONJ VERB PRON NOUN PUNCT
+In the vast majority of cases , this will not occur ; nevertheless , in this event these coping strategies may assist . ||| ADP DET ADJ NOUN ADP NOUN PUNCT PRON AUX PART VERB PUNCT ADV PUNCT ADP DET NOUN DET NOUN NOUN AUX VERB PUNCT
+Steps ||| NOUN
+Remain calm . ||| VERB ADJ PUNCT
+This may seem obvious , but deep , even breathing ( despite the rushing slipstream ) and controlling your heart - rate are essential to your continued survival . ||| PRON AUX VERB ADJ PUNCT CCONJ ADJ PUNCT ADJ NOUN PUNCT ADP DET VERB NOUN PUNCT CCONJ VERB PRON NOUN PUNCT NOUN AUX ADJ ADP PRON ADJ NOUN PUNCT
+Entreat assistance . ||| VERB NOUN PUNCT
+If both your primary and reserve chutes have malfunctioned , signal immediately to a fellow jumper who has not yet deployed their chute , waving your arms and signalling that your own is not functional . ||| SCONJ CCONJ PRON ADJ CCONJ NOUN NOUN AUX VERB PUNCT VERB ADV ADP DET ADJ NOUN PRON AUX PART ADV VERB PRON NOUN PUNCT VERB PRON NOUN CCONJ VERB SCONJ PRON ADJ AUX PART ADJ PUNCT
+If this is a solo jump , then skip to step 6 . ||| SCONJ PRON AUX DET ADJ NOUN PUNCT ADV VERB ADP NOUN NUM PUNCT
+Prepare for deployment . ||| VERB ADP NOUN PUNCT
+After linking arms with your fellow jumper , you will need to hook your arms through their chest strap , or through both sides of the front of their harness , as far as you can , then grab onto your own strap . ||| SCONJ VERB NOUN ADP PRON ADJ NOUN PUNCT PRON AUX VERB PART VERB PRON NOUN ADP PRON NOUN NOUN PUNCT CCONJ ADP DET NOUN ADP DET NOUN ADP PRON NOUN PUNCT ADV ADV SCONJ PRON AUX PUNCT ADV VERB ADP PRON ADJ NOUN PUNCT
+Deploy . ||| VERB PUNCT
+The shock of the chute deployment will be intense . ||| DET NOUN ADP DET NOUN NOUN AUX AUX ADJ PUNCT
+The G - forces will multiply your body weight , making it impossible to hold on ; this is why hooking your arms through the harness is essential . ||| DET NOUN PUNCT NOUN AUX VERB PRON NOUN NOUN PUNCT VERB PRON ADJ PART VERB ADP PUNCT PRON AUX ADV VERB PRON NOUN ADP DET NOUN AUX ADJ PUNCT
+It is likely that the shock will dislocate or break both your arms ; nevertheless this is a small price to pay for your life . ||| PRON AUX ADJ SCONJ DET NOUN AUX VERB CCONJ VERB DET PRON NOUN PUNCT ADV PRON AUX DET ADJ NOUN PART VERB ADP PRON NOUN PUNCT
+Prepare for impact . ||| VERB ADP NOUN PUNCT
+If your companion 's canopy has successfully opened , then both your chances of survival have dramatically increased . ||| SCONJ PRON NOUN PART NOUN AUX ADV VERB PUNCT ADV DET PRON NOUN ADP NOUN AUX ADV VERB PUNCT
+With a large and slow canopy , your chances are even better . ||| ADP DET ADJ CCONJ ADJ NOUN PUNCT PRON NOUN AUX ADV ADJ PUNCT
+The canopy must be steered away from power lines and similar obstructions ; try for a large body of water if you are confident your companion can save you from drowning . ||| DET NOUN AUX AUX VERB ADV ADP NOUN NOUN CCONJ ADJ NOUN PUNCT VERB ADP DET ADJ NOUN ADP NOUN SCONJ PRON AUX ADJ PRON NOUN AUX VERB PRON SCONJ VERB PUNCT
+Alternative : Lack of companions ||| NOUN PUNCT NOUN ADP NOUN
+If this is a solo jump , which constitutes the minority of skydivers , your only recourse is to ensure that at least one of your own chutes opens . ||| SCONJ PRON AUX DET ADJ NOUN PUNCT PRON VERB DET NOUN ADP NOUN PUNCT PRON ADJ NOUN AUX PART VERB SCONJ ADP ADJ NUM ADP PRON ADJ NOUN VERB PUNCT
+In this case , the excellent advice offered by your instructors on assisting chute opening may be of assistance to you . ||| ADP DET NOUN PUNCT DET ADJ NOUN VERB ADP PRON NOUN SCONJ VERB NOUN NOUN AUX AUX ADP NOUN ADP PRON PUNCT
+If it becomes apparent that you can not open either of your two parachutes , or that for some other reason they are fatally non-functional , then the following steps may be of some minor assistance . ||| SCONJ PRON VERB ADJ SCONJ PRON AUX PART VERB DET ADP PRON NUM NOUN PUNCT CCONJ SCONJ ADP DET ADJ NOUN PRON AUX ADV ADJ PUNCT ADV DET VERB NOUN AUX AUX ADP DET ADJ NOUN PUNCT
+Appeal . ||| VERB PUNCT
+If you are of a religious turn of mind , you may wish at this point to offer a prayer to a god , goddess , protective spirit or guardian angel . ||| SCONJ PRON AUX ADP DET ADJ NOUN ADP NOUN PUNCT PRON AUX VERB ADP DET NOUN PART VERB DET NOUN ADP DET NOUN PUNCT NOUN PUNCT ADJ NOUN CCONJ NOUN NOUN PUNCT
+St Jude , the patron saint of Lost Causes , comes to mind . ||| PROPN PROPN PUNCT DET NOUN NOUN ADP ADJ NOUN PUNCT VERB ADP NOUN PUNCT
+Objectively , this is not likely to help very much ; but it may improve your emotional state . ||| ADV PUNCT PRON AUX PART ADJ PART VERB ADV ADV PUNCT CCONJ PRON AUX VERB PRON ADJ NOUN PUNCT
+If you do not have any religious beliefs , or are for another reason unwilling to appeal to your patron deity , skip this step . ||| SCONJ PRON AUX PART VERB DET ADJ NOUN PUNCT CCONJ VERB ADP DET NOUN ADJ PART VERB ADP PRON NOUN NOUN PUNCT VERB DET NOUN PUNCT
+Contemplate . ||| VERB PUNCT
+As you approach the Earth at , or close to , terminal velocity , you may wish to contemplate your past existence , and the possibility of a future afterlife . ||| SCONJ PRON VERB DET PROPN ADP PUNCT CCONJ ADV ADP PUNCT ADJ NOUN PUNCT PRON AUX VERB PART VERB PRON ADJ NOUN PUNCT CCONJ DET NOUN ADP DET ADJ NOUN PUNCT
+A strategy that might prove helpful is to consider how fortunate you are that life has been good to you so far . ||| DET NOUN PRON AUX VERB ADJ AUX PART VERB ADV ADJ PRON VERB SCONJ NOUN AUX AUX ADJ ADP PRON ADV ADV PUNCT
+Alternatively , if life has not been good to you so far , ( and considering your current situation this seems more likely ) consider how lucky you are that it will not be troubling you much longer . ||| ADV PUNCT SCONJ NOUN AUX PART AUX ADJ ADP PRON ADV ADV PUNCT PUNCT CCONJ VERB PRON ADJ NOUN PRON VERB ADV ADJ PUNCT VERB ADV ADJ PRON VERB SCONJ PRON AUX PART AUX VERB PRON ADV ADV PUNCT
+Expect impact . ||| VERB NOUN PUNCT
+You are unlikely to have the time or ability to aim for a soft landing - spot , body of water , or other impact site that might improve your chances of survival . ||| PRON AUX ADJ PART VERB DET NOUN CCONJ NOUN PART VERB ADP DET ADJ NOUN PUNCT NOUN PUNCT NOUN ADP NOUN PUNCT CCONJ ADJ NOUN NOUN PRON AUX VERB PRON NOUN ADP NOUN PUNCT
+There is a minuscule chance that your impact will result in non-life-threatening injuries ; if this seems incredibly far - fetched , comfort yourself that double chute failure in modern times is also extremely unlikely , and that you have already beaten worse odds . ||| PRON VERB DET ADJ NOUN SCONJ PRON NOUN AUX VERB ADP ADJ NOUN PUNCT SCONJ PRON VERB ADV ADV PUNCT ADJ PUNCT VERB PRON SCONJ ADJ NOUN NOUN ADP ADJ NOUN AUX ADV ADV ADJ PUNCT CCONJ SCONJ PRON AUX ADV VERB ADJ NOUN PUNCT
+Tips ||| NOUN
+Your reserve chute should have been packed by a certified rigger and is moderately less likely to fail ; therefore , it may be helpful to focus your efforts on opening your reserve parachute . ||| PRON NOUN NOUN AUX AUX AUX VERB ADP DET ADJ NOUN CCONJ AUX ADV ADV ADJ PART VERB PUNCT ADV PUNCT PRON AUX AUX ADJ PART VERB PRON NOUN SCONJ VERB PRON NOUN NOUN PUNCT
+Some humans who have , for various reasons , become aware of their impending death , develop psychological coping strategies to deal with this ; for instance , the Kubler - Ross phases of grief . ||| DET NOUN PRON AUX PUNCT ADP ADJ NOUN PUNCT VERB ADJ ADP PRON ADJ NOUN PUNCT VERB ADJ NOUN NOUN PART VERB ADP PRON PUNCT ADP NOUN PUNCT DET PROPN PUNCT PROPN NOUN ADP NOUN PUNCT
+Since your own death approaches far more quickly , this is unlikely to be of any use to you . ||| SCONJ PRON ADJ NOUN VERB ADV ADV ADV PUNCT PRON AUX ADJ PART AUX ADP DET NOUN ADP PRON PUNCT
+Warnings ||| NOUN
+Water landings : if you have successfully attached to a companion whose chute opens , keep in mind that both your arms may be broken or dislocated , and you may be unable to swim or tread water before your chute fills and drags you under . ||| NOUN NOUN PUNCT SCONJ PRON AUX ADV VERB ADP DET NOUN PRON NOUN VERB PUNCT VERB ADP NOUN SCONJ DET PRON NOUN AUX AUX VERB CCONJ VERB PUNCT CCONJ PRON AUX AUX ADJ PART VERB CCONJ VERB NOUN SCONJ PRON NOUN VERB CCONJ VERB PRON ADP PUNCT
+If , after total chute failure , you land on something soft , it is possible that instead of being killed outright , you may be permanently paralyzed due to spinal injury . ||| SCONJ PUNCT ADP ADJ NOUN NOUN PUNCT PRON VERB ADP PRON ADJ PUNCT PRON AUX ADJ SCONJ ADV ADP AUX VERB ADV PUNCT PRON AUX AUX ADV VERB ADJ ADP ADJ NOUN PUNCT
+If you have a strong aversion to this outcome , aiming head - downward before impact in the manner of an Olympic diver may ensure the destruction of your cranium and your immediate demise . ||| SCONJ PRON VERB DET ADJ NOUN ADP DET NOUN PUNCT VERB NOUN PUNCT ADV ADP NOUN ADP DET NOUN ADP DET ADJ NOUN AUX VERB DET NOUN ADP PRON NOUN CCONJ PRON ADJ NOUN PUNCT
+How to Stop Procrastinating ||| ADV PART VERB VERB
+If you 're a chronic procrastinator , you know the pain and stress that comes with putting things off . ||| SCONJ PRON AUX DET ADJ NOUN PUNCT PRON VERB DET NOUN CCONJ NOUN PRON VERB SCONJ VERB NOUN ADP PUNCT
+Although you may have the desire to accomplish something , getting the motivation to do it is a different matter . ||| SCONJ PRON AUX VERB DET NOUN PART VERB PRON PUNCT VERB DET NOUN PART VERB PRON AUX DET ADJ NOUN PUNCT
+Fortunately , overcoming your procrastination is easy to do when you put your mind to it . ||| ADV PUNCT VERB PRON NOUN AUX ADJ PART VERB ADV PRON VERB PRON NOUN ADP PRON PUNCT
+Side note : If you have anything due right now , and you have n't finished it , leave this article and complete that work . ||| NOUN NOUN PUNCT SCONJ PRON VERB PRON ADJ ADV ADV PUNCT CCONJ PRON AUX PART VERB PRON PUNCT VERB DET NOUN CCONJ VERB DET NOUN PUNCT
+Steps ||| NOUN
+Create a to - do list . ||| VERB DET ADP PUNCT NOUN NOUN PUNCT
+Yes , make yourself an old fashioned to - do list with check boxes and everything . ||| INTJ PUNCT VERB PRON DET ADJ ADJ ADP PUNCT NOUN NOUN ADP NOUN NOUN CCONJ PRON PUNCT
+List everything , big and small , that you have to do for your entire day ; break big activities into smaller bits if necessary . ||| VERB PRON PUNCT ADJ CCONJ ADJ PUNCT PRON PRON VERB PART VERB ADP PRON ADJ NOUN PUNCT VERB ADJ NOUN ADP ADJ NOUN SCONJ ADJ PUNCT
+Then , as you work through your day , check off each of the items on your list . ||| ADV PUNCT SCONJ PRON VERB ADP PRON NOUN PUNCT VERB ADP DET ADP DET NOUN ADP PRON NOUN PUNCT
+You will feel a growing sense of pride as you visually monitor your ever - diminishing list of projects . ||| PRON AUX VERB DET VERB NOUN ADP NOUN SCONJ PRON ADV VERB PRON ADV PUNCT VERB NOUN ADP NOUN PUNCT
+Focus your list on including the things you typically put off , not the things you are sure to do on a regular basis . ||| VERB PRON NOUN SCONJ VERB DET NOUN PRON ADV VERB ADP PUNCT PART DET NOUN PRON AUX ADJ PART VERB ADP DET ADJ NOUN PUNCT
+If necessary , set time - frames for your items to be done by . ||| SCONJ ADJ PUNCT VERB NOUN PUNCT NOUN ADP PRON NOUN PART AUX VERB ADP PUNCT
+For example , list “ take the dog for a walk by 12:30 ” rather than simply “ walk the dog . ” ||| ADP NOUN PUNCT VERB PUNCT VERB DET NOUN ADP DET NOUN ADP NUM PUNCT ADV ADP ADV PUNCT VERB DET NOUN PUNCT PUNCT
+Re-evaluate your list halfway through your day to rank your items based on highest priority . ||| VERB PRON NOUN ADV ADP PRON NOUN PART VERB PRON NOUN VERB ADP ADJ NOUN PUNCT
+Then , tackle the most important ones before looking back at the smaller things to do . ||| ADV PUNCT VERB DET ADV ADJ NOUN SCONJ VERB ADV ADP DET ADJ NOUN PART VERB PUNCT
+Keep a notebook by hand before you start your workday . ||| VERB DET NOUN ADP NOUN SCONJ PRON VERB PRON NOUN PUNCT
+Every single to do or things you want to do at that specific moment . ||| DET ADJ PART VERB CCONJ NOUN PRON VERB PART VERB ADP DET ADJ NOUN PUNCT
+Do n't do it , put it on a list and do it later . ||| AUX PART VERB PRON PUNCT VERB PRON ADP DET NOUN CCONJ VERB PRON ADV PUNCT
+This prevents you from getting into the " procrastination zone . " ||| PRON VERB PRON SCONJ VERB ADP DET PUNCT NOUN NOUN PUNCT PUNCT
+Finish the hard stuff . ||| VERB DET ADJ NOUN PUNCT
+When you have a looming project that 's bogging you down and making you unproductive in other areas , tackle it first . ||| ADV PRON VERB DET VERB NOUN PRON AUX VERB PRON ADP CCONJ VERB PRON ADJ ADP ADJ NOUN PUNCT VERB PRON ADV PUNCT
+Finishing the largest item on your list of things to do will make you feel extra productive and give you the boost to do other things you ’ve been pushing to the side . ||| VERB DET ADJ NOUN ADP PRON NOUN ADP NOUN PART VERB AUX VERB PRON VERB ADV ADJ CCONJ VERB PRON DET NOUN PART VERB ADJ NOUN PRON AUX AUX VERB ADP DET NOUN PUNCT
+If your “ big project ” is something that ca n’t be done in one sitting , make a list of small parts of it that you can accomplish today . ||| SCONJ PRON PUNCT ADJ NOUN PUNCT AUX PRON PRON AUX PART AUX VERB ADP NUM NOUN PUNCT VERB DET NOUN ADP ADJ NOUN ADP PRON PRON PRON AUX VERB NOUN PUNCT
+Do n’t worry about completing the entire thing , but take steps now so that doing so in the future is a breeze . ||| AUX PART VERB SCONJ VERB DET ADJ NOUN PUNCT CCONJ VERB NOUN ADV SCONJ ADP VERB ADV ADP DET NOUN AUX DET NOUN PUNCT
+Make an ultimate to - do list for this single project , and have it placed somewhere you will see it on a regular basis . ||| VERB DET ADJ ADP PUNCT NOUN NOUN ADP DET ADJ NOUN PUNCT CCONJ VERB PRON VERB ADV PRON AUX VERB PRON ADP DET ADJ NOUN PUNCT
+As you mark things off , you will be motivated to continue doing so , and seeing it on a regular basis will remind you that your project needs to be done . ||| SCONJ PRON VERB NOUN ADP PUNCT PRON AUX AUX VERB PART VERB VERB ADV PUNCT CCONJ VERB PRON ADP DET ADJ NOUN AUX VERB PRON SCONJ PRON NOUN VERB PART AUX VERB PUNCT
+Do two - minute tasks . ||| VERB NUM PUNCT NOUN NOUN PUNCT
+For many of us , this includes small chores , like taking out the trash or pulling a few weeds , but can include simple tasks in all areas of life . ||| ADP ADJ ADP PRON PUNCT PRON VERB ADJ NOUN PUNCT SCONJ VERB ADP DET NOUN CCONJ VERB DET ADJ NOUN PUNCT CCONJ AUX VERB ADJ NOUN ADP DET NOUN ADP NOUN PUNCT
+Anything that you want to put off but takes two minutes to do - do it . ||| PRON PRON PRON VERB PART VERB ADP CCONJ VERB NUM NOUN PART VERB PUNCT VERB PRON PUNCT
+Simply force yourself to use the next 120 seconds to be productive and do the duty you normally would push off for hours or days . [ 1 ] . ||| ADV VERB PRON PART VERB DET ADJ NUM NOUN PART AUX ADJ CCONJ VERB DET NOUN PRON ADV AUX VERB ADP ADP NOUN CCONJ NOUN PUNCT PUNCT NUM PUNCT PUNCT
+Create a timed work frenzy . ||| VERB DET VERB NOUN NOUN PUNCT
+If you find yourself being pulled off into the depths of daydreams , set a period of time to do nothing but work . ||| SCONJ PRON VERB PRON AUX VERB ADP ADP DET NOUN ADP NOUN PUNCT VERB DET NOUN ADP NOUN PART VERB PRON ADP VERB PUNCT
+Take ten minutes and remove all distractions - your phone , magazines , or thoughts of your attractive love - and go into a working frenzy . ||| VERB NUM NOUN CCONJ VERB DET NOUN PUNCT PRON NOUN PUNCT NOUN PUNCT CCONJ NOUN ADP PRON ADJ NOUN PUNCT CCONJ VERB ADP DET VERB NOUN PUNCT
+Force yourself to work productively for ten minutes , and then go back to whatever it was you were doing . ||| VERB PRON PART VERB ADV ADP NUM NOUN PUNCT CCONJ ADV VERB ADV ADP PRON PRON VERB PRON AUX VERB PUNCT
+Chances are , you ’ll get into a groove and keep working at a high pace even when your frenzy time is out . ||| NOUN VERB PUNCT PRON AUX VERB ADP DET NOUN CCONJ VERB VERB ADP DET ADJ NOUN ADV ADV PRON NOUN NOUN AUX ADJ PUNCT
+Working with a timer is generally regarded by most experts as being one of the best ways to develop self - discipline and stop procrastination . ||| VERB ADP DET NOUN AUX ADV VERB ADP ADJ NOUN SCONJ AUX NUM ADP DET ADJ NOUN PART VERB NOUN PUNCT NOUN CCONJ VERB NOUN PUNCT
+The most famous method of working to strict time controls ( known as time - boxing ) involves creating a list of tasks . ||| DET ADV ADJ NOUN SCONJ VERB ADP ADJ NOUN NOUN PUNCT VERB ADP NOUN PUNCT NOUN PUNCT VERB VERB DET NOUN ADP NOUN PUNCT
+Each task is then assigned an exact amount of time to complete . ||| DET NOUN AUX ADV VERB DET ADJ NOUN ADP NOUN PART VERB PUNCT
+If you do n't finish the task in the allotted time , then you move on to the next one . ||| SCONJ PRON AUX PART VERB DET NOUN ADP DET VERB NOUN PUNCT ADV PRON VERB ADP ADP DET ADJ NOUN PUNCT
+Using this work arrangement , it forces you to take action , as you ca n't afford to waste any time . [ 2 ] . ||| VERB DET NOUN NOUN PUNCT PRON VERB PRON PART VERB NOUN PUNCT SCONJ PRON AUX PART VERB PART VERB DET NOUN PUNCT PUNCT NUM PUNCT PUNCT
+Give yourself a break . ||| VERB PRON DET NOUN PUNCT
+If you ca n’t seem to focus and are working half - heartedly at your tasks , give yourself a brief break . ||| SCONJ PRON AUX PART VERB PART VERB CCONJ AUX VERB NOUN PUNCT ADV ADP PRON NOUN PUNCT VERB PRON DET ADJ NOUN PUNCT
+Set a timer for ten minutes , and take a nap , read a book , or call your friend . ||| VERB DET NOUN ADP NUM NOUN PUNCT CCONJ VERB DET NOUN PUNCT VERB DET NOUN PUNCT CCONJ VERB PRON NOUN PUNCT
+Do whatever it is you ’ve been daydreaming about so that the temptation is removed once you get back to work . ||| VERB PRON PRON VERB PRON AUX AUX VERB ADP SCONJ ADP DET NOUN AUX VERB SCONJ PRON VERB ADV ADP NOUN PUNCT
+Just be sure to follow through with your deadline rather than ignoring it when your alarm finally goes off . ||| ADV AUX ADJ PART VERB ADP ADP PRON NOUN ADV ADP VERB PRON ADV PRON NOUN ADV VERB ADP PUNCT
+How to Play Muggle Quidditch ||| ADV PART VERB PROPN PROPN
+In the Harry Potter series written by JK Rowling the main wizarding sport is Quidditch . ||| ADP DET PROPN PROPN NOUN VERB ADP PROPN PROPN DET ADJ ADJ NOUN AUX PROPN PUNCT
+However you do n't have to have magical powers to play . ||| ADV PRON AUX PART VERB PART VERB ADJ NOUN PART VERB PUNCT
+There are many different ways of playing Quidditch , but the most commonly used set of rules are those given by the International Quidditch Association ( which can be found here ) . ||| PRON VERB ADJ ADJ NOUN SCONJ VERB PROPN PUNCT CCONJ DET ADV ADV VERB NOUN ADP NOUN AUX PRON VERB ADP DET ADJ PROPN PROPN PUNCT PRON AUX AUX VERB ADV PUNCT PUNCT
+In the past Muggle Quidditch has mainly been played at colleges in the US , but over the last few years there has been a dramatic rise in the number of community teams . ||| ADP DET ADJ PROPN PROPN AUX ADV AUX VERB ADP NOUN ADP DET PROPN PUNCT CCONJ ADP DET ADJ ADJ NOUN PRON AUX VERB DET ADJ NOUN ADP DET NOUN ADP NOUN NOUN PUNCT
+Quidditch has also spread outside of America and is now played on 5 continents . ||| PROPN AUX ADV VERB ADV ADP PROPN CCONJ AUX ADV VERB ADP NUM NOUN PUNCT
+Steps ||| NOUN
+Gather all needed materials and players ( see Things You 'll Need section below ) . ||| VERB DET ADJ NOUN CCONJ NOUN PUNCT VERB NOUN PRON AUX VERB NOUN ADV PUNCT PUNCT
+Know that all players can play while riding a broom . ||| VERB SCONJ DET NOUN AUX VERB SCONJ VERB DET NOUN PUNCT
+Brooms can be a hindrance however , so feel free to not use brooms . ||| NOUN AUX AUX DET NOUN ADV PUNCT ADV VERB ADJ PART PART VERB NOUN PUNCT
+Place the quaffle and three bludgers in the middle of the field . ||| VERB DET NOUN CCONJ NUM NOUN ADP DET NOUN ADP DET NOUN PUNCT
+Ideally the quaffle and bludgers should be slightly deflated so that they are easier to throw and catch . ||| ADV DET NOUN CCONJ NOUN AUX AUX ADV VERB SCONJ ADP PRON AUX ADJ PART VERB CCONJ VERB PUNCT
+Start the game . ||| VERB DET NOUN PUNCT
+Both teams start from the edges and attempt to obtain the quaffle and bludgers . ||| DET NOUN VERB ADP DET NOUN CCONJ VERB PART VERB DET NOUN CCONJ NOUN PUNCT
+Follow your duty depending what type of player you are : ||| VERB PRON NOUN VERB DET NOUN ADP NOUN PRON VERB PUNCT
+Chasers try to score by throwing the quaffle into one of the three goal hoops . ||| NOUN VERB PART VERB SCONJ VERB DET NOUN ADP NUM ADP DET NUM NOUN NOUN PUNCT
+Each score is worth 10 points . ||| DET NOUN AUX ADJ NUM NOUN PUNCT
+Beaters try to peg players with their bludger . ||| NOUN VERB PART VERB NOUN ADP PRON NOUN PUNCT
+If a player is pegged they have to stop what they 're doing and pay a penalty ; i.e. ( drop the quaffle in the case of a chaser ) and run back to and touch their goal post or alternatively sit down for 10 seconds . ||| SCONJ DET NOUN AUX VERB PRON VERB PART VERB PRON PRON AUX VERB CCONJ VERB DET NOUN PUNCT ADV PUNCT VERB DET NOUN ADP DET NOUN ADP DET NOUN PUNCT CCONJ VERB ADV ADP CCONJ VERB PRON NOUN NOUN CCONJ ADV VERB ADP ADP NUM NOUN PUNCT
+Keepers guard the goal posts at each end and attempt to block chasers ' attempts at scoring . ||| NOUN VERB DET NOUN NOUN ADP DET NOUN CCONJ VERB PART VERB NOUN PART NOUN SCONJ VERB PUNCT
+If Keeper is close to their hoops they are safe from being hit by bludgers . ||| SCONJ NOUN AUX ADV ADP PRON NOUN PRON AUX ADJ SCONJ AUX VERB ADP NOUN PUNCT
+Seekers try to tackle the snitch ( a person ) or obtain an object attached to the snitch such as a sock or flag . ||| NOUN VERB PART VERB DET NOUN PUNCT DET NOUN PUNCT CCONJ VERB DET NOUN VERB ADP DET NOUN ADJ ADP DET NOUN CCONJ NOUN PUNCT
+You can establish you own rules as to how a player catches the snitch . ||| PRON AUX VERB PRON ADJ NOUN ADP ADP ADV DET NOUN VERB DET NOUN PUNCT
+A common way to play is to make the snitch a person , and give the snitch a head start to run and hide in defined boundaries . ||| DET ADJ NOUN PART VERB AUX PART VERB DET NOUN DET NOUN PUNCT CCONJ VERB DET NOUN DET NOUN NOUN PART VERB CCONJ VERB ADP VERB NOUN PUNCT
+Then the seekers search for the snitch , and attempt to tag the player . ||| ADV DET NOUN VERB ADP DET NOUN PUNCT CCONJ VERB PART VERB DET NOUN PUNCT
+Other methods , such as the method adopted in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner . ||| ADJ NOUN PUNCT ADJ ADP DET NOUN VERB ADP NUM PUNCT VERB DET NOUN DET NOUN NOUN ADP DET NOUN PUNCT VERB ADP ADP DET NOUN NOUN ADP DET NOUN NOUN PUNCT
+Regardless of method , the winning seeker wins 30 points for his or her team , unlike the books , in which the snitch is worth 150 points . ||| ADV ADP NOUN PUNCT DET VERB NOUN VERB NUM NOUN ADP PRON CCONJ PRON NOUN PUNCT ADP DET NOUN PUNCT ADP PRON DET NOUN AUX ADJ NUM NOUN PUNCT
+The creators of Muggle Quidditch thought that it was worth too many points so changed the value of the snitch for muggle Quidditch . ||| DET NOUN ADP PROPN PROPN VERB SCONJ PRON AUX ADJ ADV ADJ NOUN ADV VERB DET NOUN ADP DET NOUN ADP NOUN PROPN PUNCT
+The snitch , generally a track runner , runs around ( usually the boundaries ) trying to evade the seekers . ||| DET NOUN PUNCT ADV DET NOUN NOUN PUNCT VERB ADP PUNCT ADV DET NOUN PUNCT VERB PART VERB DET NOUN PUNCT
+The referee should ensure that rules are being followed . ||| DET NOUN AUX VERB SCONJ NOUN AUX AUX VERB PUNCT
+They also keep track of the score . ||| PRON ADV VERB NOUN ADP DET NOUN PUNCT
+Play the game ! ||| VERB DET NOUN PUNCT
+The object of the game is to score the most points and the game ends when the seeker snatches the snitch . ||| DET NOUN ADP DET NOUN AUX PART VERB DET ADJ NOUN CCONJ DET NOUN VERB ADV DET NOUN VERB DET NOUN PUNCT
+Feel free to alter the game rules . ||| VERB ADJ PART VERB DET NOUN NOUN PUNCT
+See the Tips section for suggestions . ||| VERB DET NOUN NOUN ADP NOUN PUNCT
+Video ||| NOUN
+How to Play a Real - Life Game of Quidditch ||| ADV PART VERB DET ADJ PUNCT NOUN NOUN ADP PROPN
+You do n't need flying broomsticks or magic balls to play this version of the game - it 's tailor - made for muggles like us . ||| PRON AUX PART VERB VERB NOUN CCONJ ADJ NOUN PART VERB DET NOUN ADP DET NOUN PUNCT PRON AUX NOUN PUNCT VERB ADP NOUN ADP PRON PUNCT
+This video shows a more realistic approach to playing Quidditch . ||| DET NOUN VERB DET ADV ADJ NOUN SCONJ VERB PROPN PUNCT
+Tips ||| NOUN
+Alternatively the snitch can be a small yellow ball ( tennis balls work great ) that is hidden before the game starts by a bystander or referee . ||| ADV DET NOUN AUX AUX DET ADJ ADJ NOUN PUNCT NOUN NOUN VERB ADV PUNCT PRON AUX VERB SCONJ DET NOUN VERB ADP DET NOUN CCONJ NOUN PUNCT
+Establish boundaries and have the seekers look for the snitch . ||| VERB NOUN CCONJ VERB DET NOUN VERB ADP DET NOUN PUNCT
+Beaters can try hitting the bludgers around in the air with a shortened hockey sticks or a short bat . ||| NOUN AUX VERB VERB DET NOUN ADV ADP DET NOUN ADP DET VERB NOUN NOUN CCONJ DET ADJ NOUN PUNCT
+They could also use regular - length hockey sticks to hit bludgers ( perhaps wiffle balls ) on the ground . ||| PRON AUX ADV VERB ADJ PUNCT NOUN NOUN NOUN PART VERB NOUN PUNCT ADV NOUN NOUN PUNCT ADP DET NOUN PUNCT
+The simplest way is to just peg players by throwing dodge balls . ||| DET ADJ NOUN AUX PART ADV VERB NOUN SCONJ VERB NOUN X PUNCT
+It may be easier to play without brooms ( but also less fun ! ) . ||| PRON AUX AUX ADJ PART VERB ADP NOUN PUNCT CCONJ ADV ADV ADJ PUNCT PUNCT PUNCT
+Remember that the snitch runner , if you choose to use one , is not an actual player in the game , therefore , not bound by any of the rules . ||| VERB SCONJ DET NOUN NOUN PUNCT SCONJ PRON VERB PART VERB NUM PUNCT AUX PART DET ADJ NOUN ADP DET NOUN PUNCT ADV PUNCT PART VERB ADP DET ADP DET NOUN PUNCT
+If desired , the snitch is able to do whatever he or she wants to avoid capture . ||| SCONJ VERB PUNCT DET NOUN AUX ADJ PART VERB PRON PRON CCONJ PRON VERB PART VERB NOUN PUNCT
+See How to Be a Snitch in Quidditch for more information . ||| VERB ADV PART AUX DET NOUN ADP PROPN ADP ADJ NOUN PUNCT
+You can play water quidditch in a pool . ||| PRON AUX VERB NOUN NOUN ADP DET NOUN PUNCT
+Almost all the same rules apply . ||| ADV DET DET ADJ NOUN VERB PUNCT
+Have someone throw something ( the snitch ) on a line into the pool at regular intervals . ||| VERB PRON VERB PRON PUNCT DET NOUN PUNCT ADP DET NOUN ADP DET NOUN ADP ADJ NOUN PUNCT
+They can even use fake snitches . ||| PRON AUX ADV VERB ADJ NOUN PUNCT
+You can buy authentic looking brooms to make the game more realistic . ||| PRON AUX VERB ADJ VERB NOUN PART VERB DET NOUN ADV ADJ PUNCT
+There is a very large Quidditch community , have a look at the IQA website to find teams near you . ||| PRON VERB DET ADV ADJ PROPN NOUN PUNCT VERB DET NOUN ADP DET PROPN NOUN PART VERB NOUN ADP PRON PUNCT
+One variation is Quarter Snitch Quidditch . ||| NUM NOUN AUX NOUN NOUN PROPN PUNCT
+Find a quarter or another small coin . ||| VERB DET NOUN CCONJ DET ADJ NOUN PUNCT
+Have both of the teams turn around and have the referee throw it into the grass or pitch while the teams are n't looking . ||| VERB DET ADP DET NOUN VERB ADV CCONJ VERB DET NOUN VERB PRON ADP DET NOUN CCONJ NOUN SCONJ DET NOUN AUX PART VERB PUNCT
+Play while the seekers look for the snitch . ||| VERB SCONJ DET NOUN VERB ADP DET NOUN PUNCT
+The seeker has to find the snitch blindfolded , relying only on the coach 's instructions , while the game is still on . ||| DET NOUN VERB PART VERB DET NOUN VERB PUNCT VERB ADV ADP DET NOUN PART NOUN PUNCT SCONJ DET NOUN AUX ADV ADJ PUNCT
+Warnings ||| NOUN
+Stay hydrated and exercise wisely . ||| VERB VERB CCONJ VERB ADV PUNCT
+A ball flying in the air can hurt . ||| DET NOUN VERB ADP DET NOUN AUX VERB PUNCT
+If you 're playing quidditch you 're probably just having fun so play nicely . ||| SCONJ PRON AUX VERB NOUN PRON AUX ADV ADV VERB NOUN ADV VERB ADV PUNCT
+Things You 'll Need ||| NOUN PRON AUX VERB
+15 players ||| NUM NOUN
+14 brooms ||| NUM NOUN
+Field ( or big backyard ) ||| NOUN PUNCT CCONJ ADJ NOUN PUNCT
+3 goal hoops per team ||| NUM NOUN NOUN ADP NOUN
+Referee ( optional ) ||| NOUN PUNCT ADJ PUNCT
+Color coded shirts or capes for houses , black for referee ||| NOUN VERB NOUN CCONJ NOUN ADP NOUN PUNCT ADJ ADP NOUN
+3 Bludgers ( dodge balls , water balloons , wiffle balls etc. ) ||| NUM NOUN PUNCT NOUN X PUNCT NOUN NOUN PUNCT NOUN NOUN NOUN PUNCT
+1 Quaffle ( volleyball , Frisbee , soccer ball , etc. ) ||| NUM NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN NOUN PUNCT NOUN PUNCT
+1 Snitch ( person ) ||| NUM NOUN PUNCT NOUN PUNCT
+Each team is composed of : ||| DET NOUN AUX VERB ADP PUNCT
+3 Chasers ||| NUM NOUN
+2 Beaters ||| NUM NOUN
+1 Keeper ||| NUM NOUN
+1 Seeker ||| NUM NOUN
+How to Prepare Quinoa ||| ADV PART VERB NOUN
+Quinoa is known as the little rice of Peru . ||| NOUN AUX VERB ADP DET ADJ NOUN ADP PROPN PUNCT
+The Incas treated the crop as sacred and referred to quinoa as " chisaya mama " or " mother of all grains . " [ 1 ] ||| DET PROPN VERB DET NOUN ADP ADJ CCONJ VERB ADP NOUN ADP PUNCT X X PUNCT CCONJ PUNCT NOUN ADP DET NOUN PUNCT PUNCT PUNCT NUM PUNCT
+By tradition , the Inca emperor would sow the first seeds of the season using " golden implements . " ||| ADP NOUN PUNCT DET PROPN NOUN AUX VERB DET ADJ NOUN ADP DET NOUN VERB PUNCT ADJ NOUN PUNCT PUNCT
+Quinoa is rich in protein and much lighter than other grains . ||| NOUN AUX ADJ ADP NOUN CCONJ ADV ADJ ADP ADJ NOUN PUNCT
+It is much easier to prepare than rice and is rapidly gaining in popularity , especially among vegetarians who value its high protein levels . ||| PRON AUX ADV ADJ PART VERB ADP NOUN CCONJ AUX ADV VERB ADP NOUN PUNCT ADV ADP NOUN PRON VERB PRON ADJ NOUN NOUN PUNCT
+Ingredients ||| NOUN
+1 cup quinoa ||| NUM NOUN NOUN
+2 cups water ( or broth ) ||| NUM NOUN NOUN PUNCT CCONJ NOUN PUNCT
+Olive oil to taste ( Optional ) ||| NOUN NOUN ADP NOUN PUNCT ADJ PUNCT
+1/2 teaspoon salt ( Optional ) ||| NUM NOUN NOUN PUNCT ADJ PUNCT
+Method 1 Cooking On A Stove Top ||| NOUN NUM VERB ADP DET NOUN NOUN
+Rinse the grains of quinoa in water . ||| VERB DET NOUN ADP NOUN ADP NOUN PUNCT
+You can skip this step if you have purchased pre-rinsed quinoa in a box . ||| PRON AUX VERB DET NOUN SCONJ PRON AUX VERB ADJ NOUN ADP DET NOUN PUNCT
+To rinse , place the measured grain in a strainer under running water for a few minutes . ||| PART VERB PUNCT VERB DET VERB NOUN ADP DET NOUN ADP ADJ NOUN ADP DET ADJ NOUN PUNCT
+This is necessary to remove the excess saponins on the outside of the grains which impart a bitter flavor to quinoa if not removed . ||| PRON AUX ADJ PART VERB DET ADJ NOUN ADP DET NOUN ADP DET NOUN PRON VERB DET ADJ NOUN ADP NOUN SCONJ PART VERB PUNCT
+Toast quinoa in a saucepan ( optional ) . ||| VERB NOUN ADP DET NOUN PUNCT ADJ PUNCT PUNCT
+Drizzle a bit of olive oil in a pan over medium - high heat . ||| VERB DET NOUN ADP NOUN NOUN ADP DET NOUN ADP ADJ PUNCT ADJ NOUN PUNCT
+Add the quinoa and cook for about 1 minute . ||| VERB DET NOUN CCONJ VERB ADP ADV NUM NOUN PUNCT
+This brings out quinoa 's nutty flavor . ||| PRON VERB ADP NOUN PART ADJ NOUN PUNCT
+Cook the quinoa . ||| VERB DET NOUN PUNCT
+Place two parts water or stock to one part of quinoa in a saucepan over medium - high heat and bring to a boil . ||| VERB NUM NOUN NOUN CCONJ NOUN ADP NUM NOUN ADP NOUN ADP DET NOUN ADP ADJ PUNCT ADJ NOUN CCONJ VERB ADP DET NOUN PUNCT
+Cover and reduce heat to low . ||| VERB CCONJ VERB NOUN ADP ADJ PUNCT
+Simmer the quinoa for about 15 minutes or until the grain becomes translucent and the white germ forms a visible spiral on the exterior of the quinoa grain . ||| VERB DET NOUN ADP ADV NUM NOUN CCONJ SCONJ DET NOUN VERB ADJ CCONJ DET ADJ NOUN VERB DET ADJ NOUN ADP DET NOUN ADP DET NOUN NOUN PUNCT
+Try to ensure there is an al dente bite to the germ , in the same way as pasta . ||| VERB PART VERB PRON VERB DET X X NOUN ADP DET NOUN PUNCT ADP DET ADJ NOUN ADP NOUN PUNCT
+Quinoa will continue cooking for a bit even after you take it off the heat . ||| NOUN AUX VERB VERB ADP DET NOUN ADV SCONJ PRON VERB PRON ADP DET NOUN PUNCT
+Take the quinoa off the heat and let stand , covered , for 5 minutes . ||| VERB DET NOUN ADP DET NOUN CCONJ VERB VERB PUNCT VERB PUNCT ADP NUM NOUN PUNCT
+This will give it time to absorb any moisture that might still be in the pan . ||| PRON AUX VERB PRON NOUN PART VERB DET NOUN PRON AUX ADV VERB ADP DET NOUN PUNCT
+Uncover and fluff with a fork . ||| VERB CCONJ VERB ADP DET NOUN PUNCT
+The quinoa should look light and fluffy , and you should be able to see the germ separating from the seed . ||| DET NOUN AUX VERB ADJ CCONJ ADJ PUNCT CCONJ PRON AUX AUX ADJ PART VERB DET NOUN VERB ADP DET NOUN PUNCT
+Serve . ||| VERB PUNCT
+Freshly cooked quinoa should be served immediately to retain nutritional value and a good flavor . ||| ADV ADJ NOUN AUX AUX VERB ADV PART VERB ADJ NOUN CCONJ DET ADJ NOUN PUNCT
+Serve with : ||| VERB ADP PUNCT
+Stir - fry , using the quinoa as a substitute for rice . ||| NOUN PUNCT NOUN PUNCT VERB DET NOUN ADP DET NOUN ADP NOUN PUNCT
+Curry . ||| NOUN PUNCT
+Braised meat . ||| ADJ NOUN PUNCT
+In a salad . ||| ADP DET NOUN PUNCT
+Virtually any other combination you can think of ! ||| ADV DET ADJ NOUN PRON AUX VERB ADP PUNCT
+Method 2 Cooking In a Rice Cooker ||| NOUN NUM VERB ADP DET NOUN NOUN
+Rinse 1 cup of quinoa in a fine mesh sieve under cold water . ||| VERB NUM NOUN ADP NOUN ADP DET ADJ NOUN NOUN ADP ADJ NOUN PUNCT
+If you bought packaged quinoa , this step is n't always necessary , but it 's better to be safe than sorry . ||| SCONJ PRON VERB ADJ NOUN PUNCT DET NOUN AUX PART ADV ADJ PUNCT CCONJ PRON AUX ADJ PART AUX ADJ ADP ADJ PUNCT
+Pour quinoa into rice cooker . ||| VERB NOUN ADP NOUN NOUN PUNCT
+One option is to toast the quinoa before placing in the rice cooker . ||| NUM NOUN AUX PART VERB DET NOUN SCONJ VERB ADP DET NOUN NOUN PUNCT
+See Step # 2 in Method One above for directions . ||| VERB NOUN SYM NUM ADP NOUN NUM ADV ADP NOUN PUNCT
+Add 2 cups of liquid and 1/2 teaspoon of salt into the rice cooker . ||| VERB NUM NOUN ADP NOUN CCONJ NUM NOUN ADP NOUN ADP DET NOUN NOUN PUNCT
+Water , chicken stock or broth , or vegetable stock all work . ||| NOUN PUNCT NOUN NOUN CCONJ NOUN PUNCT CCONJ NOUN NOUN ADV VERB PUNCT
+Cook for approximately 15 minutes . ||| VERB ADP ADV NUM NOUN PUNCT
+Some rice cooker will have different settings instead of a simple " cook " option . ||| DET NOUN NOUN AUX VERB ADJ NOUN ADV ADP DET ADJ PUNCT VERB PUNCT NOUN PUNCT
+Try the " white rice " option if your rice cooker gives you several options . ||| VERB DET PUNCT ADJ NOUN PUNCT NOUN SCONJ PRON NOUN NOUN VERB PRON ADJ NOUN PUNCT
+Let stand for about 5 minutes . ||| VERB VERB ADP ADV NUM NOUN PUNCT
+Fluff with a fork and serve . ||| VERB ADP DET NOUN CCONJ VERB PUNCT
+Method 3 Cooking In the Oven ||| NOUN NUM VERB ADP DET NOUN
+Preheat oven to 350 ° F ( 177 ° C ) . ||| VERB NOUN ADP NUM NOUN PROPN PUNCT NUM NOUN PROPN PUNCT PUNCT
+Arrange rack in the middle of the oven . ||| VERB NOUN ADP DET NOUN ADP DET NOUN PUNCT
+Rinse quinoa thoroughly in a fine mesh seive under cold water . ||| VERB NOUN ADV ADP DET ADJ NOUN NOUN ADP ADJ NOUN PUNCT
+In a medium saucepan , heat up 2 tablespoons vegetable oil over medium - low heat . ||| ADP DET ADJ NOUN PUNCT VERB ADP NUM NOUN NOUN NOUN ADP ADJ PUNCT ADJ NOUN PUNCT
+Add onions , peppers , mushrooms , or any other type of desired vegetable or herb into the saucepan ( optional ) . ||| VERB NOUN PUNCT NOUN PUNCT NOUN PUNCT CCONJ DET ADJ NOUN ADP VERB NOUN CCONJ NOUN ADP DET NOUN PUNCT ADJ PUNCT PUNCT
+Cook onions until they are translucent , but not burned . ||| VERB NOUN SCONJ PRON AUX ADJ PUNCT CCONJ PART VERB PUNCT
+Sweat the peppers or vegetables along with the onions . ||| VERB DET NOUN CCONJ NOUN ADV ADP DET NOUN PUNCT
+Add the quinoa and salt to the saucepan , stirring until completely incorporated . ||| VERB DET NOUN CCONJ NOUN ADP DET NOUN PUNCT VERB SCONJ ADV VERB PUNCT
+This should take no longer than 30 seconds . ||| PRON AUX VERB ADV ADV ADP NUM NOUN PUNCT
+Add one cup of broth and one cup of water to the saucepan and bring to a boil over medium high heat . ||| VERB NUM NOUN ADP NOUN CCONJ NUM NOUN ADP NOUN ADP DET NOUN CCONJ VERB ADP DET NOUN ADP ADJ ADJ NOUN PUNCT
+Once a boil is reached , transfer quinoa to a 8 - by - 8 - inch baking dish . [ 2 ] ||| ADV DET NOUN AUX VERB PUNCT VERB NOUN ADP DET NUM PUNCT ADP PUNCT NUM PUNCT NOUN NOUN NOUN PUNCT PUNCT NUM PUNCT
+Spread out quinoa evenly and cover baking dish completely with aluminum foil . ||| VERB ADP NOUN ADV CCONJ VERB NOUN NOUN ADV ADP NOUN NOUN PUNCT
+Cook the quinoa in the oven for roughly 20 minutes , or until most of the liquid is gone . ||| VERB DET NOUN ADP DET NOUN ADP ADV NUM NOUN PUNCT CCONJ SCONJ ADJ ADP DET NOUN AUX ADJ PUNCT
+Remove the aluminum foil from the baking dish , add cheese or other seasonings , and bake for an additional 5 minutes . ||| VERB DET NOUN NOUN ADP DET NOUN NOUN PUNCT VERB NOUN CCONJ ADJ NOUN PUNCT CCONJ VERB ADP DET ADJ NUM NOUN PUNCT
+After 5 minutes , the quinoa should be fully cooked . ||| ADP NUM NOUN PUNCT DET NOUN AUX AUX ADV VERB PUNCT
+Serve and enjoy ! ||| VERB CCONJ VERB PUNCT
+How to Make Skittles Vodka ||| ADV PART VERB PROPN NOUN
+Three Methods : Single Serving ( 25 mL Shot ) ||| NUM NOUN PUNCT ADJ NOUN PUNCT NUM NOUN NOUN PUNCT
+Bottles of " Skittled " ||| NOUN ADP PUNCT VERB PUNCT
+Vodka Dishwasher Bottle Method ||| NOUN NOUN NOUN NOUN
+Making Skittles vodka is a fun way to add a splash of fruity flavor and color to regular vodka . ||| VERB PROPN NOUN AUX DET ADJ NOUN PART VERB DET NOUN ADP ADJ NOUN CCONJ NOUN ADP ADJ NOUN PUNCT
+All you need to do is place your favorite combination of Skittles candies into a glass or bottle of vodka and wait for it to infuse . ||| DET PRON VERB PART VERB AUX VERB PRON ADJ NOUN ADP PROPN NOUN ADP DET NOUN CCONJ NOUN ADP NOUN CCONJ VERB SCONJ PRON PART VERB PUNCT
+You can then use your Skittles vodka to make brightly - colored cocktails or even serve it as a sugary shot ! ||| PRON AUX ADV VERB PRON PROPN NOUN PART VERB ADV PUNCT ADJ NOUN CCONJ ADV VERB PRON ADP DET ADJ NOUN PUNCT
+Find multiple methods for making Skittles vodka after the jump -- and soon you 'll be tasting the rainbow ! ||| VERB ADJ NOUN SCONJ VERB PROPN NOUN ADP DET NOUN PUNCT CCONJ ADV PRON AUX AUX VERB DET NOUN PUNCT
+Ingredients ||| NOUN
+A handle ( 1.75 liters , about a half gallon ) of vodka per bag of Skittles ||| DET NOUN PUNCT NUM NOUN PUNCT ADV DET NUM NOUN PUNCT ADP NOUN ADP NOUN ADP PROPN
+A large bag of Skittles candy ( the " movie size " bag ) ||| DET ADJ NOUN ADP PROPN NOUN PUNCT DET PUNCT NOUN NOUN PUNCT NOUN PUNCT
+Method 1 of 3 : Single Serving ( 25 mL Shot ) ||| NOUN NUM ADP NUM PUNCT ADJ NOUN PUNCT NUM NOUN NOUN PUNCT
+Many people choose to leave out the green , which is lime if you 're using original Skittles , and purple , which is grape in the original style , as they can create a weird taste combination or a less than appealing color for the final product . ||| ADJ NOUN VERB PART VERB ADP DET NOUN PUNCT PRON AUX ADJ SCONJ PRON AUX VERB ADJ PROPN PUNCT CCONJ NOUN PUNCT PRON AUX NOUN ADP DET ADJ NOUN PUNCT SCONJ PRON AUX VERB DET ADJ NOUN NOUN CCONJ DET ADJ ADP ADJ NOUN ADP DET ADJ NOUN PUNCT
+However , you can put them in if you want . ||| ADV PUNCT PRON AUX VERB PRON ADP SCONJ PRON VERB PUNCT
+If you do n't mind mixed flavors , you can just skip this step altogether . ||| SCONJ PRON AUX PART VERB VERB NOUN PUNCT PRON AUX ADV VERB DET NOUN ADV PUNCT
+Add six Skittles to 25 ml of vodka . ||| VERB NUM PROPN ADP NUM NOUN ADP NOUN PUNCT
+Keep swirling the mixture until the Skittles are almost completely dissolved . ||| VERB VERB DET NOUN SCONJ DET PROPN AUX ADV ADV VERB PUNCT
+Note that the ratio of Skittles to vodka varies from recipe to recipe . ||| VERB SCONJ DET NOUN ADP PROPN ADP NOUN VERB ADP NOUN ADP NOUN PUNCT
+You should experiment to find your preferred mix before making larger bottles . ||| PRON AUX VERB PART VERB PRON VERB NOUN SCONJ VERB ADJ NOUN PUNCT
+Filter out the remaining Skittle " insides " . ||| VERB ADP DET VERB PROPN PUNCT NOUN PUNCT PUNCT
+With single servings like this , you can decide which flavor(s) you like best and proceed to making bottles , if you desire . ||| ADP ADJ NOUN ADP PRON PUNCT PRON AUX VERB DET NOUN PRON VERB ADV CCONJ VERB SCONJ VERB NOUN PUNCT SCONJ PRON VERB PUNCT
+Method 2 of 3 : Bottles of " Skittled " Vodka ||| NOUN NUM ADP NUM PUNCT NOUN ADP PUNCT VERB PUNCT NOUN
+Pour out some vodka from a bottle to make room for Skittles . ||| VERB ADP DET NOUN ADP DET NOUN PART VERB NOUN ADP PROPN PUNCT
+Separate the Skittles by color . ||| VERB DET PROPN ADP NOUN PUNCT
+Add the Skittles ( 20 - 25 per 350 ml / 11.8 fl oz ) . ||| VERB DET PROPN PUNCT NUM SYM NUM ADP NUM NOUN SYM NUM ADJ NOUN PUNCT PUNCT
+Let the mixture sit for a day or two . ||| VERB DET NOUN VERB ADP DET NOUN CCONJ NUM PUNCT
+Shake occasionally so the flavour mixes well . ||| VERB ADV SCONJ DET NOUN VERB ADV PUNCT
+Strain out the Skittles using a filter , such as a paper coffee filter or a clean t - shirt . ||| VERB ADP DET PROPN VERB DET NOUN PUNCT ADJ ADP DET NOUN NOUN NOUN CCONJ DET ADJ NOUN PUNCT NOUN PUNCT
+Refrigerate overnight . ||| VERB ADV PUNCT
+Method 3 of 3 : Dishwasher Bottle Method ||| NOUN NUM ADP NUM PUNCT NOUN NOUN NOUN
+Separate the colors from five bags of 200 g Skittles . ||| VERB DET NOUN ADP NUM NOUN ADP NUM NOUN PROPN PUNCT
+Using 5 x 700 ml / 23.6 fl oz bottles , pour 300 ml / 10.1 fl oz of vodka into a jug and fill each bottle with skittles . ||| VERB NUM PUNCT NUM NOUN SYM NUM ADJ NOUN NOUN PUNCT VERB NUM NOUN SYM NUM ADJ NOUN ADP NOUN ADP DET NOUN CCONJ VERB DET NOUN ADP PROPN PUNCT
+Place the bottles in your dishwasher and put on an intensive cycle . ||| VERB DET NOUN ADP PRON NOUN CCONJ VERB ADP DET ADJ NOUN PUNCT
+One third of of the way through the cycle , shake all bottles vigorously . ||| NUM NOUN ADP ADP DET NOUN ADP DET NOUN PUNCT VERB DET NOUN ADV PUNCT
+Two thirds of the way through the cycle , shake all bottles vigorously . ||| NUM NOUN ADP DET NOUN ADP DET NOUN PUNCT VERB DET NOUN ADV PUNCT
+Once the cycle has finished , shake all bottles vigorously again . ||| SCONJ DET NOUN AUX VERB PUNCT VERB DET NOUN ADV ADV PUNCT
+Then place in the freezer for 2 hours . ||| ADV VERB ADP DET NOUN ADP NUM NOUN PUNCT
+Once the vodka is cold , it should be syrupy . ||| SCONJ DET NOUN AUX ADJ PUNCT PRON AUX AUX ADJ PUNCT
+Take a sieve , line it with a piece of cheesecloth ( muslin ) or a coffee filter , place above a large jug and pour the vodka through slowly . ||| VERB DET NOUN PUNCT VERB PRON ADP DET NOUN ADP NOUN PUNCT NOUN PUNCT CCONJ DET NOUN NOUN PUNCT VERB ADP DET ADJ NOUN CCONJ VERB DET NOUN ADP ADV PUNCT
+Once the first bottle has been filtered , wash out the bottle and pour the Skittles vodka back in . ||| SCONJ DET ADJ NOUN AUX AUX VERB PUNCT VERB ADP DET NOUN CCONJ VERB DET PROPN NOUN ADV ADP PUNCT
+Repeat the above two steps for all bottles , ensuring that everything is cleaned between uses to prevent color contamination . ||| VERB DET ADJ NUM NOUN ADP DET NOUN PUNCT VERB SCONJ PRON AUX VERB ADP NOUN PART VERB NOUN NOUN PUNCT
+Place all of the bottles in the freezer until you are ready to drink . ||| VERB DET ADP DET NOUN ADP DET NOUN SCONJ PRON AUX ADJ PART VERB PUNCT
+Do n't worry , the vodka wo n't freeze . ||| AUX PART VERB PUNCT DET NOUN AUX PART VERB PUNCT
+You are finished . ||| PRON AUX VERB PUNCT
+Enjoy your tasty creation . ||| VERB PRON ADJ NOUN PUNCT
+Tips . ||| NOUN PUNCT
+If you want to make it more quickly , cut the skittles in half before putting them into vodka . ||| SCONJ PRON VERB PART VERB PRON ADV ADV PUNCT VERB DET PROPN ADP NOUN SCONJ VERB PRON ADP NOUN PUNCT
+Shake every 15 minutes . ||| VERB DET NUM NOUN PUNCT
+They 'll dissolve in an hour instead of a day . ||| PRON AUX VERB ADP DET NOUN ADV ADP DET NOUN PUNCT
+Or you could just scoop them out when the color dissolves . ||| CCONJ PRON AUX ADV VERB PRON ADP ADV DET NOUN VERB PUNCT
+Start with small amount of vodka and Skittles at first to experiment which combination of taste suits you best . ||| VERB ADP ADJ NOUN ADP NOUN CCONJ PROPN ADP ADJ PART VERB DET NOUN ADP NOUN VERB PRON ADV PUNCT
+You can carry this out with larger amount of vodka and Skittles once you have decided that you enjoy the taste . ||| PRON AUX VERB PRON ADP ADP ADJ NOUN ADP NOUN CCONJ PROPN SCONJ PRON AUX VERB SCONJ PRON VERB DET NOUN PUNCT
+The lime green Skittles add a sourness to the drink , so if you want one that 's sweet , leave the green ones out and add them to their own bottle for a sour lime vodka . ||| DET NOUN ADJ PROPN VERB DET NOUN ADP DET NOUN PUNCT ADV SCONJ PRON VERB NUM PRON AUX ADJ PUNCT VERB DET ADJ NOUN ADP CCONJ VERB PRON ADP PRON ADJ NOUN ADP DET ADJ ADJ NOUN PUNCT
+Another approach is to buy five bottles of vodka and five bags of Skittles . ||| DET NOUN AUX PART VERB NUM NOUN ADP NOUN CCONJ NUM NOUN ADP PROPN PUNCT
+Then separate the candy and use one flavor for each bottle . ||| ADV VERB DET NOUN CCONJ VERB NUM NOUN ADP DET NOUN PUNCT
+( Or get four bottles and an empty , to allow room for the skittles . ) ||| PUNCT CCONJ VERB NUM NOUN CCONJ DET ADJ PUNCT PART VERB NOUN ADP DET PROPN PUNCT PUNCT
+If using a t - shirt to strain , be sure fabric softener or a dryer sheet had not been used with it , lets you get some extra ( unwanted ) flavoring ( and potentially toxic chemicals ) . ||| SCONJ VERB DET NOUN PUNCT NOUN PART VERB PUNCT AUX ADJ NOUN NOUN CCONJ DET NOUN NOUN AUX PART AUX VERB ADP PRON PUNCT VERB PRON VERB DET ADJ PUNCT ADJ PUNCT NOUN PUNCT CCONJ ADV ADJ NOUN PUNCT PUNCT
+Warnings ||| NOUN
+Drink responsibly . ||| VERB ADV PUNCT
+Never drink and drive . ||| ADV VERB CCONJ VERB PUNCT
+Know your limits , and do not drink to the extent of intoxication . ||| VERB PRON NOUN PUNCT CCONJ AUX PART VERB ADP DET NOUN ADP NOUN PUNCT
+Do not drink if underage in your country . ||| AUX PART VERB SCONJ ADJ ADP PRON NOUN PUNCT
+Things You 'll Need ||| NOUN PRON AUX VERB
+Each handle of vodka ( 1.75 liters , about a half gallon ) requires a large bag worth of Skittles , so if you plan on doing only one flavor for a flavorful vodka , you 'll have to buy 5 large bags of Skittles . ||| DET NOUN ADP NOUN PUNCT NUM NOUN PUNCT ADV DET NUM NOUN PUNCT VERB DET ADJ NOUN NOUN ADP PROPN PUNCT ADV SCONJ PRON VERB SCONJ VERB ADV NUM NOUN ADP DET ADJ NOUN PUNCT PRON AUX VERB PART VERB NUM ADJ NOUN ADP PROPN PUNCT
+Coffee filter , cheesecloth / muslin , or an extremely clean T - shirt ||| NOUN NOUN PUNCT NOUN SYM NOUN PUNCT CCONJ DET ADV ADJ NOUN PUNCT NOUN
+Large funnel or strainer to hold filter ||| ADJ NOUN CCONJ NOUN PART VERB NOUN
