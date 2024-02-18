@@ -1,0 +1,6 @@
+torchtext==0.6
+spacy
+typing-extensions==4.6.0
+tensorflow
+sacremoses
+nltk
