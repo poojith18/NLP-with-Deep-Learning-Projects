@@ -1,0 +1,1996 @@
+﻿The Project Gutenberg EBook of Katydid's Poems, by Mrs. J. I. McKinney
+This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever.
+You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org/license
+ Title: Katydid's Poems
+Author: Mrs. J. I. McKinney
+Release Date: August 31, 2013 [EBook #43612]
+Language: English
+Character set encoding: UTF-8
+*** START OF THIS PROJECT GUTENBERG EBOOK KATYDID'S POEMS ***
+
+ Produced by David Garcia, Matthew Wheaton and the Online Distributed Proofreading Team at http://www.pgdp.net (This file was produced from images generously made available by the Library of Congress)
+
+
+
+[Illustration: Katydid.]
+
+ Katydid’s Poems
+WITH A LETTER BY
+Jno. Aug. Williams.
+ ENTERED ACCORDING TO ACT OF CONGRESS, IN THE YEAR 1887, BY
+MRS. J. I. McKINNEY (“KATYDID”)
+IN THE OFFICE OF THE LIBRARIAN AT WASHINGTON.
+ PRINTED BY THE COURIER-JOURNAL JOB PRINTING COMPANY.
+ Dedicated
+TO
+J. I. McKINNEY.
+ To him whose every word is one of praise, Who loves to linger where my thoughts have been, And who delights in all my rhyming ways, I offer first these efforts of my pen.
+
+ LETTER TO KATYDID.
+ DEAR KATYDID:
+I am more pleased with your lines than when I first read them; they are intensely womanly, natural, musical and sweet--they are absolutely free from affectation, only the restraint of rhyme and measure seem to deprive your muse of perfect freedom and grace. There is also a delicacy of thought and fancy, and of purity of sentiment that pervades the whole like the sweetest perfume.
+No one can listen to your “Chirpings” and feel like touching the bough from which you sing with a rude, critical hand; he would rather listen through the live-long night to the end of your song.
+I remember well your first attempt at rhyme while a girl here at school; even then, there was a pleasing promise of a beautiful and useful pen; and I am glad that you have found time and opportunity to improve your early gift. I am glad, too, that you have been persuaded to give some of your sweet little poems to the press; the tender, the true, and the pure of heart will read them with delight.
+Affectionately your friend,
+JNO. AUG. WILLIAMS.
+DAUGHTER’S COLLEGE, Harrodsburg, Ky.
+
+ CONTENTS
+ PAGE. To A Katydid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 7 A Day Dream
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9 The Old Ravine (Illustrated.)
+
+
+
+
+
+ 11 Some Day You’ll Wish For Me
+
+
+
+
+
+
+ 12 To Hallie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 13 I’ve Asked You to Forget Me
+
+
+
+
+
+
+ 14 Little Blanche
+
+
+
+
+
+
+
+
+
+
+
+
+
+15 The Little Front Gate
+
+
+
+
+
+
+
+
+
+ 16 Drifting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16 Looking Back
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17 Scotta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18 The Lover and Flower
+
+
+
+
+
+
+
+
+
+
+20 My Cloud
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22 The Decision
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23 Autumn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+25 A Sister’s Love
+
+
+
+
+
+
+
+
+
+
+
+
+ 26 In Memory of Nannie Johnson White
+
+
+
+ 26 The Heliotrope’s Soliloquy
+
+
+
+
+
+
+
+27 A Problem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 28 My Palace (Illustrated.)
+
+
+
+
+
+
+
+
+29 Death of Summer
+
+
+
+
+
+
+
+
+
+
+
+
+ 33 Spring and Summer
+
+
+
+
+
+
+
+
+
+
+
+ 34 Under the Snow
+
+
+
+
+
+
+
+
+
+
+
+
+
+35 The Prettiest Girl in Town
+
+
+
+
+
+
+
+36 I Am Musing To-night
+
+
+
+
+
+
+
+
+
+
+37 A Curl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+38 Somebody’s Face
+
+
+
+
+
+
+
+
+
+
+
+
+ 39 Good-bye, Maggie
+
+
+
+
+
+
+
+
+
+
+
+
+40 The Hermit’s Farewell (Illustrated.)
+
+
+41 A Window I Love
+
+
+
+
+
+
+
+
+
+
+
+
+ 43 Thistle Down
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+44 Bitter Memories
+
+
+
+
+
+
+
+
+
+
+
+
+ 45 An Acrostic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 46 My Angel Visitor
+
+
+
+
+
+
+
+
+
+
+
+
+47 Keep a Bright Face, Darling
+
+
+
+
+
+
+ 48 My Neighbor’s Mill
+
+
+
+
+
+
+
+
+
+
+
+49 Dripping Springs
+
+
+
+
+
+
+
+
+
+
+
+
+51 In Memoriam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 53 The Old Orchard Trees
+
+
+
+
+
+
+
+
+
+ 54 On the Hill-top Grow the Daisies
+
+
+
+
+55 Ella Lee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+56 What is the West Wind Saying
+
+
+
+
+
+
+58 To a Mountain Stream
+
+
+
+
+
+
+
+
+
+
+59 Pen Pictures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+60 To Mother
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 62 The Broken Heart
+
+
+
+
+
+
+
+
+
+
+
+
+63 A Year Ago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+65 A Christmas Peep
+
+
+
+
+
+
+
+
+
+
+
+
+66 Winnie’s Christmas Eve
+
+
+
+
+
+
+
+
+
+68 My Heart’s Little Room
+
+
+
+
+
+
+
+
+
+69 The Three Muses
+
+
+
+
+
+
+
+
+
+
+
+
+ 71 A Recollection
+
+
+
+
+
+
+
+
+
+
+
+
+
+72 Don’t Question Him Why
+
+
+
+
+
+
+
+
+
+73 Why?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+74 A Sunset Longing
+
+
+
+
+
+
+
+
+
+
+
+
+74 Journeys
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+76 The Lost Poem
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 78 A Maple Leaf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+80 A Gallop With Santa Claus
+
+
+
+
+
+
+
+ 81 Home Memories
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 83 Sunshine and Shadow (Illustrated.)
+
+
+
+85 Only a Fern Leaf
+
+
+
+
+
+
+
+
+
+
+
+
+87 A Dream
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 88 Those Soft Airs She Played
+
+
+
+
+
+
+
+89 To Albert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 91 The Reunion of the Flowers
+
+
+
+
+
+
+
+92 Children of the Brain
+
+
+
+
+
+
+
+
+
+ 94 A Lily of the Valley
+
+
+
+
+
+
+
+
+
+
+96 Lines to the Old Year
+
+
+
+
+
+
+
+
+
+ 97 Why I Smile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 98 My Phantom Ships
+
+
+
+
+
+
+
+
+
+
+
+
+99 The Weight of a Word
+
+
+
+
+
+
+
+
+
+ 101 An Apology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 103 Speak Kindly
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 104 Those Willing Hands
+
+
+
+
+
+
+
+
+
+
+106 Look Into the Past
+
+
+
+
+
+
+
+
+
+
+ 107 A Little Face
+
+
+
+
+
+
+
+
+
+
+
+
+
+108 The Canary and Rose
+
+
+
+
+
+
+
+
+
+
+109 A Sigh or a Tear
+
+
+
+
+
+
+
+
+
+
+
+ 110 Snow-flakes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+112 A Foot-print
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 113
+
+ KATYDID’S POEMS.
+
+ To a Katydid.
+ Little friend among the tree-tops, Chanting low your vesper hymns, Never tiring, Me inspiring, Seated ’neath the swaying limbs, Do you know your plaintive calling, When the summer dew is falling, Echoes sweeter through my brain Than any soft, harmonic strain?
+Others call you an intruder, Say discordant notes you know; Or that sadness, More than gladness, From your little heart doth flow; And that you awake from sleeping Thoughts in quiet they were keeping, Faithless love, or ill-laid schemes, Hopes unanchored--broken dreams.
+No such phantoms to my vision Doth your lullaby impart, But sweet faces, No tear traces, Smile as joyous in my heart, As when first at mother’s knee Learned I your sweet mystery. I defend you with my praises, For your song my soul upraises.
+Do you wonder that at twilight Always by my cottage door I am seated? You’ve repeated Oft’ner still those tunes of yore; And I love them, love your scanning And your noisy tree-top planning; Though you struggle with a rhyme, In due season comes the chime.
+Oft I fancy when your neighbors, In some secret thicket hid, Are debating, Underrating What that little maiden did, That above their clam’rous singing I can hear your accents ringing, Like a voice that must defend From abuse some time-loved friend.
+Though the nightingale and swallow Through the poet’s measures sing, No reflection Of dejection Petrifies or palls your wing. In the calm and holy moonlight, On and on with hours of midnight, In the darkness, in the rain, Still you whisper your refrain.
+Dream I not of fame or fortune, Only this I inward crave, Sweet assurance, Long endurance, Of a love beyond the grave. Should my songs die out and perish, You’ll my name repeat and cherish; Though all trace is lost of me, Still you’ll call from tree to tree,
+KATYDID.
+
+ A Day-Dream.
+ I’m looking in a mirror, Belle, The mirror of our past; And many a bright reflection, Belle, Into its depth is cast; Reflections that are calm and clear, And O! to us so very dear.
+I see a village--old Kirksville-- Its long and narrow street, And as it climbs upon the hill, How many friends I meet! And, Belle, your face smiles out to me-- The sweetest face that I can see.
+There is my home hid ’mong the trees Back of the village street, A welcome rushes on the breeze, And restless grow my feet; My heart leaps forward, and I view The dearest spot I ever knew.
+Home! home again! and, children, we Skip through the pastures green; Your eyes of blue I plainly see-- “The sweetest ever seen;” And on your cheek the rosy tinge; And curls of gold your temples fringe.
+And see the dogs we used to pet; Down through the lawn they run; Not many passing by, forget Their bark, or fail to shun Old Carlo of the greyhound race, And Lion with his vicious face.
+Yet us they follow to the hedge, Where hours with them we’ve played; And to the pond, along whose edge, Barefooted, we would wade. Decorum could not cramp the brain, And Love unlocked his golden chain.
+We climb upon my father’s barn, Hide in the straw and hay; We watch aunt “Silvy” spinning yarn In the old-fashioned way. She tells us tales by candle light, That fill our hearts with wild delight.
+A shadow falls; I lose your face; Lost is the fairy-tale; And just before my eyes I trace A kind of airy veil; A network that is strangely planned, Held by the Present’s cunning hand.
+The shadow now has passed away; I glance the meshes through, And find strange children there at play Beside your knee; one, two-- The little faces both foretell A happy future for you, Belle.
+Long, long I gaze. That pretty view Dissolves away in air, And still I’m looking, Belle, for you, And still I’m standing there; I strive your image to retrace-- All, all has vanished but my face.
+And closing ’round me as before, I see a figured wall, A carpet blue upon the floor, And sunlight over all. Bewildered, yet entranced I seem, And ’waken from a sweet day-dream.
+
+ The Old Ravine.
+ Just back of my dear old home it rolled, With many a crumpled and rocky fold, Hedged ’round with cherry and locust trees Their strong arms toyed with the breeze-- Like knights arrayed for march or fight They stood with waving plumes of white.
+And O! that valley’s inmost room Was a mass of ivy and violet bloom; The larkspur shook from its purple crest A dew-drop down on the lily’s breast; The blue-bell dozed on the rivulet’s brink, And the myrtle leaned o’er the edge to drink.
+Even now, as I write, through the open door I catch a sound of the cataract’s roar, And see the girls just out from school Knee-deep in the ravine’s limpid pool; And the boys, ah, me! how plain can I see Them stealing the bark from the slippery tree.
+The door slams back, it is scarce apart; With steady eye and fluttering heart, I watch the girls up the valley turn, In search of peppermint and fern; And the boys are waving their caps to me, As they stand in that ragged and torn old tree.
+In some wild way, I never knew how, I climbed to the swing on that elm tree’s bough; Was twitt’ring a song as I used to do, And counting the clouds in the sky’s soft blue, When the girls came out from the valley’s shade, And earth into heaven seemed then to fade.
+’Twas the Eden of old, and I was a child (I have thought of it since and often have smiled); Sitting there in the swing, with the girls at my feet, And the boys overhead--my joy was complete; What a mockery, then, to awaken and part With the happy illusion--how hollow my heart!
+
+ Some Day You’ll Wish for Me.
+FOR ---- ----
+ Some day, my darling, when the rose has died, That on your pathway throws its petals sweet, When the sharp thorn is springing near your side And nettles pierce the mould beneath your feet, You’ll wish for me.
+Some day, my darling, when the crystal cup Of Beauty shattered lies, and spilled its wine; When Pleasure’s urn denies your lips one sup, And you drink deep of Disappointment’s brine, You’ll wish for me.
+Some day the wreath will wilt upon your head; You’ll smell the bud and find a worm within. Some day, my darling, when your friends have fled, And strangers mock your frequent tears, ah! then You’ll wish for me.
+Some day, my darling, when Death’s dews fall cold Upon your brow, you’ll gladly let me come-- When dreams present the shroud that must enfold Your limbs, and your sweet lips grow chill and dumb, You’ll wish for me.
+You’ll long for him whose hands were oft denied To pluck a rose lest they the bush pollute-- Yet he would come and stand a slave aside. To grasp the bramble and the thorn uproot, If you but wished for him.
+He’d kiss your limbs the hidden briar had torn, And bathe the wounds with Pity’s saddest tear; He’d close your eyes that ne’er till death had worn For him one look of love, and at your bier He’d kneel and pray
+For strength to watch you hidden from his sight, For strength to turn aside and leave you there Clasped in the arms of everlasting night; And yet, my darling, not as great despair He’d feel than now.
+
+ To Hallie.
+WRITTEN FOR ----
+ Sad and cheerless stands the homestead In its grandeur as of old; ’Tis a casket--lost, the jewel; ’Tis a mine without its gold.
+Once a sunbeam at the doorway Gilded room and gladdened hall; Making life a golden summer, Full of joy for each and all.
+But the sunshine that has vanished Ne’er can brighten o’er us more, Though I bow in meek submission Yet my heart is sad and sore.
+I have lost my life’s sweet treasure, Earth holds nothing dear for me; “Upward, onward,” be my motto, Onward, upward, still to thee.
+Hallie! be my guarding angel, Teach my footsteps not to stray; Spread your sainted wings above me, Lead me in “the narrow way,”
+So that you can come and meet me-- Waft me heavenward on your breast, “Where the wicked cease from troubling, And the weary are at rest.”
+
+ I’ve Asked You to Forget Me.
+ I’ve asked you to forget me, To let our happy past Ne’er be recalled; for ah! it was Too sweet, too bright! to last.
+But yet you say that you’re my friend, And still as fond and true; While I ne’er care to see thy face, Or have one thought of you.
+Then ne’er again recall those days When roguish Cupid played At twining garlands ’round our hearts Only to wilt and fade;
+For I have with a steady hand, Not heeding Love’s sweet art, Unwound them from their resting place And freed your faithless heart.
+
+ Little Blanche.
+ Gather up the broken playthings, Scattered on the nursery floor; Blanche is gone!--her little fingers Ne’er will fondle with them more.
+Hide away the dolls, the dishes-- Precious treasures! O! so dear! Lay aside the little dresses-- In each fold a mother’s tear.
+God hath given--God hath taken, Though it rends the heart in twain, He but sends his frowns upon us, To give back his smiles again.
+She hath gone to ’wait your coming, Smiling where the angels stand; Lingering there at heaven’s gateway, That she first may clasp your hand.
+
+ The Little Front Gate.
+ Away from the world and its bustle, When the daylight grows pleasant and late; In our own cosy cot, I am waiting For the slam of the little front gate.
+The birds at the doorway are singing, The roses their beauty debate; But I sit here alone, and I listen For the slam of the little front gate.
+Sometimes, ere the shadows of twilight Send the roving bird home to its mate, I list for a hurrying footstep, And the slam of the little front gate.
+O! you who are burdened with sorrow, And believe that life is but fate, Learn from me there is joy in waiting For the slam of the little front gate.
+
+ Drifting.
+ Scotta, you are drifting from me, O’er the billows of life’s tide; You and I have sailed together, With our frail barks side by side.
+You are drifting with the current, But my feeble oar is light, Too light to follow; and, in anguish, I must watch you drift from sight.
+Drifting, gliding, moving onward, Tide and sky seem one deep blue; All in vain my eyes are yearning, You have drifted from my view.
+But there’s yet a broader current, Where our meeting barks will land; You and I still bound together, Heart to heart, and hand to hand.
+
+ Looking Back.
+ She opened a little worn package, Scarred yellow by Time’s ruthless hand; Disclosing a bundle of letters Tied up with a pale ribbon band.
+“These,” she said, “are like leaves from a fernery, Long pressed in a book with a flower; And the memories wafted up from them, Like perfume that follows a shower.
+“With no wormwood or gall in the essence, Few tares in life’s garden were sown; The clouds partly hiding the sunshine, Some weeds with the blossoms have grown.
+“But we loved”--here she held out a picture; A tear-drop was dimming her eye, As a cloud will o’ershadow the landscape, Or shut out a star in the sky.
+I took up a ring and a locket, Set deep with a ruby and pearl; The clasp was all tarnished and broken, And tear-stained the face of the girl,
+Whose eyes were awake in Hope’s morning, Love kindled their depths with his spark-- Even then, from the red velvet lining, They glowed like a gem in the dark.
+I turned to the sad little figure, ’Round the package the faded cord tied; Pressed my lips to her cheek--ah, how sadly The roses had bloomed there and died.
+Long we sat in the lingering twilight, Looking back o’er the vanishing years; She sobbed out her grief on my bosom, And moistened my brow with her tears.
+What comfort in words could I offer? There was more in a soul-telling glance; For each heart hath its season of springtime, Each heart hath a buried romance.
+
+ Scotta.
+ I Saw her last night in a vision (How often she comes when I dream!) Through the garden of Heaven she loitered, Then stood by a clear, placid stream.
+And out of the heart of the river A bunch of white lilies she drew, I scarce could discern from the blossoms Her fingers, so waxen their hue.
+But her face wore the same quiet features, And her smile was enhancing the light That fell on this friend of my bosom, This angel robed softly in white.
+I longed to reach upward and touch her, To ask why the flowers she twined; Wondered often for whom was the garland, And the crown with the lily buds lined.
+So I cried and my voice soared onward Farther than sight could extend-- “For whom are you weaving this chaplet? Speak, Scotta! sweet spirit and friend.”
+“O! tell me just why from the portals Of Heaven you’ve wandered away, And sit here alone by the river Wreathing these lilies to-day.”
+Her lips parted, as if for an answer-- Then a cluster of cherubim, came-- They hovered about this sweet seraph, And whispered in concert _a name_.
+It resounded along Heaven’s archway, But soft on my ear that word fell, Soft as her accents of friendship, Soft as a Sabbath eve bell.
+And the dewdrops and spray of the river On the garlands to crystals had turned, The crown she embedded with snow-drops, One jewel there glittered and burned.
+Its luster was brilliant and sunlike, As burnished as those in the throne, But the name that her own gentle fingers Had carved there, ah! me, was--_my own_.
+And what if Life’s thorns pressed my temples Or sorrow to midnight turns day, I will press on alone through the darkness, Believing her hand leads the way.
+I will traverse the chill “Swamp of Cypress” Where the “Rivers of Death” slowly wind; For she’ll beckon me over with garlands, And the crown with the lily buds lined.
+
+ The Lover and Flower.
+ I found it, one day, in a pretty shade Which a vine and a maple together made; ’Twas blooming away in a dress of white, With eyes of a blue transparent light. I knelt at its shrine, And this heart of mine Drank in the fragrance as one drinks wine.
+Then I said, “Sweet flower, this cooling shade With the summer weather will dim and fade, There’s a place in my heart--a cozy room-- Where you may nestle and grow and bloom.” Thus I wooed the flower, In this shady bower, And lovers we were that self-same hour.
+I carried it home, I pruned it with care, I gave it the sun and the morning air. The honey bees came its dew to sip, But I drove them away with pouting lip; For I loved my flower, And with jealous power I banished the bees from our curtained bower.
+A butterfly came on wings of lace, And tried to fan my blossom’s face; But I brushed it away with cruel hands, And tore from its wings the velvet bands; Then I kissed my flower; But a summer shower Burst from the clouds with mesmeric power.
+Then the pale little blossom heaved a sigh, And opened a blue and timid eye To thank the cloud as it did in the shade, Which the vine and the maple together made; But my heart would rebel; I could not quell Its raging fire--it seemed from hell.
+I slammed the shutters with curses of doom; I made it dark as a dungeon room, Then I hurried away like a thief in the night; But I strolled again in the warm sunlight, And another flower From Fashion’s own bower I culled, and nursed it only an hour.
+It proved but a weed with a gaudy bloom, And a poisonous odor filled my room. So I turned once more to my wildwood flower, That I locked in my heart that sinful hour, When the angel of love, To its mansion above, Had fluttered away like a wounded dove.
+How softly I turned the key in my heart; One moment I faltered--the door swung apart-- A faint, sweet essence, like heliotrope bloom, Was sick’ning my senses; I moved through the room With a staggering tread, With a brain reeling head, And swooned there--_a murd’rer_--my flower was--_dead_.
+
+ My Cloud--To Scotta.
+ There’s a cloud on my life’s horizon Of wonderful shape and hue, Like the feathery down of a snow-drift ’Tis dimpled with changeful blue. I gaze on its shadowy outline And drink in the calm of the skies, Till I fancy it floats out of heaven, As an angel in disguise.
+No slumbering storm in its bosom, No hint of the lightning’s glare, Only a feast for the heart and soul Is this treasure of the air; For I know from its silvery edges, And glimpses of hidden gold, That a picture of rare tranquility Its tender depths enfold.
+Else whence is this mystic feeling Of peace that’s stealing o’er me? Like the magic of summer moonlight Enchanting a restless sea. O! heavenly cloud! why are you So calm? so angelic you seem, My spirit escapes in its longing-- I am lost in a beautiful dream.
+Up, up on the wings of a swallow Piercing the heaven’s deep blue, O’er meadow and mount I am rising, And floating, sweet spirit, to you; Onward, in trance I am wafted, Now into the cloudlet above; And a face smiles out from its drapery, And ah! ’tis a face that I love.
+
+ The Decision.
+ A dispute once arose in a bee-hive As to which of the little brown bees Could gather the sweetest nectar From blossoms or budding trees.
+The queen tried in vain to discover Some method the riot to quell; But a challenge for war had been sounded, And threatened was each honey cell.
+So she spoke in a voice most persuasive-- “He shall sit on my throne for an hour, Who brings from the store-house of nature, The juice of the sweetest-lipped flower.”
+Away flew the brown little workers, Away out of sight o’er the hill; Then backward and forward they flitted, The honey-cups eager to fill.
+One famished the heart of a lily, And drank from its milky bud; One opened the vein of a rose leaf, And licked up the crimson blood.
+To a poppy-bed still one hurried, On a downy cot he crept, But all-day in the silken blankets, Unconscious there he slept.
+Another flew off to the meadow, And punctured the daisy’s cap; A swarm had encompassed a fountain, Where gurgled the sugar-tree sap.
+A fourth and a fifth to a mansion Had followed a bridal pair; One strangled the bud on her bosom, One mangled the wreath on her hair.
+But the sixth one paused at a cottage, Where a sick girl sleeping lay; And there by the open window, Blossomed a hyacinth spray.
+A youth stood near in the shadows, And watching the dreamer’s face, A tear rolled down from his eyelid And fell on the hyacinth vase.
+It was only the work of a moment For a busy bee to do, To flavor affections tear-drop With the extract, “flower-dew.”
+So he gathered this precious honey, And, polishing up his sting, He flitted out of the window, With gold dust under his wing.
+Such a night in the little bee-hive Before was never known; For the hyacinth’s rich moist pollen Had paved the way to the throne.
+
+ Autumn.
+ Who is it that paints the woodlands Like a gorgeous gown of gold; Dropping, here and there, a ripple Of vermilion in each fold? Who is it that calls the robins And the blackbirds into bands; Pointing them with flaming fingers, To the sunny, Southern lands?
+What has scorched the tender blossoms? In our yards they’re dying now. Do you know who kissed the apple Till it reddened on the bough? Why so mute the little streamlet? Down the hill it used to leap; Now I faintly hear it sobbing-- Sobbing out like one in sleep.
+Leaden clouds lay on the heavens, Like a burden on the heart; And the winds together whisper, Sad as loved ones ere they part. Then anon a dreamy dullness Hovers over sky and earth; Ah! my soul reflects the sadness, And I seek my friendly hearth.
+You who love the Indian summer, So renowned by pen and art, Go, and revel in the gloaming, While so sadly pants my heart. But I can not watch the leaflets, On the whirlwind as they ride, For just so a hectic river Bore my darling from my side.
+
+ A Sister’s Love.
+TO IDA.
+ She knelt beside her brother’s grave, The day was near its close; And where the cool, tall grasses wave, She lay a fresh-cut rose. Then, from a silver waiter near, She drew a wreath of white, Besprinkled with the twilight’s tear, O’ershaded with the night, And placed them on the green-kept mound. I watched her kneeling there, Her face bent on the sacred ground, In attitude of prayer; And while a bird sang soft his hymn, Down-looking from above, We saw unveiled a picture dim-- A statue true of love.
+
+ In Memory of Fannie Johnson White.
+ If I could blend into my verse That soft and slumb’rous haze, So faintly resting on the rose Before the autumn days Have chilled its heart, and numbed the leaves, And drunk the precious dew, Then could I melodize in song, Her life so pure and true.
+Or could I weave into this song Her smile, so rich and rare, That found its way to every heart, And left its halo there-- Then earth would not seem desolate, Or days be lone or long, Since she would sweetly live again In verse, and smile in song.
+All this is vain! both pen and voice, Too weak to speak her worth; Though memory writes in words of gold, Her beauteous deeds on earth. Heaven claimed our flower--there we may bloom, If we the watchword keep: “Whatsoever thou shall sow, That also thou shall reap.”
+
+ The Heliotrope’s Soliloquy.
+TO MRS. T. R. WALTON.
+ Let others bring from foreign shore The glittering gem, the shining ore, Rare trophies from the coral caves, And hidden wealth of ocean waves, To grace the bridal hall.
+You floral queens! You roses white! Bathed in the moonbeam’s yellow light, You’ll smile in many a quaint design, And help the banquet room to line-- But not the diadem.
+My starry flowers--this purple heath-- She’ll gather for that trailing wreath; For my faint breath of rare perfume Is only for the bridal room-- The bride--the bridal crown.
+To watch with me her trembling sigh, The golden pansy’s modest eye Shall only glance from out my bower, With me proclaim the nuptial hour, And seal the holy bond.
+
+ A Problem.
+ My heart is perplexed, though I’ve tried to discover An answer to solve what it is that I miss, Though I’ve questioned myself more that twenty times over, There seems no reply to a question like this. My friends meet me gladly with words kindly spoken, Salutations of praises and sometimes a kiss, And looks sent along with a sweet flower token. I find in my room--there is something I miss.
+The blaze up the chimney this evening is talking, The wind and the shutter hum sad an old tune, A cloud o’er the heavens is leisurely walking, A few early snowflakes are vexing the moon. Pale Luna! your countenance seemeth too sober, But why should I murmur or wonder at this? The flame of the woodland died out with October, The birds, too, are gone--there is something I miss.
+I stir down the embers, and here in the firelight I read the home paper a late train has brought, And into the lives of the absent an insight I take; do they ever of me have a thought? How strange the words sound when no answer is given, Ah! the tone of a friend would to-night insure bliss, And the faces of loved ones would seem like a heaven Of angels, alas! there is something I miss.
+Will it always be thus? Is this one missing measure To cripple my verse and sadden my song? What a joy it is to regain a lost treasure And in the heart’s casket the setting make strong. But I have grown weary these figures of trying; I wonder if others make failures like this? A smile? Ah, you solved then the truth underlying This problem, and _know_ what it is that I miss.
+MADISONVILLE, KY.
+
+ My Palace.
+ I built me a little palace, Somewhere in the ether land, Wherein my soul might revel And rest at my command. The spot, a royal summit, I let my will select, And Fancy came inspecting With Thought, the architect.
+We went down to the quarry For the foundation rock, And purchased hewn and polished Love’s marble corner block. For years we toiled together, And one day warm and sweet I woke and found my palace Before me and complete.
+It was a gorgeous building-- The window lights of red Came from the sunset’s furnace, Or Northern light instead. Each peak, each tower and turret The sunlight’s love had won, And straight there came a voice From heaven and said “well done.”
+I planted a grove beyond it, And hedged up the terraced yard, And I dug a groove so a brooklet Could play on the level sward. I wanted a flower to cheer me, And off on a breezy slope I scattered the seed of roses And the purple heliotrope.
+I peopled the rooms with volumes Of men with talents rare, Who climbed upon Fame’s spire And waved their banners there. I purchased the costliest paintings, And swung them from the walls; And music, like harps of heaven, Resounded throughout the halls.
+I gave a royal banquet, The nuptial feast was spread, And then, when all was ready, There Love and I were wed. But when the guests departed, A rap came on the door, And a gaunt figure faced me I ne’er had seen before.
+“My name,” she said, “is Envy; I wish to stop with you; Your dwelling just completed, The inmates must be few.” Her breath, like fumes of sulphur, Into my face was blown, And like a demon’s curses Was her departing tone.
+The night came on, and fingers Tapped on the beveled glass, A face looked in the window With eyes that shone like brass; But Love beheld the visage, And o’er the window drew A shade that shut Suspicion Forever from my view.
+And then a pond’rous knocking Bombarded at the door, And like an earthquake’s tremor Upheaved the palace floor. I glanced into the key-hole, And, like the brand of Cain, I saw on Slander’s forehead A dark and bloody stain.
+I barred the palace entrance, And turning in the hall We faced another figure More dreadful than them all; He said: “My name is Ruin-- Unbidden here I stand, To curse your happy homestead And desolate your land.
+“The lichen I have sprinkled Upon your crumbling tower, The ivy and the myrtle Shall choke each blooming flower.” And then he smote the castle, It trembled to its base, And fell? No, no--I shouted And laughed out in his face:
+“You can not wreck our palace, Love is the corner stone, And we are master workmen,” I said, in jocund tone. He seized his trailing garments, Departed with a groan, And love and I together Were once more left alone.
+Next day as they debated What course to next pursue, I heard a sweet voice calling-- Love said the tone he knew. The step, low as a mother’s Upon the nursery floor, Was like advancing music That halted at our door.
+As when a fairy’s castle Yields to a magic key, Our door swung on the hinges The guest was--_Sympathy_. “Come in, our worthy sister,” I heard Love then repeat; “For happiness without you Could never be complete.”
+And while we sat together, Weaving our garland sweet, For many a bridal altar, For many a burial sheet, We heard another footstep; And, like an angel sent, There came and smiled upon us The face we loved--_Content_.
+The circle was completed-- My palace stands sublime Still on that cloudland summit, And laughs at threats of Time. No curses thunder o’er us, No heavy rains can fall; For heaven’s open window Slants sunshine over all.
+
+ Death of Summer.
+ Summer’s dying, close the shutters, Make the light subdued and sweet, The last accent that she utters I’ll record here at her feet. See, the pulses quiver faintly, But her heart, alas! ’tis still; See how pale she lies and saintly, Feel her hands, they’re white and chill.
+Close the eyes made sad from weeping, Smooth the tangles from her head, Leave her like an angel sleeping, Friends are here to view the dead. See, the rose a tear is dropping As she leans above her face, At the door the lily stopping, Finds her handkerchief of lace.
+There the two like sisters sorrow, As above the corse they bend, Planning for the sad to-morrow-- For the burial of a friend. Then the daisy from the mountain, That in mourning shawl was dressed, Brought a snowdrow from the fountain, Lay it on the summer’s breast.
+To the pillow crept the lilacs, But the flowers at her throat Were the heliotrope and smilax-- This was gained by casting vote-- And the jasmine sought her fingers, While the fuschias kissed her hair; At her lip a violet lingers To deny them, who would dare?
+Then the autumn’s sunny treasure Came the sturdy golden rod, For the coffin took the measure, For the grave removed the sod. Long and mournful the procession That I watched across the hill, For to you I’ll make confession, Autumn doth my spirit kill.
+Drives me from the scene of sadness While on poison nature feeds; Decks her out in robes of gladness To conceal the heart that bleeds; At the summer’s grave there lingers None more sad to drop a tear Than the friend whose trembling fingers Write this in memoriam here.
+
+ Spring and Summer.
+ I heard a footstep on the hill, The little brook began to trill, I looked--a sweet and childlike face, Reflected like a blooming vase, Was smiling from the water clear, With buttercups behind her ear.
+A flock of swallows hove in sight, On came the summer clad in white, With sunshine falling from her hair Upon her shoulders white and bare, And pressing through the tangled grass, A daisy rose to watch her pass.
+
+ Under the Snow.
+ What have you hidden down under the snow, So dear that you weep when the northern blasts blow? Why your face pressed to the cold window pane, Longing to mingle your tears with the rain-- Is there something down under the snow?
+Is it only a blossom, a summer’s delight, That is freezing and dying this cold, bitter night? That is only a fancy, the floweret is warm, And the drift has enfolded it safe from the storm-- Is there something yet under the snow?
+Something near to the heart down under the snow, That has robbed the wan cheek of its once carmine glow, That has stolen the beam of the eye--tears instead Bespeak how in anguish the sore heart hath bled For a little child under the snow.
+For a dear little prattler that littered the floor, And laughed as he tumbled your work o’er and o’er For a little gold head that made sunny the room, Now bright’ning the darkness and chill of the tomb, That is dreaming out under the snow.
+Only resting awhile in garments all white, Away from the blackness and sin of to-night; Away from the vice and the wrong of the street, Not heeding the song of the rain or the sleet, Still sleeping down under the snow.
+How many a mother her darling would lay In the last, narrow home--hide her treasure away-- If only to know its soul was at rest With an innocent heart in an innocent breast, Far, far down under the snow!
+
+ The Prettiest Girl in Town.
+ Have you e’er seen her, this beautiful girl With that classical head and complexion of pearl? So pale and enchanting that sometimes I deem Her a sweet revelation as when in a dream, Through wild variations of trouble and fear, You suddenly feel that an angel is near. Now guess, if you can, without half of that frown, For to me she’s the prettiest girl in the town.
+The poets all sing of these quaint Highland girls With enchanting dimples and loose tangled curls; Or they weave a love-tale from her budding lip’s glow While chasing the reindeer o’er mountains of snow; This is only the skill of a well tinctured pen, Dipped in Romance’s cup for the praises of men, Who value this maid in the coarse homespun gown Something less than the prettiest girl in the town.
+You must all have watched the calm light of her eyes, And ethereal figure with heavy drawn sighs; Pondered often in secret of some magic gift To win you this face--so like a snowdrift-- I would whisper a secret: On Valentine’s day, With Cupid commune in a sly, cunning way, Else only in dreams she is thine; for a crown Could not purchase the prettiest girl in the town.
+
+ I am Musing To-Night.
+ I am musing to-night in the fire-light’s glow, And watching the pictures that come and go; Like dissolving views on a magic screen Is the witchery of this changing scene; Though half I’m dreaming, though half awake, I fear to move lest the spell I break, Lest my fairy castles will break and fall, And down will tumble each beautiful wall.
+Thus still in a stupor I sit and gaze At the glowing embers and wanton blaze; I am smiling at Fancy; she tries in vain To lure me along with the mad’ning train That follow her footsteps--that to her cling, As flowers that garland the steps of spring; In moody silence I sit apart, Till memory conquers my sullen heart.
+Sweet Memory! sprite of my golden past! Your tinseled veil o’er me is cast; Subdued I yield like one enchained, And yet my freedom is only feigned; Back through the aisles of years that are gone, A willing captive you lead me on, Where I gleaned unbidden the joys of youth While the world was blossoming with love and truth.
+Before my heart could interpret a sigh, Or a tear-drop’s shadow creep into my eye, Ere I’d missed from the circle of friendship’s chain The link once lost that we ne’er regain, The future to me was a vast expanse, Its depth I could solve at a single glance, Knew not of the troubles that torture the soul Hidden away in its sober fold.
+Yet, to-night, as I dream in the gathering gloom, Only friends that are dear softly enter my room, Those who gladdened my life in its season of pain, Like a gleam of the sunshine along with the rain; These, _these_ are the guests that encircle my hearth, Who come gliding like spirits back to the earth. What communion we hold only those ever know Who sit musing alone in the fire-light’s glow.
+
+ A Curl.
+ To-night, as I turned back the pages Of a book Time had fingered before, And whose leaves held the odor of ages, And the imprints of much usage wore, A little brown curl I discovered, That fell from the book to the floor.
+Had I sinned? Heaven grant me its pardon. Did a lover’s sad tear the page spot? Who pressed there that gem of the garden-- The sweet flower, “forget-me-not?” It lay as if carved on a grave-stone, And all of its sweetness forgot.
+I held the curl up to the lamplight, And watching the gleam of its gold, There I heard with the rush of the midnight, A sad little story it told; But I promised the sacred old volume Its secret I would not unfold.
+But I would that the world knew its sorrow, The story I must not reveal; But go to your book case to-morrow. And each to your own heart appeal; And you’ll know why the tattered old volume The little curl tries to conceal.
+
+ Somebody’s Face.
+TO M. A. B.
+ The blossoms are gone from the garden, But ’tis not of them I would speak; I want a sweet rose for my verses Like one that’s in somebody’s cheek. A red rose to kiss and to fondle, Whose leaves will not wither or die-- To gladden each moment and banish The winter thoughts out of the sky.
+I want a low ripple of music To flow through these lines of my choice, Like a zephyr that moved through the summer, Now dwelling in somebody’s voice; A song that will be full of fragrance So sweet that its magic of words Will bring back the balm of the June time, Its memories glad, and the birds.
+The skies are so sunless and dreary, Unless I can find a deep blue To mix with the clouds of November They’ll still wear the dark, sober hue; But memory shows a bright heaven Reflected in somebody’s eye, And, thinking to-day of its beauty, The grey becomes blue in the sky.
+My dear little friend of the summer, Did you think in the meshes of song Your sweet, rosy face would be tangled By a memory cunning and strong? That the eyes looking now on this pattern Would find it so easy to trace? And delight as I do in its beauty-- The beauty of somebody’s face?
+
+ Good-bye, Maggie.
+ Good-bye, Maggie, I must leave you, Far away from you I roam, Far away from friends and loved ones, And your pretty cottage home. O’er my soul a twilight gathers, That is deep’ning into night, But from out the shadowy distance Shines a soft, familiar light.
+It is memory’s beacon lantern, O’er it arching is your name; Round it recollections cluster, As the moth about the flame. Though the future tries to cheat us, Throwing many miles between, Brighter burns the little taper As the distance intervenes.
+Good-bye, Maggie, will you miss me? Absence conquers many a heart, Plucks the roses from the garland, Tears the evergreen apart; Enters at the open lattice, As a guest unbidden not, Draws the curtain o’er the window, Writes upon the door--“Forgot.”
+Oh! what mean these idle sayings, And whence come these idle fears? As I fold you to my bosom On my face I feel your tears; Tears--they are a silent language That interpret best the heart, And I love you for them, darling-- Good-bye, Maggie, we must part.
+
+ The Hermit’s Farewell.
+ Farewell, that sad and bitter word It stirs my soul to-night, As I sit crouching in my cave Above the faggot’s light; Strange, ghostly figures dance and flit Along the cold, damp walls; The black snake glares his drowsy eyes, And from his dungeon crawls.
+The toad croaks near my humble fire, Is loth to hop away, And knows that ne’er again for him Will I in ambush lay; The bats flit idly to and fro, The mice romp through my cell, And e’en the wind that moans without Repeats that word--farewell.
+I move, and think ’tis some weird dream Then mutter “’tis my brain;” For here around my throbbing brow Seems clamped a heavy chain, And like a prisoner doomed to die To-morrow at the stake, I count the hours as they fly, And dread the morning’s break.
+For friends will come to lead me forth, Through frescoed hall and room, To homes where kindred ties await; I fear the hermit’s doom. They’ve tempted me--I fain would rest Here on the dungeon mould, Than dream on beds where curtains swing With sunbeams in each fold.
+For beasts and birds and creeping things Have owned me as their guest, When man would turn me from his door With cruel word or jest; And as I served my scanty meal, In supplicating lays, The cricket and the katydid Would join my evening praise.
+God pitied me, my loneliness He made a sweet content; I found companions in the stars That from the heavens bent; His flowers were friends, the golden rod Smiled in its yellow hood, A sentinel about my door The purple thistle stood.
+But look! the morning’s amber hue Steals on the Easter skies, Farewell! farewell! when Death has closed These dim and longing eyes, In peace to slumber here entombed, Will be the boon I crave, And those who spurned The Hermit’s home Shall shun The Hermit’s grave.
+
+ A Window I Love.
+ There’s an old-fashioned building somewhere in the town That looks on a noisy street, And no matter how often I pass up and down, At the window sweet faces I meet. Little faces that lit’rally beam on the street, Untutored in Life’s trying school, That seem fashioned, my friends, as if just to repeat For our lesson the sweet, golden rule.
+Oft they give us a smile, when a frown we return A kiss prompts the pout of their lip, And though we go by with a step proud and stern, How lightly beside us they trip! Catching the leaves that drift in at the door, Those pretty leaves rusted with rain, That sigh with our hearts when the summer is o’er, And that seem to wear traces of pain.
+There is many a window with drapings of lace, Where the clematis bloom is entwined, Where the moss seems a part of the urn and the vase, Where the awning with satin is lined, Where Wealth sits aloof--garments dripping with pearls Like a Mermaid’s--sole god of the sphere, But the faces I love with their billows of curls You must ne’er think of looking for here.
+For the window I love has no hangings of plush, Neither festooned as if for display, And yet I have seen it at evening’s soft hush Decked out in a wond’rous array Of cambrics and calicoes, sashes and curls, Little aprons and many a toy-- More plainly to speak--there are three little girls, And the king of the house is a boy.
+How I love to halt here! With a satisfied look, I have watched Corinne smoothing a curl, I have seen little Richard lean over his book, I have heard Mary singing with Pearl. And O! I have thanked them again and again For the problems of patience and love That they solve unawares for my less practiced brain When I pause by the window I love.
+RICHMOND, KY.
+
+ Thistle Down.
+ I saw a little child one day Blowing some thistle down away. How light they flew! The wings of thought Grew weary as their course was sought, And e’en the boy, with heart as light, Sighed when he failed to trace their flight; But as by chance, out of the air, One fell upon his sunny hair.
+I saw the tiny sail unfurl, And faintly fan a slender curl. A fairy’s boat it seemed to be, And yet a pirate sailed the sea, And anchored on a golden wave That hid no evil deed--no grave. That thought! Did Heaven foresee the doom? From off his curl I shook the bloom.
+I know not where it chanced to fall, In garden, park, or castle wall; A desert’s sand may scorch its root, A crystal brook it may pollute; A different course from mine it took, And I the path at once forsook. I only know that summer day, Far from the child ’twas blown away.
+
+ Bitter Memories.
+TO REV. H. T. WILSON.
+ A picture is haunting my memory to-night, While I dose in the warmth of an early fire-light. As we strive to remove from the soul an old strain, Thus the outline I’ve tried to erase from my brain; But a specter stands near with sepulchral face. And over my hearthstone the same scene doth trace-- She colors the landscape and scoffs at my tears, As I gaze on the wreck of scarce twenty-one years.
+’Twas the home of my boyhood. In ruins it stood, And autumn had saddened the meadow and wood; The old locust grove, where the crows used to build, The plowshare and harrow together had tilled. Not a sprig of broomsedge did the hillside adorn, But here and there stacked was the newly shocked corn. Not a wild flower bloomed--through my heart ran a chill, As I bowed by the spring at the foot of the hill.
+No trickle of water fell soft on my ear-- Unless ’twas the sound of a swift falling tear-- For Time in his raving had paused here to drink, And I found only dregs as I gasped on the brink. Long I stood, and I gazed like one in a trance, And I shuddered as toward me the specter advanced; Did the chill of her hand then my heart penetrate? Dead, it seemed, as I leaned on the old garden gate.
+Where the sweet-william bloomed on the old fashioned walk, Towered and flourished the rank mullein stalk, Where the raspberry vines purpled over the fence, The iron weed stood just as proud as a prince; But where was the summer-house under whose shade I had gathered the grapes and my sisters had played? “Where, oh! where,” I exclaimed (too unnerved then to fear), “Are the joys of my youth?” “Gone,” was hissed in my ear.
+As the blind lead the blind it seemed I was lead Over stubble and thorns till my feet ached and bled. Then we stood by a door that had rotted apart-- Here the thistle had broken its soft, downy heart-- I glanced toward the mantel, an owl hooted there, And a rat made its nest in my mother’s old chair, “Oh! God,” I repeated, “’tis too hard to bear,” And I knelt on the threshold in low, fervent prayer.
+*
+
+
+ *
+
+
+ *
+
+
+ *
+
+
+ *
+“Why, papa,” a little voice called soft and clear, As she climbed on my knee and kissed off a tear, “What a long nap you’ve had; why mamma’s at tea, Now, papa, wake up and come on with me.” “My darling!” I whispered, and pressed to my face A cheek that was soft as a billow of lace. “What if the old home can not weather the storms When a foretaste of Heaven I hold in my arms.”
+SEPTEMBER 7, 1885.
+
+ An Acrostic.
+ Daughters’ college! Muse, come nearer, And assist my feeble rhyme. Undertaking nothing dearer, Greater, nothing showeth time. Here’s the spot where you, awaking, Taught my infant mind to think; Even as the morning breaking, Richer grows to red from pink. Searched you with me for the treasures, Culled the blossoms half unblown, Opened them within my measures, Letting each bloom as my own. Lifted to my sight a heaven, E’en while lying on your breast-- Graciously for it I’ve striven, Ever hoping for the best.
+
+ My Angel Visitor.
+TO J. T. C.
+ We talked together in the twilight gloom, Her friend and mine of scenes and times long past; And in the shadows of the quiet room, It seemed to me an angel form was cast.
+I saw, and yet my friend seemed not to see The face familiar, with the gentle eyes, Whose presence sanctified the past for me, And made for him a glorious paradise.
+I felt the pressure of a vanished hand Upon my own, and heard a soft robe sweep-- The same has floated from the spirit-land, And often trailed the chamber where I sleep.
+I strove to break the spell that bound his heart, That held his spirit as a bondsman tied, When like a rose that shakes its leaves apart, Her garments rustled close his chair beside.
+And yet he knew it not. The angel face Bent close above his own. So doth the moon Sometimes, unseen, bend from her heavenly place, To kiss a flower that falls asleep too soon.
+“Awake, my friend,” I said, “too soon you sleep; An angel figure stands beside your chair, And I alone the sacred vigil keep.” But as he woke, she vanished into air.
+“O, friend of mine, and friend of hers,” I cried, “A hallowed presence is so soon forgot. She walked on earth an angel by your side, The same as now, and yet you knew it not.”
+
+ Keep a Bright Face, Darling.
+ Keep a bright face, darling, Though the task is hard, Life holds up before you Many a bright-faced card.
+Though the clouds have gathered And darkened all the way, Rainbows o’er you arching Tinge the skies of gray.
+You have said what sunshine Leaked in with the rain Only brought new sorrow, Brought but grief and pain.
+Keep a bright face, darling, Set your scales anew, Weigh again the sunshine And the raindrops, too.
+And you’ll find your measure Hitherto was wrong, Keep a bright face, darling, And on your lips a song.
+Heaven decrees our burdens, And our faith God tries; But a broken spirit He can not despise.
+Keep a bright face, darling-- Even while I write, In the fields of midnight Blossom stars of light.
+Though the morning cometh With a streak of gray, ’Tis a hint of sunshine And a perfect day.
+Journey slow and patient With a purpose strong. Keep a bright face, darling, On your lips a song.
+
+ My Neighbor’s Mill.
+TO M. BARLOW.
+ I love to sit here at the window-sill When the sun falls asleep in the West, And watch the gray Twilight walk over the hill In garments of night partly dressed, And see, through the rooms of my neighbor’s mill, How she creeps like an unbidden guest.
+I love the low hum of the numberless wheels-- They echo the heart-beats of time, Each unto my pen its purpose reveals, Like the magic of meter and rhyme; Or, as to the soul that in penitence kneels, Doth the sound of a slow vesper chime.
+We have been friends together, this old mill and I, Yes, friends that are true, tried, and strong; If over us gather a gray winter sky We faced it sometimes with a song, Or braved it in silence, scarce knowing why, As together we labored along.
+I fancy sometimes as I sit here alone With the calm of the night in my heart, When from the low roof the pigeons have flown, And the stars their sweet stories impart, That this mill unto me in a strange undertone Is speaking as heart unto heart.
+That it bids me look into the granary room Where the yellow wheat is packed; And anon to glance in with the sundown’s bloom Where the snowy flour is sacked, So I look--and it seems in the deepening gloom There clouds upon clouds are stacked.
+What else do I scan through the moonlight’s lace That scallops the window panes; Why, the dear old miller’s honest face, He’s counting his losses and gains, And methinks on his visage I can trace A look that my own heart pains.
+Ah! think of the thousands his bounty feeds-- We beggars encircle his door, While he scatters alike his bundle of seeds To the humble, the rich, and the poor. Sure there’s a reward for such generous deeds, A reward that is brighter than ore!
+But the lights have gone out of my neighbor’s mill, And pale grows the red in the West; The Night has crept up to my own window-sill And pillowed my head on her breast, While over the way--how peaceful and still! The old mill’s asleep and at rest.
+
+ Dripping Springs.
+TO MY BROTHER--D. G. SLAUGHTER.
+ Something moves my pen; its former chime I fain would drop, and gladly lose the rhyme That lights my verse as ore lights up a mine, If on my canvas I could curve and line These quiet hills, and for an hour could say I’d caught the warmth that on the landscape lay, And that I dreamed as artists sometimes dream Who blend their smiles with meadow, mound, and stream; I am indeed a child worn out at play, And weary of my game I long to stray To other haunts, to other heights unknown, And claim that Raphael’s brush as half my own. Alas! forsaken by my Muse I turn And backward glance--she beckons my return-- She floods the old familiar fields with light, She bids me pause, take up my pen and--write.
+’Tis scarce yet dawn, the leaves awake, And in my brow the raindrops shake The only remnant of the cloud That pealed last night with thunder loud;
+The only hint that here with flowers Come sometimes shadows, sometimes showers. The morning is a dream of bliss, The breeze not unlike Love’s first kiss.
+My soul expands--I drink the dew, It gives my veins a deeper hue, I halt where like a singing rill The spring comes dripping o’er the hill.
+I fill my cup again, again, I drink for all--good health to men-- I hear the rising bell’s faint sound, The porter makes his usual round.
+And black-eyed Easter trips along The kitchen porch with smile and song, We find a poem in her churn, An essence in her coffee urn;
+We note the pale dyspeptic’s cheek Is growing rosy, round, and sleek; His torpid stomach forced to fast, Here soon partakes the rich repast.
+Breakfast over, ’round the springs The guests assemble--some in swings-- And those of a romantic turn Stroll two and two in search of fern.
+For them the woods have more than speech, A calm that to the heart doth reach, That perfect peace of mind and soul The sacred Book to us hath told.
+I deem that morning holds more charms Than day hides elsewhere in her arms; But when she folds her shadowy tent, And stars laugh in the firmament,
+A newer phase doth nature take, And in the heart new joys awake. Some love the ball-room’s din and glare As soft they trip some favorite air,
+Some love to lounge about the spring, Some frequent spots where hammocks swing, And others saunter to the pool Their tired limbs to bathe and cool.
+But give me just the shady rook That o’er the dripping spring doth look, And let me watch the bright lamps flash, And let me listen to the splash
+Of the old spring that drips and drips, To cool and cure the fever lips. Who could forget the landlord’s vim Or cottage rooms so neat and trim?
+Who would not leave the city’s glare, The heat, the dust, and stifling air-- Who would not part with all his wealth To gain at Dripping Springs his health?
+
+ In Memoriam.
+ They tell me she is dead, that we no more Upon her quiet face can rest our eyes, Yet long we for it, as a weary bird Longs all in vain to rest upon a cloud That heavenward floats. And yet there’s solace still In musing on her faith so strong and pure, That recognized, through pain, God’s every wish, And dreaded not to taste death’s cup if so By Him decreed. I was not there to hold Her hand; it chilled within the orphan’s palm Until by angels clasp’d. I could not twine The flowers she so much loved about her shroud, Or speak a word of comfort to the friends That sobbed, and kissed the lips grown strangely cold, That never parted but to speak in praise When others tried to censure; but my heart Beats sad to-day the measures of my verse, And tear-drops fall. So falls the autumn rain Upon her grave, and drifting are the leaves Upon the mound that loving friends have raised In memory of her, whose spirit rests To-day with God.
+
+ The Old Orchard Trees.
+ Why cut them away? The dear old trees, They never did aught of harm, But scattered their perfume out to the breeze, And sheltered the birds from the storm.
+For an age they have stood on the town’s outer meads, The skirmish and battle have braved; Alike they have gazed on the war’s bloody deeds, And the white flag of peace as it waved.
+But you cut them away! my pleading is vain! In their shade moves the carpenter’s hands, I watched him to-day as he leveled his plane, And he spoke of the architect’s plans.
+Then a wave of distress in my heart flowed anew, For dearly I love each old tree; Ah me! many secrets are hidden from you That the apple trees whispered to me.
+I used to go by, and the sweet morning air, Like incense, arose from the spot, It would crowd from my heart some pain gnawing there, While the world with its cares was forgot.
+Here, I’ve heard the first news of the blue bird and dove, And the round, silver note of the thrush, A concert, with sweet variations of love, Seemed pouring from tree and from bush.
+I walked there to-day; as an accent profane That falls on the heart and the ear, I heard the harsh echo of hammer and plane, And the pant of a mill in the rear.
+So I muffled my face with the veil that I wore-- Time, that moment of pain can’t appease; Unless like the birds from the scene I can soar, And like them, forget the old trees.
+
+ On the Hill-top Grow the Daisies.
+TO CARRIE ROGERS.
+ I chanced to stroll not long ago To a green valley that you know; For everything about the town Was strange, and on me seemed to frown, And so I wandered off alone, To seek the friends from youth I’d known. The brook came dashing down the hill, The same old song to hum and trill; With glances shy and kisses sweet, It wound its ribbon at my feet, And laughed aloud at my delight-- It was indeed a comic sight To see me o’er the brooklet bend, And greet again an old time friend.
+So thus I sat, perhaps an hour, Until I spied a human flower; A little maid it seemed to be With steps directed straight to me. Her dress was pink, her bonnet white. Her eyes were blue, and round, and bright, Some daisies in her hand she held But where they came from--would she tell? Were questions that my eyes portrayed, And she the answer quickly made. “Upon the hill-top high they grow, The path is there by which you go, But if you get them you must climb,” She said, unconscious of the rhyme.
+I glanced along the rocky ledge; The daisies nodded o’er the edge, And just as far as I could see They waved their ruffled caps to me. Bright eyes that never had grown old Their heart’s content to me foretold, And I resolved the path to try That seemed to end so near the sky; And so I started up alone, A way that seemed with mosses sown. A pond’rous clod rolled on the track, A briar reached and pulled me back, A lizzard on the pathway played, And half way up I paused--afraid.
+“Keep on,” the little girl replied, “A better path is near your side.” She pulled the thorn from off my gown, I heard the clod go plunging down, And then she clasped with mine her hand, And led me up to “daisy-land.” The hours we spent together there Were hallowed as the hours of prayer, And when she left me in the vale The sunlight suddenly grew pale; But she had taught me this strange truth, Forgot, or never learned in youth, It seems a little song in rhyme, “To reach the daisies, you must climb.”
+BARDSTOWN, KY.
+
+ Ella Lee.
+ Where is Ella? Ella Lee? How I’ve missed her childish glee. Missed her step so light and airy, Missed the darling little fairy. She was nimble as a fawn, Lovely as the blush of dawn, And her voice sweet as the rill Gliding down the grassy hill. Where is she, I’ve missed her so, Surely some one ought to know.
+I have called her in the crowd, Called her soft and called her loud, Called her sad and called her sweet, In the house and on the street. Yet she does not seem to hear, Though I’ve called her far and near. Hark! I hear a blackbird’s note, And he wears a brand new coat; Surely some sweet word he brings, On his iridescent wings.
+Let me hail him by this tree. Listen! now he sings to me, Tells me, in his honest way, That our darling’s gone away. Far, so far away she roams, Into other hearts and homes, Ah! the budding little flower Sweetens every empty hour, Making earth a dream of bliss By the magic of her kiss.
+Though she fled like a sunbeam, Still I hold a treasured dream, And were she to skip to-day, In her easy, childish way, To the playground of my heart, Childhood’s gate would fly apart, And she’d find the violet’s face, Smiling still in memory’s vase; Green and fresh the springtime sod, That her dainty feet had trod.
+
+ What is the West Wind Saying.
+ O! What is the west wind saying! It whispers so strange in my ear, As if some sad message delaying, From friends who are absent and dear. It laughs with the leaves on the tree-tops, And bows as the cloudlets go by, And plays with the flowers For hours and hours, Yet for me has only a sigh.
+O! what is the west wind singing? ’Tis rocking the birds in the nest, And over the world it is flinging The emblems of quiet and rest. New comfort it brings to the mother, And hushes the babe on her knee, Singing softly to her And the tired laborer, Yet sadly and strangely to me.
+O! what is the west wind showing? New faces look strangely in mine, Stranger tints in the sunset are glowing, Somber shadings of amber and wine. Far away the blue hills seem to beckon Me back to a sweet cottage home, Where the rose and the vine ’Round the door-way entwine-- Alas! that from them I must roam!
+O! what is the west wind asking? Why question a stranger like me? If a friend, why so perfect the masking? Your counterpart glad would I see. Ah, a friend in disguise! what is sweeter, Come, let us together commune, If you bring but a kiss From the loved ones I miss, I can ask of you no greater boon.
+
+ To a Mountain Stream.
+ Glad as childish laughter From a childish throng, Sweet as bird voice after Daybreak is your song.
+Racing down the mountain On your shining feet, Waltzing at the fountain To its love song sweet.
+On and on you travel, Leaving me behind, Like a silken ravel With the weeds you wind.
+Laughing at distresses; Braving battles, too; Who your trouble guesses, And your sorrow--who?
+Tell me as you hurry Through the stubble field, Why not stop to worry-- But no frown’s revealed.
+Sometime you must weary Of this constant strife; When the clouds are dreary, Tire you not of life?
+Of the dead leaves drifted On your saddened face, And the snow flakes sifted From the cloudland place?
+Yet you ne’er repineth, But alike content With the sun that shineth, And the rainstorm sent.
+Teach me half the beauty That your heart must know, And through fields of duty Like you, will I go.
+
+ Pen Pictures.
+(WRITTEN DURING A SNOW-STORM.)
+ I love the snow flakes in the air, When from the heavens they downward dart; I love to watch them sailing there, Like thoughts freed from a poet’s heart, Uncertain which, the earth or sky, Should claim their last abiding place; And yet I watch them drifting by, And strive to join the airy race.
+The railway cars like spirits glide Through many a mountain’s haunted tomb, Above the river’s solemn tide, Along the ravine’s chilly room; On, on, through cedar groves we wind, That yesterday a zephyr wooed; To-day they stand with heads inclined, A sad and stricken multitude.
+The sky bends low with heavy clouds, And from the long slope of a hill, The pines look down in spotless shrouds Upon a valley whiter still. A tiny stream runs breathless by, Affrighted at the ghostly sight; The sun sleeps in the western sky, And twilight deepens into night.
+The train glides on. Each mountain scene Is like a panoramic view, Though oft I toward the window lean, To scan some object that I knew. I see a log hut in the vale, And rustic children glad and warm; A mother’s face, forlorn and pale, Looks out upon the winter storm.
+The little cascade down the glen Is falling like a mourner’s tears; The wind shrieks by, and from his den Jack Frost hangs out his icy spears, Defying e’en the piling drift; And while the Winter King he warns, Lo! through a cloud above the cliff, The young moon shakes her silver horns.
+Orion next his rage revealed, As if he, too, the insult felt; He raises high his club and shield, And swings his bright sword from his belt; And like a demon downward driven, The howling wind his dungeon seeks; For nature sees the hosts of heaven Resent her cold and heartless freaks.
+The storm grew still, and I could see The clouds above the cliff disband, E’en as the wave on Galilee Grew docile at the Lord’s command; And as I shake from off my pen The ink that stamped these pictures chill, I seem to hear those words again Breathed softly o’er me, “Peace, be still.”
+JANUARY, 1886.
+
+ To Mother.
+ I heard a song last night, mother, A song you used to sing, When like a little bird, mother, With weak and unfledged wing, I played about your flowing gown Contented with your smile, Though all the world should cast a frown Upon your happy child.
+The song I heard last night, mother, Came floating through the door As if some angel voice, mother, Had sung it oft before; But, O! I missed the patient pause, The low accustomed tone, I turned away heart-sick--because The voice was not your own.
+Those dear old songs you used to sing, That made my heart-beats rhyme, Have bubbled up from memory’s spring, Ah! many and many a time. When thirsty or with thought oppressed, When tired of the sunshine, When longing for the shade and rest, I hear those songs of thine.
+They’re just as low and sweet to-day As when I heard them first; And though I am so far away, The field glass though reversed, Holds still a picture that I love, Three faces--four with mine-- Another looks from heaven above, A little face--like thine.
+
+ The Broken Heart.
+TO MISS F. B.
+ He brought me a heart one morning, Brought me a heart to mend; And he said (I shall never forget it) “’Twas broken by your friend.”
+“The wound will grow deeper and wider,” He said in a sadder tone, “Unless you devise some method To place it against her own.”
+Then I crept away to my chamber, But a thought, like a silver stream, Kept trickling along the wayside That bordered my restless dream.
+So I hid this heart in a lily, When the dawn began to break-- In a beautiful water lily, That grew on the rim of a lake.
+Yes, down on a snowy pillow, In a cradle warm and deep, I laid the little foundling, And a ripple rocked it to sleep.
+The dawn came up with blushes, And shook from her gown the dew; And I heard the song of the skylark, As into the clouds he flew.
+But the heart dreamed on in the lily And I went at the close of day, And found that my little treasure Was chilled by the foam and spray.
+So I warmed it upon my bosom, Then cradled it back on the wave; But I feared that the lily’s offspring Was doomed to a watery grave.
+So I watched till the daylight vanished Through the sunset’s purple bars, Till the night climbed over the willows, And lit up the moon and stars.
+I thought I heard your footstep, And low in the reeds and grass I crouched, that there, unnoticed, I might behold you pass.
+You came in your regal beauty, And, bright as the weird fire flies That illumined the waving rushes, I saw your glorious eyes.
+You kneeled on the mossy margin-- I counted the lilies there; Two buds and a creamy blossom Were fastened in your hair.
+Another was drawn from the water, And, pushing the reeds apart, I saw ’twas the very lily Wherein I had hidden the heart.
+You pinned it low down on your bodice, Half hidden it lay in the lace, And you passed by--“a two-fold existence,” A new light enriching your face.
+And though I am absent and distant, Methinks I can still hear the tone Of a heart that, with happy emotion, Is beating, aye! close to your own.
+
+ A Year Ago.
+IN MEMORY OF MY DEAR FRIEND, SCOTTA P. PROCTOR.
+ A year ago I held in mine her hand, And felt the pulses quicken and dissolve, While o’er her face a light from heaven’s own land Seemed all the mystery of death to solve.
+She raised her weary eyes to mine and sighed-- Sighed as a flow’r o’er which the storm clouds bend When long the promised sunlight is denied, And cold and heavy rains from heaven descend.
+She tried to speak; I knelt beside her bed, That one last wish she might to me impart; A whisper came, and then the spirit fled Like some sweet thought long prisoned in the heart.
+A year ago I twined the lilies white About her shroud, and with the coffin’s lace, For she had loved them; all the long, long night They press their waxen lips upon her face.
+I heard the funeral bell toll sad and long-- My heart reverberates to-day the sound-- And then there came a prayer--a pause--a song, And blossoms next were heaped upon a mound.
+I turned aside and homeward bent my way; Alas! the face I loved so long--not there-- Sweet memories arose to gild my day, But sadder ones to mock my heart’s despair.
+Where is she now? you think the grave can hide A friend so true within its dungeon deep? Ah! no; she walketh ever by my side, And watches o’er me when I chance to sleep.
+We stroll abroad oft at the twilight’s hour To memory’s garden. Under memory’s tree She pulls the silver mask from many a flower, And reads its tender secrets all to me.
+She guides my pen along uncertain heights, Where unattended I could never go; The candle of success she often lights When the flame flickers and the wick burns low.
+She leads me to the grave and says, “Not here, But there,” and points me to the heavenly gate; And when upon my cheek there falls a tear (For sometimes yet my heart grows desolate),
+I feel upon my face her own soft hand, And glimpses of her robe sometimes have seen. O, happy thought! how strong is friendship’s band, When out of heaven an angel friend can lean.
+A year ago! sad, sad that parting day, And sadder still, the last, the long adieu. Death called the angel of my heart away-- And now she opens heaven to my view.
+MAY 16, 1886.
+
+ A Christmas Peep.
+ I passed a toy window, And many pretty things Old Santa Claus had labeled, And tied with silken strings.
+A kite was bought for Jimmie, A little stove for Kate, A doll for Capitola, For Charlie a new slate.
+A silver knife for father, For mother, dear, a fan, And the prettiest little fiddle Was bought for baby Dan.
+Hang up your little stockings, And keep the fireside bright, Old Santa Claus is coming, His sleigh is out to-night.
+Ten dollars worth of candy Was emptied in his sleigh, And peanuts by the barrel, To be eaten Christmas day.
+His lap was full of toys, Little drums and little ships, Little buggies, little ponies, And little riding whips.
+The baby dolls were sleeping In their cradles snug, But the others all were peeping From underneath his rug.
+Old Santa was so happy, That as he drove along He jingled ever sleigh bell, And sang a Christmas song.
+So don’t forget him, children, He’s on the way to night, Hang up your little stockings, And keep the fireside bright.
+
+ Winnie’s Christmas Eve.
+ Poor little Winnie had plodded the street, Up and down through the rain and sleet, Singing her innocent songs all day, In a sweet and merry childish way; Asking sometimes for the night a bed, A bowl of milk, or a crust of bread.
+She had sung on the corners and city square, But no one had time to remember her there; Numbers had passed her who never before Failed to toss in her basket a penny or more. It is Christmas; their hearts are so happy and light-- But poor little Winnie’s forgotten to-night.
+Chilly and rayless the sky seems to frown, The clouds, too, are shaking the soft snow-flakes down; Over her pretty face, waltzing they fall Into her bonnet and folds of the shawl; Think of it, fathers, with firesides warm, Poor little Winnie is out in the storm.
+Backward and forward the tired feet go, From her lips little ripples of music still flow. Homeless and hungry, still begging for bread, Receiving a curse and reproaches instead; Shiv’ring with fear in the pitiless light, Poor little Winnie is starving to-night.
+Alone in the street, yet the little lips move, Trying to echo those accents of love. Ah! think of that, mothers! those syllables sweet Of your darlings, how fondly the same you repeat! You are trying so faithful to lead them aright When poor little Winnie is freezing to-night.
+See her! How slowly she’s moving along-- Her lips are too icy to echo the song. How changed are her features! How feeble! how weak! A pallor creeps over her forehead and cheek-- Perhaps it is only the flickering light, Ah! no; little Winnie is dying to-night.
+The revel is over in parlor and park, The bonfire vanished, the street is so dark; The snow-flakes are falling in many a heap, The city is quiet, at rest, and asleep; But there in the shadows, scarce out of sight, Little Winnie lies dead in a snow-drift to-night.
+
+ My Heart’s Little Room.
+TO LIZZIE, DORA, AND GRACE.
+ There’s a dear little chamber somewhere in my heart That opens to only you three; Though many have tried to unfasten the door, They picked at the lock till their fingers were sore, For to file it apart Vainly proved every art, And in vain have they sought for the key.
+Many times I go into this quaint little room, The pictures to change or adjust; I see your sweet faces grouped there with my own, And I wonder that I feel so strangely alone; But about through the room I move briskly the broom, And sweep from the corners the dust.
+The windows I throw open wide to the air To let in the breeze and the light; I watch the sunbeams in their mischievous way Creep into the curtains, like children at play, And while I am there I have no thought of care, For the room is so warm and so bright.
+And oft I look up from the balcony’s brink To a sky that shows many a hue; A vine clambers thickly the window above, Where my birds sing together their rhythm of love; My thoughts with them link For I sit here and think And all of my song is for you.
+Ah! some day I know you will come back to me To rest in this queer little room; And that’s why so tidy and clean it is kept, The air always fragrant, the floor always swept, For I long here to see My sweet roses three, As from buds into blossoms they bloom.
+Then come when you may, be the sky black or blue, The lock will unclasp as of yore; For (unless Death should come introspecting my heart, And break down its barriers and wrench them apart), A friend that is true Will be watching for you, Ever waiting to unbar the door.
+
+ The Three Muses.
+ Methought three muses in disguise As angels tapped upon my door, And a dim light from paradise Fell on the instruments they bore. One held a zithern in her hand And lightly swept the throbbing strings; And, O! it seemed a fairy land Was stirred by unexpected wings.
+I held my breath and prayed that night Would be extended into day, But with the thought came morning’s light, And low the echo died away. An artist’s canvas, pink with dawn, The second angel turned to me, Her brush strayed o’er a grassy lawn And dotted here and there a tree.
+All blooming in immortal dyes, With streamlets winding clear and blue, Where, looking from the far off skies, The clouds were mirrored to my view. But when the sun blazed from the sky, And on the painted landscape shone, I heard the artist angel sigh, And when I looked she, too, had flown.
+The scratching of a pen I heard And saw a face demure and sweet With inspiration. Every word I begged the angel to repeat. A thousand zephyrs fanned the air, Tuned low with hum of birds and bees, No need of zithern music where Æolian harps were in the trees.
+No need of artists to rehearse Upon the canvas nature, when I saw the world revolve in verse Upon the axis of the pen. “Be thou eternally my guide, Teach me your mystic pen to use! O! linger ever near,” I cried, “Musician, artist, poet--muse!”
+
+ A Recollection.
+ In my heart there is a fragrance not of bursting buds or bloom, But a faint delicious essence floats as out of memory’s room.
+Like a zephyr blown from heaven some sweet message to impart, Comes a fragile recollection down the by-path to my heart.
+Fragile did I say? So fragile that the lace-wrought butterfly Would not tilt its wings to bear it back from earth into the sky.
+Yet perplexed as to its mission down the pathway I retreat, Hark! an echo in the distance, as of silver-slippered feet.
+Why should I evade its coming, when ’tis such a little thing? Just a tiny recollection that my thoughts have given wing.
+Soon, too soon, ’twill overtake me, see! ’tis gaining on me fast-- In my soul the rose leaves quiver--withered rose leaves of the past.
+It is useless to dissemble, further fleeing is in vain, ’Round my heart I feel the tight’ning of a slender silken chain.
+All the past spreads out around me, as if by the Hand above, So I turn, and find I’m standing face to face with my first love.
+
+ Don’t Question Him Why.
+ Don’t question him why if at times you can trace A sorrowful something that looks from his face; Though it shadows his brow as a raincloud the sky, Look on it and wonder--don’t question him why.
+If he steal from your side when the twilight descends, And wander away from old comrades and friends, To rest unobserved in some shady retreat, Where the past and the present seem always to meet,
+Don’t follow him there; let the stars overhead Their better and holier sympathy shed-- And should an old love-light illumine his eye, Though you bask in its splendor--don’t question him why.
+For, out of the past that is shrouded away, Looks a face omnipresent, unseen by the day. A face like no other--a face in the sky To be looked at and worshipped, but not questioned why.
+Should his lips meet your own with an indifferent grace That hurries the bloom to your averted face, Though Doubt is a sentinel stationed near by, Beware of his bayonet--don’t question why.
+You may ask if you choose as he moves through the dance, If ’tis Beauty or Passion that cowers his glance, But question him not, O! ask him not why There awoke in his bosom that deep-seated sigh.
+Should he turn from the ball-room sometime with disgust And shake from his sandals its memory and dust, To bare a sick heart with its fevers of sin, Beg heaven to filter a dewdrop within,
+But question him not, for a word like a spark Would quicken the pulses reduced by the dark; Leave, leave him alone with his sorrow and God, And let Silence spread o’er his heart’s grave the sod.
+
+ Why?
+ Why is it that I keep her glove-- Poor little phantom of lost love-- Why was it that I wore her ring, And love the songs she used to sing, And treasure under lock and key, The letters she has written me? Why?
+Why is it that where’er I go, As footsteps follow in the snow, As low and light, she seems to glide Along the highway at my side? Yet, when my arms seek to embrace Her form, then vanishes her face. Why?
+Why is it that no other tone Falls on my ear as did her own? No other hand so soft and white, No other eye so warm and bright-- Though other lips I since have pressed, I something missed--the truth you’ve guessed. Why?
+
+ A Sunset Longing.
+TO F. S. H.
+ What meaneth this unrest within my heart, And why do I sit here alone and sigh? The sunset throws its garnished doors apart, And palace halls are opened in the sky-- I gaze upon the gold strewn in the west, A miser, of his jewels dispossessed.
+I have played in the sunset’s crimson rain, And felt its saffron torch wave o’er my brow, That heated to excess my maddened brain, And threw a halo ’round my heart--but now, Like some poor bird far from its kindred sky, I look into the sunset--look and sigh.
+I have no friend to lean upon my heart, Ah! how I miss the pressure of thy hand, And thy dear voice seems of the past a part; Thy figure like a shade from shadow-land. I think I would be happy if you came And touched my hand, or softly called my name.
+If I could look into your face to-night, And search the deep mines of your pensive eyes, Sure, I would find there a responsive light, To dissipate from out my heart the sighs; And then I know my lips would lose their scorn, And in my soul a new impulse be born.
+If we could wander off far from the crowd Among the hills--our voices there unheard-- Where once our hearts in unison beat loud, To the sweet song of some wild mountain bird, I think the twilight vail would lose its gloom, That shrouds to-night the windows of my room.
+Perhaps ’tis wrong that I should sadden you With these rain-droppings that my heart-clouds shed; Gladly would I distill a drop of dew Down deep into your flower-like heart instead. Some other night, if separation’s sky Should clearer grow, dear absent one, I’ll try.
+
+ Journeys.
+ Oh! the many, many journeys I have taken in a day! Journeys short and journeys long, Journeys right and journeys wrong; Often pausing on the way, Themes so grand my thoughts delay-- Themes suggesting instant song-- Lofty, good, Scarce understood, Dying ere I knew their worth, As an infant dies at birth.
+Oh! the melancholy journeys That on earth my eyes have seen! Over cemeteries vast, Like a spirit I have passed, Where the helmet and canteen Cankered near a grave-stone lean, Where the warrior’s sword was cast; And the mould, So shallow rolled, That the eagle from on high Dropped his penetrating eye.
+Oh! the mad, exciting journey! Floating down the sunset’s tide, Where there is no sign of sail, Neither any promised gale. Flames about on every side, Every hope from me denied. Even the clouds I can not hail; As they drift, Their cinders sift On the water where they float, Like a freighted, burning boat.
+Oh! the sweet, yet lonesome journey That I always take alone! Back into the vanished past, Where the sunshine runneth fast. There the rose is open blown, There I hear a loving tone, There no twilight shades are cast; But complete And very sweet Is the dawn, when, like a child, Love looked in my heart and smiled.
+Oh! the happy, happy journey, With my loved one near my side! Open stands the prison room; We forget its chilly tomb. Over fields of grain we glide, Over rivers broad we ride, Drinking up the earth’s perfume; Like a thought The muses taught-- Onward o’er the world we fly, Like twin clouds born of the sky.
+Oh! the swift, inspiring journey, Far away in unknown space! Where my castles stand complete, And the gardens full and sweet; Where the moonlight weaves its lace, And a friend’s is every face, And this land, need I repeat, Is of dreams? Here crystal streams Lose their way, as from the throne, In this country all my own.
+Oh! the elevating journey! Toward the zenith now I bend, Far above the mundane sphere, Stars like mighty worlds appear. Losing sight of home and friends, Higher still the path ascends. Heaven is dawning very near; But I pause, Alas! because To a mortal such as I, Heaven an entrance must deny.
+
+ The Lost Poem.
+ Long ago beside my window, with an open manuscript, I sat looking on a forest that with gold and brown was tipped, Heeding nothing save the sighing of my own heart and the trees, When into the open lattice like a whisper came the breeze.
+Lingered at my lips a moment, past my temple then it crept, And from out of my listless fingers an unfinished poem swept: “Stop!” I cried unto a footman that was passing on the street, “I will give you thirty shillings if you’ll bring me back that sheet.”
+But he gazed into the heavens as he would upon a kite, And I watched it sally upward, fading faster from my sight; Then I said unto a swallow that flew by on rapid wing, “Open wide I’ll throw the granary if my poem back you’ll bring.”
+But he only flew the faster, and was soon beyond my sight; And the daylight vanished from me, and to mock me sent the night. O! there’s naught can daunt a spirit when the inner heart’s afire, And the darkness sent upon me only did my aim inspire.
+So I sought an humble dwelling, to a fortune-teller went, And I tarried with the gipsy till the night was almost spent, But I left her door disheartened; for she only said to me: “Take this, search, and when you’ve found it, send or fetch again the key.”
+“But,” said I, “’tis lost in nature, in the sky or hills among,” And the key back in her shanty with an angry word I flung; For prophetic seemed her language, and my purposes were mocked, If henceforth the heart of nature, Fate against my own had locked.
+“Take it, search,” again she muttered, as I started to depart; “And be careful how you use it; for it fits the human heart.” In her hand I dropped a coin, and before the eye of day Peeped from out the morning’s cradle I was far upon my way.
+Like the breath of early roses, like the whisper of a bird, From a little maiden passing, a sweet laugh methought I heard. “She has found it,” I repeated, “there’s no use for any key.” Said the pretty little damsel, “My heart’s open, don’t you see?”
+Yes, I saw, and there were treasures such as kings would love to own, Who would sacrifice to gain them e’en a jeweled crown and throne-- Buds and blossoms, song and laughter, humming-birds and butterflies, Singing brooks and sparkling fountains there, and peaceful were the skies.
+But the poem it was missing; so I journeyed slow along, Till I heard a mother singing to her babe a cradle song; And I tried to get permission in her heart to fit the key, But the lullaby continued: “Do not interrupt,” said she.
+Next I hailed a youth that passed me, and his face was wond’rous fair, And I searched long through his heart’s book, but the poem was not there; “It is lost!” I cried with sorrow, as Despair held out her cup, And I quaffed the bitter liquid, and the idle search gave up.
+*
+
+
+ *
+
+
+ *
+
+
+ *
+
+
+ *
+Years have passed, and just this morning I was called beside a bed, Where the sheet lay still and sober over an old lover spread; Sad and pallid were his features, clever, too, Death’s new disguise, But I read the old, old secret, even in his half-closed eyes.
+Then a thought--“The key,” I whispered, lest I should be overheard, And I sought the heart, unlocked it; found my poem--every word. Oft revised it was, and polished, wore the features, too, of Fame; And I read with strange emotion, just below inscribed my name.
+O, it was a trying moment! If the poem I should claim, I could mount upon the ladder to the topmost round of fame; But my evil spirit yielded; for I could not rob the dead, So I locked the sacred prison, and above it bowed my head.
+*
+
+
+ *
+
+
+ *
+
+
+ *
+
+
+ *
+Rather would I find engraven in a steadfast heart my name, Than in shining words enroll it high upon the tower of fame.
+
+ A Maple Leaf.
+TO M. B. S.
+ Glancing o’er a childish volume where sweet thoughts like blossoms lay, There between two oft read pages, a pressed wreath I found to-day. Golden-rod and aster flowers lay with bloom all crushed and dead, But a maple leaf among them still retained its gold and red.
+In my hand I took the treasure, held it up before my face, And the sunlight, then declining, solved its geometric grace. Many a road and by-path meeting proved the interwoven veins; And a forest rose before me, flaming like my window panes.
+As a vision that is pictured by an angel in the night, Soon a figure, sometime vanished, rose to my exultant sight. Like a goddess of enchantment, there she stood beneath the trees, And her face was like a lily, and her eyes like summer seas.
+Then I thought, “For me she’s waiting”--so I glanced off to the right, For I feared it all a fancy, but I found my home in sight; Heard the town-clock slowly striking, and the same familiar bells, Saw the court-house and the churches, and “The Summit,” where she dwells.
+So I then no longer doubted, down a meadow path I strolled, Leading off into the woodland that had stole the sunset’s gold. Overhead the birds were flying, but a black winged happy throng Paused; for we had been old comrades and they sang a farewell song.
+But the thoughts that followed after, though the birds away had flown, Were so happy, for she met me, linked her arm within my own. Up and down the path we wandered, gathering leaves and grasses gray, Until darkness drove the twilight o’er the hill where fled the day.
+Darkness! and her face had vanished, all alone I seemed to stand, But I heard her step departing, and I grasped again her hand. Held it tight, and tighter pressing, in a happy strange belief, Till I ’woke, and found that dreaming I had crushed my treasured leaf.
+
+ A Gallop With Santa Claus.
+ I was thinking last night of the children Far away in a home that I know, Of the dear little girls at the window, And the boys out at play in the snow; Of the stockings hung up at the chimney, Of the little hearts hopeful and glad; And thus I kept thinking and thinking, Until I grew homesick and sad.
+So I turned my eyes out on the landscape, As my thoughts were unwilling to go, And I saw ’round the curve of a hillock Three ponies come, white as the snow; A sleigh next appeared and a driver, Oh! my heart beat so fast then--because, As he drew up the reins at the door-step, I found it was old Santa Claus.
+Such shaking of hands and such greetings I fear I shall nevermore see; For every big doll in his wagon Was looking and laughing at me. “No minutes to lose,” said old Santa, “I’ve hundreds of miles yet to go. Will you please to partake of my journey, And gallop with me o’er the snow?”
+No sooner than said I was seated, All ’round me he folded the fur. He made a loose rein for the ponies, And urged them with whip and with spur. Away and away o’er the country We flew like the glances of light, Down streets that were blazing with bonfires, On, on through the snow and the night.
+Then all of a sudden he halted In front of a house old and dark. There was no friendly ray at the window, And on the hearth-stone not a spark. But he entered, and, by a dim lantern That swung from his new scarlet cap, I saw the sad face of a woman Asleep, and a babe on her lap.
+And two pretty faces beside her, A pillow of straw almost hid, But the little hands looked as if frozen That lay on the patched cover-lid. A snow-cloud had sifted its samples, Of eider-down over their feet, And a star, looking in through the shingles, Was spreading o’er them a bright sheet.
+Old Santa had lost not a moment. A cedar tree suddenly sprung Into life just in front of the children, With pop-corn and bright ribbons strung. Some tiny wax candles were lighted, To chase off the thoughts of the night; And the dollies had met in the tree-top To dance in their dresses of white.
+A kite that could climb into cloud-land Hung low, and a new picture-book; A street-car “wound up” for its journey, And a little boat built for the brook. Oh! all kinds of candy he left them That ever I tasted, or you; And under the tree there were apples And peanuts--a bucket or two.
+He built them a fire, and dresses Were left, made of flannel so warm; And, with many nice greetings and wishes, We galloped away through the storm. Away, and away sped the ponies, So fast that none could o’ertake-- So fast (it was told me this morning), We looked like a winged snow-flake.
+But soon at a homestead we halted, Old Santa said I must alight, To see if the children were sleeping, And leave them whatever was right. So I crept to the casement--it opened, And I saw what I ne’er shall forget-- Those darlings there slumbering sweetly, The thoughts of the night-fall had met.
+We gave them all kinds of nice presents, What they were, it is useless to say; For they’ve found them and now are rejoicing, And happy this glad holiday. So children, be kind to each other, Be gentle and loving--because I may be invited next Christmas To gallop with old Santa Claus.
+
+ Home Memories.
+ I am thinking of a cottage Where the roses used to bloom, How they talked beside the pavement In low whispers of perfume, Or climbed up beside the window To look in my little room.
+I am thinking of the door-way Where the vine I used to train, That snowed down its flaky petals With a pleasant summer rain; Where I used to sit and listen To the old mill’s low refrain.
+I’m thinking of the sunflower, too, That towered above the gate; Of the friends who called me hither When the day was cool and late. Ah! those hours seem so distant And the year, an ancient date.
+I am thinking of the grape-vine Where the crippled robin fed, How he lingered there each morning ’Till fresh crumbs for him were spread. Is he feeding there this summer From a stranger’s hand, instead?
+I am thinking of the children Who crept to the little yard, Begging me to grant permission That they play upon the sward. Could I bar them from the entry? Thus might Heaven me discard.
+I am thinking of a morning That wrung from my heart a sigh, When I kissed warm lips that trembled, With a tear-drop in my eye; While I closed our cottage windows And pronounced the word--good-bye.
+
+ Sunshine and Shadow.
+ I passed a pretty cottage place, A rose looked from the door And smiled so sweetly in my face I paused the house before. The honeysuckle from the wall Threw down a welcome tear, The breeze came rushing through the hall And whispered, “Tarry here,
+“For all within is peace and love;” So through the curtain’s lace I glanced the reckless words to prove, And saw a lover’s face Bent close above two eyes of blue. Why should I dim their day? Across the pane the blind I drew, And softly crept away.
+I went again, one summer eve; The rose blushed at the door But smiled as sweetly to receive Me as it did before; The breeze came out as joyously, And lingered at my side, And murmured: “Tarry now and see Our happy groom and bride.”
+“O, no!” I said, “some other day I’ll call the pair to see.” But as I turned to go away They both looked out at me. O! what a light of hope and love Their features then o’erspread; And a shekinah from above Seemed on the cottage shed.
+Years crept away. When next I came Before that open door, A little child pronounced my name That golden tresses wore. “Will you come in?” she gladly cried, And opened wide the gate. “My little one,” I slow replied, “The day is low and late.
+“To-morrow when the sun is bright, I’ll come and play with you; Too chilly now, the falling night, Too damp the evening dew.” And so I did. I often trod Along the side yard there; And found that fresher grew the sod, The sky more bright and fair.
+I once had said that every rose Held just a briar or two, And every river as it flows A dark wave with the blue; But ’twas not thus I found it here, The world that night I’d tell That I had found a sky so clear That rain drops never fell.
+Thus musing on that sweet child’s face That night I could not sleep, A shadow seemed the light to chase As storms the ocean sweep; And when the stars forsook the sky And birds their matins sang I strolled again the cottage by And loud the door-bell rang.
+The rose had dropped its leaves and died, I heard within a sob. What did it mean? The winds replied “Crape hangs upon the knob.” Softly I raised the window’s lace-- The little child was dead-- I threw a flower across her face, And from the cottage fled.
+I never will go back again Or push the blinds apart-- I sought a sunshine for my pen, Found shadows for my heart.
+
+ Only a Fern Leaf.
+TO H. M.
+ Only a fern leaf, darling, Yellow and dry with age, Only a date recorded Down at the ending page.
+Only a breath from the mountain, A song with the summer wed; Only the voice of a fountain, Only a dream that is dead.
+Only a faded morning, With a shadow falling through, Only a hint of warning-- A cloud in the far off blue.
+Only a word of parting Under a starlit sky; Only a tear that is starting, A long and a last good bye.
+Only a face of sorrow Turned to a vanished year-- Only a fern leaf, darling, Glued to the pages here.
+
+ A Dream.
+TO MY FATHER.
+ Listen, father, while I tell you of a dream I had last night; For it was so sweet my childhood home was painted in my sight. ’Twas the same old frame house, father, hidden by the same old trees, Apple, cherry, quince and locust, talking in the same old breeze.
+On the walk I found the cowslip, stolen from “The Old Ravine,” And the blue-bell, and the columbine--how near my heart they lean. Roses, red as any furnace flame, about me seemed to grow. Roses pink as maiden blushes, roses pure and white as snow.
+All around the yard I wandered, oh! so long I can not tell, Then I paused beneath the apple tree and drank from the old well. Through my veins I felt the water coursing like a happy thought, And a thousand recollections to my memory then it brought.
+Recollections rushing to me swifter than an angel’s wing, Recollections slipping from me as a pearl slips from a string. Recollections that transfigured me into a little child, And the halo shed around me was my father’s happy smile.
+It was such a pretty picture Fancy held before my view, I will turn the magic lantern so that you may see it, too. It is springtime and the sugar trees have pitched their shady tent, Tiny leaves like tiny parasols reach toward the firmament.
+Restless swings a childish figure to and fro upon the gate, Some one’s coming down the highway--’tis for him she there doth wait. Ah! you recognize the picture, I can tell it by your smile; You have recognized the sugar trees, and recognized your child.
+Through the pasture now we’re strolling, looking down the avenue, See you not another picture? Yes; the figures there are two. Mother sits upon the portico her knitting in her hand, And my brother talks beside her of that wild and Western land
+Where he raced his Indian ponies and lassoed the buffaloes Oh, it is a perfect wonderland!--this country that he knows. But we will not interrupt them; for they do so happy seem-- So we turn aside and leave them wandering on as in a dream.
+Then I led you up the hillside and we sat upon the “mound.” Oh! there never was before or since so pretty a view spread ’round. Just below, the tranquil water of the clear pond seemed to win Every cloud that floated over, and the heavens lay within.
+Then the meadow, where the clover bloomed, and where you stacked the hay, Like a field within a picture book, before us there it lay; Then beyond, the barn and orchard, and the valley that I love-- Oh! it all seemed like a painting let down by the Hand above.
+But a thought came rushing to me of a fairy that you know; For she lived there in the valley and her name it was Echo. So I laughed and called unto her just as loud as I could call, But the voice that she threw back to me was not a child’s at all.
+No; it was a woman’s voice; I awoke then with a start, And I found the king beside me that dethroned you in my heart. Then a tear fell on the pillow, not a briny, bitter tear, Why? you ask--because the dream was gone that I have copied here.
+
+ Those Soft Airs She Played.
+TO M. B. S.
+ Those soft airs she played--through my mem’ry they glide Like a cloud-shadow crossing the plain; The sun follows often, the wind at his side, Then a whisper that never the roses denied, And a sound like a light fall of rain.
+Grander music she plays--music weird and sublime, Thunder toned, like the sound of the sea, That rolleth away like the surges of time; But, to quicken my thoughts and to sweeten my rhyme, She always played soft airs for me.
+Faint whispers that blend with the deep forest’s sound, From which a wild fawn would not flee, And sweet as the brook that the summer has found, When singing its song soft and glad underground, And carrying its heart to the sea....
+A movement then mingles like those that are heard When the trees toss their shade to the eaves; A pause and a tremble, as of a sweet word, Or the dream-haunted wing of a night-hidden bird That is shaking the dew from the leaves.
+Then silence, that even a word would profane-- Silence, holding some thoughts heaven-born, That only her fingers a moment can chain; Up, up to the skies they have wandered again, Like a prayer holy spoken at morn.
+Those soft airs she played in the dim lighted room, With her heart in the past far away-- Ah, what would I give if to-night, through the gloom, Along with the budding and bursting of bloom, They now past my window would stray.
+Alas! vain the thought, and as vain sounds the sigh, Long distance my wish has delayed; But we sit in the twilight--my mem’ry and I-- And listen and linger, we scarcely know why, Unless for those soft airs she played.
+
+ To Albert.
+ Thou art going from us, Albert, Going far away from me, Where I can not hear thy prattle, And thy face I can not see.
+Back into the Southern country, Thou art going--there to roam, Where my heart began its singing-- In the old Kentucky home.
+Lonely all the days will linger, When I miss your little face; Shadows gray, from out the hours, All the sunbeams soon will chase.
+Dim will seem the sunny window, Where the pansy blossom grows, And no restless little fingers Will disturb the opening rose.
+Soon the playthings will be missing, Soon they gathered up must be-- Thou art going from us, Albert, Going far away from me.
+Soon the little boy that vexed me, When I tried to read and write, Will be gone. No one will listen When I sing my songs at night.
+Soon the halls will lose their echo, And the yard grow silent, too, And the pretty face will vanish, With those wondrous eyes of blue.
+So good-bye, my little darling; All these tears have been for thee-- Thou art going from us, Albert, Going far away from me.
+
+ The Reunion of the Flowers.
+ A few of the springtime flowers, And the summer blossoms sweet, Agreed, at the early autumn, In a locust grove to meet,
+And there to hold communion, By the light of the setting sun, And each relate or mention Some kind act they had done.
+And he whose deed was noblest Should, at the close of day, Be colonel of the regiment, And lead the ranks away.
+So, one by one I watched them Assemble where the trees Had lowered their limbs to listen And halted every breeze.
+A Rose in the richest satin, With a bud to her bonnet tied, Was first to break the silence That reigned on every side.
+“I lived with a lovely lady, In a handsome house of brick, And went with her each morning, To wait upon the sick.
+“I’ve leaned beside the pillows, Where wounded soldiers lay, And I wept at the funeral service, Of an orphan child to-day.”
+“I bloomed in an humble garden, Where an old man used to look,” Said the Johnquil, “ere the snow-drift His window-sill forsook.”
+“A poor bee shivered homeward One night,” the Tulip said, “Fell through my scarlet curtains, And died upon my bed.”
+“I looked in at a window, And made two lovers kiss,” The Pansy owned, and laughing Said it was not amiss.
+“I went into a palace,” The Lily then replied, “And held the veil that evening Of a happy-hearted bride.”
+“I sweetened the room of a poet, And o’er his coffin wept,” The Heliotrope low whispered, And back in the shadows crept.
+“O, that was very noble,” Exclaimed the Golden-rod, “I tried to gather the sunshine And hold it up to God.
+“To make the world less sober, To make the heart less sad, Was all the mission, brethren, Your humble servant had.”
+*
+
+
+ *
+
+
+ *
+
+
+ *
+
+
+ *
+In the ranks of that floral army That marched at the close of day, That sunny-featured blossom Was the one that led the way.
+
+ Children of the Brain.
+ Our thoughts--the children of the brain-- Are born for us some good to gain, And if we rear them just and right, They’ll seek the day instead of night. Long in the harvest field they’ll work-- Brave laborers that do not shirk, And they will reap just what we sow, As written you will find below.
+*
+
+
+ *
+
+
+ *
+
+
+ *
+
+
+ *
+I sent them forth into the world, Some thoughts that long my heart impearled. Their countenance was of a light That beamed upon me through the night. The features were like mine, perchance, With part of heaven hid in the glance; And the apparel that they wore My fingers long had labored o’er.
+A vine ran through the tunic’s hem That wilted not though broke the stem, And all the undergarments showed The time and care on them bestowed. Some of the moonbeams took a place Within the frill about the face; And, stars that bright as Lyra glowed, The overdress and mantle showed.
+The sandals that encased the feet Were fashioned for a journey fleet, And pinions, like a sail unfurled, I saw outspread before the world, With promises to come again And glorify the parent pen. I tore apart the silken skein And let them drift from out my brain.
+Where are they tarrying to-night? I see, around a fireside bright, One looking in a friendly face. How tender seems the warm embrace! Now close, close to this loved one’s lip ’Tis held, and for companionship Is nestling down into the heart, And of the same becomes a part.
+Some beckon me across the seas, Are favored by a foreign breeze, Are traveling where I can not go, Are learning what I ne’er shall know, Are praised, perhaps, with offered funds, While with them glad the newsboy runs; Are welcomed in some palace home, And ne’er allowed henceforth to roam.
+The one that I had loved the best A journey took into the West, And by a friend it chanced to meet Sent home a prairie flower sweet. Two stronger ones, the North that sought, Some words of love back home have brought; They brighten up the lonesome hearth, And praise the pen that gave them birth.
+And one crept down in Cupid’s coat To read a dainty perfumed note, And afterward came back to tell How sweetly rang the wedding bell. Another, with as brave a face, Had with a rival run a race; It did its best, to gain had tried, But came back home, alas! and died.
+The tenderest one, perhaps, of all, Upon a critic chanced to call; He hooted at the homespun gown, And bent his bitter, blackest frown Upon the waif, and read its fate Where winter winds could congregate. I thought I heard its funeral bell, But where the grave is I’ll not tell.
+I do not know the others’ fate, A pauper’s grave may them await. The fabric that my hands embossed, While Fancy figured high the cost, May trail, to-night, some filthy street Where sin and shame together meet, And the loved strains from my heart’s lyre Be sung around an outcast’s fire.
+They may attain a higher sphere, Where flows the penitential tear, And point the wanderers they find Upon the paths that heavenward wind. God grant their mission may be such! That all sad hearts they’ll lightly touch, And spread upon the ugly wound A balm to make them whole and sound.
+
+ A Lily of the Valley.
+ Just a breath of fragrance On the breeze--alas! A lily of the valley Dying in the grass.
+Just a recollection Followed with a sigh; Just a teardrop dripping Down the cheek, and why?
+MAY 16, 1887.
+
+ Lines to the Old Year.
+ Farewell, Old Year, the shades are growing deep, Thou art dethroned and vanishes your power; I sit alone with folded hands and weep, While close the minutes chase our parting hour.
+Your lips are dumb, and with a feeble hand You turn the pages of the year’s great book, While my wet cheeks are with an odor fanned, Like that the summer breeze from violets shook.
+I gaze into the volume. Undiscerned Some scenes advance, like phantoms hurry by, And thoughts look from the leaves now swifter turned As meaningless as would a stranger’s eye.
+I meet familiar names in Death’s long list, I pass new graves where tears have thawed the snows, I search my heart lest something I have missed, But in its garden find no dying rose.
+Thou hast been kind to me; no marble urn Chills the warm pulses of my heart to night, And from the thought my pen doth gladly turn To offer homage ere you take your flight.
+Bright recollections thou hast left instead, That twinkle in the firmament of thought, And lover-like I sit and gaze o’erhead Upon the starry gems thy hand has wrought.
+Far down the by-path of a summer dream, Glad voices call and fingers beckon me-- An oar dips music from a moonlit stream, Where in thy prime I sailed, Old Year, with thee
+And now, e’en in the shadow of thy hearse, Ungarland save with fated mistletoe, While midnight fiends the hours call like a curse, You clasp my hand and smiling on me--go.
+Farewell! A friend thou’st been to me, and I Shall wander through the burial ground of years, And often with an introspective eye Search out thy grave and water it with tears.
+
+ Why I Smile.
+ I smile because the world is fair; Because the sky is blue. Because I find, no matter where I go, a friend that’s true.
+I smile because the earth is green, The sun so near and bright, Because the days that o’er us lean Are full of warmth and light.
+I smile as past the yards I go, Though strange and new the place, The violets seem my step to know, And look up in my face.
+I smile to hear the robin’s note. He comes so newly dressed, A love song throbbing in his throat, A rose pinned on his breast.
+And so the truth I’ll not disown, Because the spring is nigh; My heart has somewhat better grown, And I forget to sigh.
+MT. VERNON, ILL.
+
+ My Phantom Ships.
+ I heard the plunging of the sea Like a wild steed pursuing me, And dark and frothy was the main; But suddenly a checking rein Seemed drawn, and panting on the shore, I heard the billows’ frightful roar.
+My dream betook a different hue, Caught from the ocean’s changeful blue. A door was opened in my heart, From which I saw each fear depart, And there from some far, happy isle, The sea breeze came as would a smile
+Oh! it was sweet to wander there, The sky o’erhanging still and bare. A cloud, in some soft raiment dressed, Leaned like a bride upon the west; The sea-gulls floated on the breeze Like blossoms blown from April trees.
+The wind just kissed by summer’s mouth Walked like a lover from the South; And jewels from a sunbeam’s hand Were sprinkled on the snowy sand; The breakers ran along the beach, And scattered shells within my reach.
+I stooped and held one to my ear, And listened as to voices dear; And then methought far, far away, Where purple mists made dim the day, I saw the motion of a ship That from the heavens seemed to slip.
+On, on it came with fluttering sail, Strong blew the steady ocean gale. The waves were running thick and high, And kept the ship close to the sky; It seemed a picture on the sea, “A picture,” thought I, “can it be?”
+But from the waves the wind withdrew And brought the sailors close to view. The pilot pointed to the shore, And then to gems and shining ore Piled up against the good ship’s side That leaned so brave upon the tide.
+Oh! there were silks of colors soft, And plumes that proudly waved aloft; And there were jewels, bags of gold, From caves o’er which the water rolled, And coral crowns--gifts of the sea-- And all of this for whom? _For me._
+With open arms to meet the ship I ran, and proudly curled my lip. No one should know from whence it came, And none should share my wealth and fame. My gowns of silk with me should roam, My gold I’d closet at my home.
+Ah, me! I knew not what I thought. The ship was by a whirlwind caught. It staggered out upon the sea-- I heard the sailors cursing me; A flash fell from the lowering night, And down the brave ship sank from sight.
+*
+
+
+ *
+
+
+ *
+
+
+ *
+
+
+ *
+I walk again upon the sands With aching heart and empty hands. Sometimes a piece of broken mast Upon the tide goes sailing past; And, where the sun so friendly shone, A shadow on the sand has grown.
+A strange and half-distracted dream Comes just behind the sea-gull’s scream. The sinking ship again I see, The sailors hurl their oaths at me, And like an echo from the grave Is the sad song of wind and wave.
+But somewhere, under bluer skies, Another ship in harbor lies. Its flags are flying free and fast, The sails are white, and strong the mast. ’Tis loaded, too, with precious freight, And for the same I stand and wait.
+When it comes home I’ll happy be, And all share my joy with me. My wines at other feasts I’ll pour, The sorrowful shall smile--yea, more, The poor shall not be turned away, And one and all shall bless the day.
+PABLO BEACH, FLA., January, 1887.
+
+ The Weight of a Word.
+ Have you ever thought of the weight of a word That falls in the heart like the song of a bird, That gladdens the springtime of memory and youth And garlands with cedar the banner of Truth, That moistens the harvesting spot of the brain Like dew-drops that fall on the meadow of grain Or that shrivels the germ and destroys the fruit And lies like a worm at the lifeless root?
+I saw a farmer at break of day Hoeing his corn in a careful way; An enemy came with a drouth in his eye, Discouraged the worker and hurried by. The keen-edged blade of the faithful hoe Dulled on the earth in the long corn row; The weeds sprung up and their feathers tossed Over the field and the crop was--_lost_.
+A sailor launched on an angry bay When the heavens entombed the face of day The wind arose like a beast in pain, And shook on the billows his yellow name, The storm beat down as if cursed the cloud, And the waves held up a dripping shroud-- But, hark! o’er the waters that wildly raved Came a word of cheer and he was--_saved_.
+A poet passed with a song of God Hid in his heart like a gem in a clod. His lips were framed to pronounce the thought, And the music of rhythm its magic wrought; Feeble at first was the happy trill, Low was the echo that answered the hill, But a jealous friend spoke near his side, And on his lips the sweet song--_died_.
+A woman paused where a chandelier Threw in the darkness its poisoned spear; Weary and footsore from journeying long, She had strayed unawares from the right to the wrong. Angels were beck’ning her back from the den, Hell and its demons were beck’ning her in; The tone of an urchin, like one who forgives, Drew her back and in heaven _that_ sweet word--_lives_.
+Words! Words! They are little, yet mighty and brave; They rescue a nation, an empire save; They close up the gaps in a fresh bleeding heart That sickness and sorrow have severed apart, They fall on the path, like a ray of the sun, Where the shadows of death lay so heavy upon; They lighten the earth over our blessed dead, A word that will comfort, oh! leave not unsaid.
+
+ An Apology.
+TO J. D. N.
+ My pen is mournful--you ask why When all the time my face is glad, And though contentment lights my eye, You say my verse is strangely sad; So serious that e’en the strain You can detect, as on the pane You know the patter in the night, Although the cloud is hid from sight.
+You asked me once to change my tone, “To trim my pen for gayer verse,” And, laughing, said ’twas like a moan That followed close behind a hearse. My muse was saddened at the stroke, And in my heart new chords awoke, Chords that vibrate like the bell That tolled one day a funeral knell.
+I would not have them otherwise; I claim my caged bird’s song more sweet Because ’tis sad, than one which tries The echo merrier to repeat. How quickly I would turn aside, And soon forget a boist’rous tide, To hear the brooklet, sad and low, Sing in a minor key I know.
+I’ll not attempt Hood’s humorous style, I do not crave John Gilpin’s ride. It was my custom, when a child, To linger at my mother’s side When she would sing “The Old Church Yard,” That told how soft and green its sward. “The angels that watched ’round the tomb” Crept, as she sang, into our room.
+’Tis said the clown will never jest When folded is the showman’s tent; That she who pathos renders best Has loudest laugh in merriment. Thus, _vice versa_ is the theme, Or, “all things are not what they seem.” Sadness to Joy is as a twin, One rules without, one rules within.
+My life is full of love and joy, My heart-strings, though, with sadness tuned. Then do not ask me to destroy The mournful measures; it would wound My Muse--the playmate of my youth-- Who taught me early many a truth From others’ woes, and bid me think While she supplied the pen and ink.
+
+ Speak Kindly.
+ Speak kindly in the morning, When you are leaving home, And give the day a lighter heart Into the week to roam. Leave kind words as mementoes To be handled and caressed, And watch the noon-time hour arrive In gold and tinsel dressed.
+Speak kindly in the evening! When on the walk is heard A tired footstep that you know, Speak one refreshing word, And see the glad light springing From the heart into the eye, As sometimes from behind a cloud A star leaps to the sky.
+Speak kindly to the children That crowd around your chair, The tender lips that lean on yours Kiss, smooth the flaxen hair; Some day a room that’s lonesome The little ones may own, And home be empty as the nest From which the birds have flown.
+Speak kindly to the stranger Who passes through the town, A loving word is light of weight-- Not so would prove a frown. One is a precious jewel The heart would grasp in sleep, The other like a demon’s gift The memory loathes to keep.
+Speak kindly to the sorrowful Who stand beside the dead, The heart can lean against a word Though thorny seems the bed. And oh, to those discouraged Who faint upon the way, Stop, stop--if just a moment-- And something kindly say.
+Speak kindly to the fallen ones, Your voice may help them rise; A word right-spoken oft unclasps The gate beyond the skies. Speak kindly, and the future You’ll find God looking through! Speak of another as you’d have Him always speak of you.
+
+ Those Willing Hands
+IN MEMORY OF MISS FANNIE STEVENS.
+ Those willing hands--they’re still to-night-- The life has from them fled; They’re folded from the longing sight, So cold and pale and dead. The busy veins have idle grown, Like a long famished rill, That once in such an eager tone Called soft from hill to hill.
+Dear hands, I’ve felt their pressure oft, In a sad time gone by; They moved about the years as soft As clouds move through the sky. They screened the rainstorm from my heart, And let the moonlight in, And showed, while shadows fell athwart, Tracks where the sun had been.
+They were such willing, willing hands, They stilled the mournful tear, Unwound the pattern of God’s plans, And made his problems clear. They did not reach to high-grown bowers, Where rarest blossoms bloom; But culled the blessed, purer flowers, And bore them to the tomb.
+Poor hands--they are so still and white, The rose that shared their rest Is shrinking from the long, dark night, And falling on her breast. The wreath is wilted on the mound Where long the sunshine stands, But angels have the sleeper found, And clasped those willing hands.
+
+ Look Into the Past.
+ Look into the past--there are pictures Detaining the sunshine of May, All aquiver with light they turn to the sight, Like a flower that faces the day. How restful the hillsides and shady! The brook like a song passeth by, And the trespassing moon floats about through noon, Like a bubble blown up in the sky.
+Look into the past! It is happy; Its voices are voices of youth; There is no idle jest to disturb the heart’s rest, And its banners wear mottoes of truth; Look back at the glad, happy faces That walk with our childhood abreast, And show me to-day, though it be miles away, A spot that can offer such rest.
+Say not that the years long escaping, Show graves of a cankering joy. Because we have found that new pleasures abound, Must we cast off our first childish toy? Because some old love has disturbed us, And filled a lost hour full of gloom, Are we never to go, when the sun lieth low, And stand by the neglected tomb?
+
+ A Little Face.
+TO “C.”
+ A little face to look at, A little face to kiss; Is there anything, I wonder, That’s half so sweet as this?
+A little cheek to dimple When smiles begin to grow A little mouth betraying Which way the kisses go.
+A slender little ringlet, A rosy little ear; A little chin to quiver When falls the little tear.
+A little face to look at, A little face to kiss; Is there anything, I wonder, That’s half so sweet as this?
+A little hand so fragile All through the night to hold Two little feet so tender To tuck in from the cold.
+Two eyes to watch the sunbeam That with the shadow plays-- A darling little baby To kiss and love always.
+
+ The Canary and Rose.
+ A lovely tea rose, in a new autumn gown, Looked in at the window one day, And said with a scorn: “’Tis a beautiful morn; But ugly enough is your lay. Do you never grow weary of singing your songs Shut up in that prison of brass? _I_ do not admire Your out of tune lyre, And none seem to listen who pass.
+“Last night as I beaded my bodice with dew, And shook the perfume from the lace, There came to the fence Such a beautiful prince, And said, looking into my face: “Too lovely thou art to live here so obscure To-morrow with me thou shalt roam.’ So he’s coming to-day, And will bear me away The queen of his heart and his home.”
+Now, the dear little songster was pruning her wing That had borrowed the sun’s yellow ray, And shaking a note In her quivering throat, Replied in an indifferent way: “My songs will not trouble you long. I discern This breeze is forerunning a storm, And should he delay (This prince) on the way, You must seek other quarters more warm.”
+“Do you think,” said the rose, with a tremulous tone, “The rain would disfigure my face?” But e’en as she spoke In the sky there awoke A wind that demolished the vase.
+With features all pale and distorted she cried, Still clinging up close to the glass. “Cry for help.” Said the bird, “They will hear not a word, For none seem to listen who pass.”
+There’s a moral concealed in the little bird’s throat That never her song will disclose; But oft when the cloud For the sun makes a shroud She thinks of the beautiful rose, Who died with a coronet touching her brow, Crushed from sight by the hurrying throng, And she smiles at a prince, Who yet leans on the fence And hears nothing else but her song.
+
+ A Sigh or a Tear.
+ A sigh or a tear Is all you may fear, As you watch the sweet-faced summer go, And the throng of memories that you know. A sigh for the star that stood in the West, Now sinking down with the sun to rest, For the smiles that live in an absent face Like the blossoms of love in the heart’s clear vase. A sigh or a tear Is all you may fear.
+A sigh or a tear Is all you may fear When you sit in the dusk with a new cigar, And touch some chord on the old guitar. A tear for the girl that was good and true, For the songs of love--the letters, too,
+And the ribbon around the roses tied That long ago in the drawer died. A sigh or a tear Is all you may fear.
+A sigh or a tear Is all you may fear When you raise the lid to the little chest And find what a mother’s heart loves best, A broken toy, a half-worn shoe, Some little dresses of pink and blue, The blocks that builded such marvelous towers, A golden curl, and some withered flowers. A sigh or a tear Is all you may fear.
+A sigh or a tear Is all you may fear When you gaze in the tomb of the dear dead past, Where the shadows of sunshine yet are cast. A sigh for the rose, though bleached and dried, That close to the loved one lived and died, For the voice that is still--once dear to thee-- For the face that is gone--ah me! ah me! A sigh or a tear Is all you may fear.
+
+ Snow-Flakes.
+ See the early snow-flakes! Softly they descend, Like an orchard blossom Scattered by the wind.
+Here and there they’re flying Over all the trees, High above them swarming Like white-winged bees.
+Faster still they’re whirling, Dancing into sight, Like a troop of fairies When the moon is light.
+Tripping down the highway In a reckless gait, Falling like a feather Without sound or weight.
+On the distant churchyard Over graves unkept, Where the leaves have drifted And the clouds have wept.
+Little band of angels Doing only good, Making white the meadow And the lonely wood.
+Greeting with light kisses All they chance to meet, Leaving shining footprints All about the street.
+Little winter children Full of life and fun-- Oh! I love the snow-flakes, Love them every one.
+
+ A Footprint.
+ A sweet song spoke to me one day, Behind a prayer that passed my way, Yet neither would for me delay The upward flight. I searched and found a footprint where The song had tarried; but the prayer Had left no trace on earth or air.
+Straight from the heart it went to God The song remained to smooth the clod, And lay a flower upon the sod. O, envied right! If but one song of mine could chase Some sorrow from the heart and face I know in Heaven ’twould find a place.
+
+
+End of the Project Gutenberg EBook of Katydid's Poems, by Mrs. J. I. McKinney
+*** END OF THIS PROJECT GUTENBERG EBOOK KATYDID'S POEMS ***
+***** This file should be named 43612-0.txt or 43612-0.zip ***** This and all associated files of various formats will be found in: http://www.gutenberg.org/4/3/6/1/43612/
+Produced by David Garcia, Matthew Wheaton and the Online Distributed Proofreading Team at http://www.pgdp.net (This file was produced from images generously made available by the Library of Congress)
+ Updated editions will replace the previous one--the old editions will be renamed.
+Creating the works from public domain print editions means that no one owns a United States copyright in these works, so the Foundation (and you!) can copy and distribute it in the United States without permission and without paying copyright royalties.
+Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm concept and trademark.
+Project Gutenberg is a registered trademark, and may not be used if you charge for the eBooks, unless you receive specific permission.
+If you do not charge anything for copies of this eBook, complying with the rules is very easy.
+You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research.
+They may be modified and printed and given away--you may do practically ANYTHING with public domain eBooks.
+Redistribution is subject to the trademark license, especially commercial redistribution.
+
+*** START: FULL LICENSE ***
+THE FULL PROJECT GUTENBERG LICENSE PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+To protect the Project Gutenberg-tm mission of promoting the free distribution of electronic works, by using or distributing this work (or any other work associated in any way with the phrase "Project Gutenberg"), you agree to comply with all the terms of the Full Project Gutenberg-tm License (available with this file or online at http://gutenberg.org/license).
+ Section 1.
+General Terms of Use and Redistributing Project Gutenberg-tm electronic works
+1.A.
+By reading or using any part of this Project Gutenberg-tm electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement.
+If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project Gutenberg-tm electronic works in your possession. If you paid a fee for obtaining a copy of or access to a Project Gutenberg-tm electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+1.B.
+"Project Gutenberg" is a registered trademark.
+It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement.
+There are a few things that you can do with most Project Gutenberg-tm electronic works even without complying with the full terms of this agreement.
+See paragraph 1.C below.
+There are a lot of things you can do with Project Gutenberg-tm electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg-tm electronic works.
+See paragraph 1.E below.
+1.C.
+The Project Gutenberg Literary Archive Foundation ("the Foundation" or PGLAF), owns a compilation copyright in the collection of Project Gutenberg-tm electronic works.
+Nearly all the individual works in the collection are in the public domain in the United States.
+If an individual work is in the public domain in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed.
+Of course, we hope that you will support the Project Gutenberg-tm mission of promoting free access to electronic works by freely sharing Project Gutenberg-tm works in compliance with the terms of this agreement for keeping the Project Gutenberg-tm name associated with the work.
+You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg-tm License when you share it without charge with others.
+1.D.
+The copyright laws of the place where you are located also govern what you can do with this work.
+Copyright laws in most countries are in a constant state of change.
+If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg-tm work.
+The Foundation makes no representations concerning the copyright status of any work in any country outside the United States.
+1.E.
+Unless you have removed all references to Project Gutenberg:
+1.E.1.
+The following sentence, with active links to, or other immediate access to, the full Project Gutenberg-tm License must appear prominently whenever any copy of a Project Gutenberg-tm work (any work on which the phrase "Project Gutenberg" appears, or with which the phrase "Project Gutenberg" is associated) is accessed, displayed, performed, viewed, copied or distributed:
+This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever.
+You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org/license
+1.E.2.
+If an individual Project Gutenberg-tm electronic work is derived from the public domain (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges.
+If you are redistributing or providing access to a work with the phrase "Project Gutenberg" associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+1.E.3.
+If an individual Project Gutenberg-tm electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed by the copyright holder.
+Additional terms will be linked to the Project Gutenberg-tm License for all works posted with the permission of the copyright holder found at the beginning of this work.
+1.E.4.
+Do not unlink or detach or remove the full Project Gutenberg-tm License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg-tm.
+1.E.5.
+Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or immediate access to the full terms of the Project Gutenberg-tm License.
+1.E.6.
+You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form.
+However, if you provide access to or distribute copies of a Project Gutenberg-tm work in a format other than "Plain Vanilla ASCII" or other format used in the official version posted on the official Project Gutenberg-tm web site (www.gutenberg.org), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original "Plain Vanilla ASCII" or other form.
+Any alternate format must include the full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+1.E.7.
+Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg-tm works unless you comply with paragraph 1.E.8 or 1.E.9.
+1.E.8.
+You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg-tm electronic works provided that
+- You pay a royalty fee of 20% of the gross profits you derive from the use of Project Gutenberg-tm works calculated using the method you already use to calculate your applicable taxes.
+The fee is owed to the owner of the Project Gutenberg-tm trademark, but he has agreed to donate royalties under this paragraph to the Project Gutenberg Literary Archive Foundation.
+Royalty payments must be paid within 60 days following each date on which you prepare (or are legally required to prepare) your periodic tax returns.
+Royalty payments should be clearly marked as such and sent to the Project Gutenberg Literary Archive Foundation at the address specified in Section 4, "Information about donations to the Project Gutenberg Literary Archive Foundation."
+- You provide a full refund of any money paid by a user who notifies you in writing (or by e-mail) within 30 days of receipt that s/he does not agree to the terms of the full Project Gutenberg-tm License.
+You must require such a user to return or destroy all copies of the works possessed in a physical medium and discontinue all use of and all access to other copies of Project Gutenberg-tm works.
+- You provide, in accordance with paragraph 1.F.3, a full refund of any money paid for a work or a replacement copy, if a defect in the electronic work is discovered and reported to you within 90 days of receipt of the work.
+- You comply with all other terms of this agreement for free distribution of Project Gutenberg-tm works.
+1.E.9.
+If you wish to charge a fee or distribute a Project Gutenberg-tm electronic work or group of works on different terms than are set forth in this agreement, you must obtain permission in writing from both the Project Gutenberg Literary Archive Foundation and Michael Hart, the owner of the Project Gutenberg-tm trademark.
+Contact the Foundation as set forth in Section 3 below.
+1.F.
+1.F.1.
+Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread public domain works in creating the Project Gutenberg-tm collection.
+Despite these efforts, Project Gutenberg-tm electronic works, and the medium on which they may be stored, may contain "Defects," such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.
+1.F.2.
+LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right of Replacement or Refund" described in paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg-tm trademark, and any other party distributing a Project Gutenberg-tm electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees.
+YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH 1.F.3.
+YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.
+1.F.3.
+LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this electronic work within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the person you received the work from.
+If you received the work on a physical medium, you must return the medium with your written explanation.
+The person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a refund.
+If you received the work electronically, the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund.
+If the second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.
+1.F.4.
+Except for the limited right of replacement or refund set forth in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+1.F.5.
+Some states do not allow disclaimers of certain implied warranties or the exclusion or limitation of certain types of damages. If any disclaimer or limitation set forth in this agreement violates the law of the state applicable to this agreement, the agreement shall be interpreted to make the maximum disclaimer or limitation permitted by the applicable state law.
+The invalidity or unenforceability of any provision of this agreement shall not void the remaining provisions.
+1.F.6.
+INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg-tm electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg-tm electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project Gutenberg-tm work, (b) alteration, modification, or additions or deletions to any Project Gutenberg-tm work, and (c) any Defect you cause.
+ Section
+2.
+Information about the Mission of Project Gutenberg-tm
+Project Gutenberg-tm is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers.
+It exists because of the efforts of hundreds of volunteers and donations from people in all walks of life.
+Volunteers and financial support to provide volunteers with the assistance they need, are critical to reaching Project Gutenberg-tm's goals and ensuring that the Project Gutenberg-tm collection will remain freely available for generations to come.
+In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project Gutenberg-tm and future generations. To learn more about the Project Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections 3 and 4 and the Foundation web page at http://www.pglaf.org.
+ Section 3.
+Information about the Project Gutenberg Literary Archive Foundation
+The Project Gutenberg Literary Archive Foundation is a non profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service.
+The Foundation's EIN or federal tax identification number is 64-6221541.
+Its 501(c)(3) letter is posted at http://pglaf.org/fundraising.
+Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state's laws.
+The Foundation's principal office is located at 4557 Melan Dr. S. Fairbanks, AK, 99712., but its volunteers and employees are scattered throughout numerous locations.
+Its business office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email business@pglaf.org.
+Email contact links and up to date contact information can be found at the Foundation's web site and official page at http://pglaf.org
+For additional contact information: Dr. Gregory B. Newby Chief Executive and Director gbnewby@pglaf.org
+ Section 4.
+Information about Donations to the Project Gutenberg Literary Archive Foundation
+Project Gutenberg-tm depends upon and cannot survive without wide spread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine readable form accessible by the widest array of equipment including outdated equipment.
+Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.
+The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States.
+Compliance requirements are not uniform and it takes a considerable effort, much paperwork and many fees to meet and keep up with these requirements.
+We do not solicit donations in locations where we have not received written confirmation of compliance.
+To SEND DONATIONS or determine the status of compliance for any particular state visit http://pglaf.org
+While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition against accepting unsolicited donations from donors in such states who approach us with offers to donate.
+International donations are gratefully accepted, but we cannot make any statements concerning tax treatment of donations received from outside the United States.
+U.S. laws alone swamp our small staff.
+Please check the Project Gutenberg Web pages for current donation methods and addresses.
+Donations are accepted in a number of other ways including checks, online payments and credit card donations. To donate, please visit: http://pglaf.org/donate
+ Section 5.
+General Information About Project Gutenberg-tm electronic works.
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm concept of a library of electronic works that could be freely shared with anyone.
+For thirty years, he produced and distributed Project Gutenberg-tm eBooks with only a loose network of volunteer support.
+ Project Gutenberg-tm eBooks are often created from several printed editions, all of which are confirmed as Public Domain in the U.S. unless a copyright notice is included.
+Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.
+ Most people start at our Web site which has the main PG search facility:
+http://www.gutenberg.org
+This Web site includes information about Project Gutenberg-tm, including how to make donations to the Project Gutenberg Literary Archive Foundation, how to help produce our new eBooks, and how to subscribe to our email newsletter to hear about new eBooks.
